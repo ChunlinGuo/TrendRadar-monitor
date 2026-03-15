@@ -1427,63 +1427,81 @@ def _process_standalone_section(
 
         current_batch += "\n"
 
-    # 处理 RSS 源
+    # 处理 RSS 源（分类展示：原创 + 转发）
     for feed in rss_feeds:
         feed_name = feed.get("name", feed.get("id", ""))
         items = feed.get("items", [])
         if not items:
             continue
 
-        # RSS 源标题
-        feed_header = ""
+        # 分类条目：原创 vs 转发 vs 图片帖
+        originals = []
+        retweets = []
+        skipped = 0
+        for item in items:
+            title = item.get("title", "")
+            if not title or title.startswith("[无标题]"):
+                skipped += 1
+                continue
+            if "RT by @" in title or ("由 @" in title and "转发" in title):
+                retweets.append(item)
+            else:
+                originals.append(item)
+
+        # 限制展示数量
+        max_originals = 8
+        max_retweets = 5
+        display_originals = originals[:max_originals]
+        display_retweets = retweets[:max_retweets]
+
+        # 构建统计信息
+        stats_parts = []
+        if originals:
+            stats_parts.append(f"原创 {len(originals)} 条")
+        if retweets:
+            stats_parts.append(f"转发 {len(retweets)} 条")
+        if skipped:
+            stats_parts.append(f"图片 {skipped} 条")
+        stats_str = " · ".join(stats_parts)
+
+        # 构建整个 feed 区块
+        feed_block = ""
         if format_type == "feishu":
-            feed_header = f"━━━━━━━━━━━━━━━━\n📰 **{feed_name}** ({len(items)} 条)\n\n"
-        elif format_type in ("wework", "bark"):
-            feed_header = f"**{feed_name}** ({len(items)} 条):\n\n"
-        elif format_type == "telegram":
-            feed_header = f"{feed_name} ({len(items)} 条):\n\n"
-        elif format_type == "ntfy":
-            feed_header = f"**{feed_name}** ({len(items)} 条):\n\n"
-        elif format_type == "dingtalk":
-            feed_header = f"**{feed_name}** ({len(items)} 条):\n\n"
+            feed_block += f"━━━━━━━━━━━━━━━━\n**【{feed_name}】**{stats_str}\n\n"
         elif format_type == "slack":
-            feed_header = f"*{feed_name}* ({len(items)} 条):\n\n"
+            feed_block += f"*{feed_name}* ({stats_str}):\n\n"
+        else:
+            feed_block += f"**{feed_name}** ({stats_str}):\n\n"
 
-        # 构建第一条 RSS
-        first_item_line = ""
-        if items:
-            first_item_line = _format_standalone_rss_item(items[0], 1, format_type, timezone)
+        # 原创部分
+        if display_originals:
+            if format_type == "feishu":
+                feed_block += "▍重点原创\n"
+            for idx, item in enumerate(display_originals, 1):
+                feed_block += _format_rss_item_compact(item, idx, format_type, timezone, is_retweet=False)
+            if len(originals) > max_originals:
+                feed_block += f"  ...等共 {len(originals)} 条\n"
+            feed_block += "\n"
 
-        # 原子性检查
-        feed_with_first = feed_header + first_item_line
-        test_content = current_batch + feed_with_first
+        # 转发部分
+        if display_retweets:
+            if format_type == "feishu":
+                feed_block += "▍重要转发\n"
+            for item in display_retweets:
+                feed_block += _format_rss_item_compact(item, 0, format_type, timezone, is_retweet=True)
+            if len(retweets) > max_retweets:
+                feed_block += f"  ...等共 {len(retweets)} 条\n"
+            feed_block += "\n"
 
+        # 添加到当前批次
+        test_content = current_batch + feed_block
         if len(test_content.encode("utf-8")) + len(base_footer.encode("utf-8")) >= max_bytes:
             if current_batch_has_content:
                 batches.append(current_batch + base_footer)
-            current_batch = base_header + section_header + feed_with_first
-            current_batch_has_content = True
-            start_index = 1
+            current_batch = base_header + section_header + feed_block
         else:
             current_batch = test_content
-            current_batch_has_content = True
-            start_index = 1
-
-        # 处理剩余条目
-        for j in range(start_index, len(items)):
-            item_line = _format_standalone_rss_item(items[j], j + 1, format_type, timezone)
-
-            test_content = current_batch + item_line
-            if len(test_content.encode("utf-8")) + len(base_footer.encode("utf-8")) >= max_bytes:
-                if current_batch_has_content:
-                    batches.append(current_batch + base_footer)
-                current_batch = base_header + section_header + feed_header + item_line
-                current_batch_has_content = True
-            else:
-                current_batch = test_content
-                current_batch_has_content = True
-
-        current_batch += "\n"
+        current_batch_has_content = True
 
     return current_batch, current_batch_has_content, batches
 
@@ -1591,6 +1609,76 @@ def _format_standalone_platform_item(item: Dict, index: int, format_type: str, r
 
     item_line += "\n"
     return item_line
+
+
+def _format_rss_item_compact(
+    item: Dict, index: int, format_type: str, timezone: str = "Asia/Shanghai",
+    is_retweet: bool = False,
+) -> str:
+    """紧凑格式化 RSS 条目 — 单行显示，适合客户阅读
+
+    Args:
+        item: RSS 条目，包含 title, url, published_at, author
+        index: 序号（转发时忽略）
+        format_type: 格式类型
+        timezone: 时区名称
+        is_retweet: 是否为转发条目
+
+    Returns:
+        格式化后的单行字符串
+    """
+    title = item.get("title", "")
+    url = item.get("url", "")
+    published_at = item.get("published_at", "")
+
+    # 转发清理前缀："RT by @user: content" 或 "由 @user 转发：content"
+    if is_retweet:
+        if "RT by @" in title:
+            colon_idx = title.find(":", title.find("RT by @"))
+            if colon_idx >= 0:
+                title = title[colon_idx + 1:].strip()
+        else:
+            for sep in ["转发：", "转发:"]:
+                if sep in title:
+                    title = title[title.find(sep) + len(sep):].strip()
+                    break
+
+    # 截断过长标题
+    max_title_len = 80
+    if len(title) > max_title_len:
+        title = title[:max_title_len] + "..."
+
+    # 简短时间
+    friendly_time = ""
+    if published_at:
+        friendly_time = format_iso_time_friendly(published_at, timezone, include_date=True)
+
+    if format_type == "feishu":
+        prefix = "·" if is_retweet else f"{index}."
+        if url:
+            line = f"{prefix} [{title}]({url})"
+        else:
+            line = f"{prefix} {title}"
+        if friendly_time:
+            line += f" <font color='grey'>({friendly_time})</font>"
+    elif format_type == "slack":
+        prefix = "•" if is_retweet else f"{index}."
+        if url:
+            line = f"  {prefix} <{url}|{title}>"
+        else:
+            line = f"  {prefix} {title}"
+        if friendly_time:
+            line += f" _{friendly_time}_"
+    else:
+        prefix = "·" if is_retweet else f"{index}."
+        if url:
+            line = f"  {prefix} [{title}]({url})"
+        else:
+            line = f"  {prefix} {title}"
+        if friendly_time:
+            line += f" ({friendly_time})"
+
+    return line + "\n"
 
 
 def _format_standalone_rss_item(
