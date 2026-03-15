@@ -117,6 +117,9 @@ rss:
     - id: "elon-musk-x"
       name: "Elon Musk (X/Twitter)"
       url: "https://nitter.net/elonmusk/rss"
+      fallback_urls:
+        - "https://nitter.poast.org/elonmusk/rss"
+        - "https://xcancel.com/elonmusk/rss"
       max_age_days: 2
 
     - id: "trump-truth-social"

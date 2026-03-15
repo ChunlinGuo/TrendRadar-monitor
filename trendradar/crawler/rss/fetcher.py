@@ -7,7 +7,7 @@ RSS 抓取器
 
 import time
 import random
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from typing import List, Dict, Optional, Tuple
 
 import requests
@@ -26,6 +26,7 @@ class RSSFeedConfig:
     max_items: int = 0          # 最大条目数（0=不限制）
     enabled: bool = True        # 是否启用
     max_age_days: Optional[int] = None  # 文章最大年龄（天），覆盖全局设置；None=使用全局，0=禁用过滤
+    fallback_urls: List[str] = field(default_factory=list)  # 备用 URL 列表，主 URL 失败时依次尝试
 
 
 class RSSFetcher:
@@ -126,9 +127,52 @@ class RSSFetcher:
         filtered_count = len(items) - len(filtered)
         return filtered, filtered_count
 
+    def _try_fetch_url(self, url: str, feed: RSSFeedConfig) -> Tuple[List[RSSItem], Optional[str]]:
+        """
+        尝试从单个 URL 抓取 RSS
+
+        Args:
+            url: RSS URL
+            feed: RSS 源配置（用于 feed_id/name 等元数据）
+
+        Returns:
+            (条目列表, 错误信息) 元组
+        """
+        response = self.session.get(url, timeout=self.timeout)
+        response.raise_for_status()
+
+        parsed_items = self.parser.parse(response.text, url)
+
+        # 限制条目数量（0=不限制）
+        if feed.max_items > 0:
+            parsed_items = parsed_items[:feed.max_items]
+
+        # 转换为 RSSItem（使用配置的时区）
+        now = get_configured_time(self.timezone)
+        crawl_time = now.strftime("%H:%M")
+        items = []
+
+        for parsed in parsed_items:
+            item = RSSItem(
+                title=parsed.title,
+                feed_id=feed.id,
+                feed_name=feed.name,
+                url=parsed.url,
+                published_at=parsed.published_at or "",
+                summary=parsed.summary or "",
+                author=parsed.author or "",
+                crawl_time=crawl_time,
+                first_time=crawl_time,
+                last_time=crawl_time,
+                count=1,
+            )
+            items.append(item)
+
+        return items, None
+
     def fetch_feed(self, feed: RSSFeedConfig) -> Tuple[List[RSSItem], Optional[str]]:
         """
-        抓取单个 RSS 源
+        抓取单个 RSS 源，支持 fallback URL
 
         Args:
             feed: RSS 源配置
@@ -136,61 +180,35 @@ class RSSFetcher:
         Returns:
             (条目列表, 错误信息) 元组
         """
-        try:
-            response = self.session.get(feed.url, timeout=self.timeout)
-            response.raise_for_status()
+        urls_to_try = [feed.url] + feed.fallback_urls
+        last_error = None
 
-            parsed_items = self.parser.parse(response.text, feed.url)
+        for url in urls_to_try:
+            try:
+                items, error = self._try_fetch_url(url, feed)
+                if error is None:
+                    # 注意：新鲜度过滤已移至推送阶段（_convert_rss_items_to_list）
+                    # 这样所有文章都会存入数据库，但旧文章不会推送
+                    if url != feed.url:
+                        print(f"[RSS] {feed.name}: 主 URL 失败，使用备用 {url}")
+                    print(f"[RSS] {feed.name}: 获取 {len(items)} 条")
+                    return items, None
+            except requests.Timeout:
+                last_error = f"请求超时 ({self.timeout}s)"
+                print(f"[RSS] {feed.name}: {url} - {last_error}")
+            except requests.RequestException as e:
+                last_error = f"请求失败: {e}"
+                print(f"[RSS] {feed.name}: {url} - {last_error}")
+            except ValueError as e:
+                last_error = f"解析失败: {e}"
+                print(f"[RSS] {feed.name}: {url} - {last_error}")
+            except Exception as e:
+                last_error = f"未知错误: {e}"
+                print(f"[RSS] {feed.name}: {url} - {last_error}")
 
-            # 限制条目数量（0=不限制）
-            if feed.max_items > 0:
-                parsed_items = parsed_items[:feed.max_items]
-
-            # 转换为 RSSItem（使用配置的时区）
-            now = get_configured_time(self.timezone)
-            crawl_time = now.strftime("%H:%M")
-            items = []
-
-            for parsed in parsed_items:
-                item = RSSItem(
-                    title=parsed.title,
-                    feed_id=feed.id,
-                    feed_name=feed.name,
-                    url=parsed.url,
-                    published_at=parsed.published_at or "",
-                    summary=parsed.summary or "",
-                    author=parsed.author or "",
-                    crawl_time=crawl_time,
-                    first_time=crawl_time,
-                    last_time=crawl_time,
-                    count=1,
-                )
-                items.append(item)
-
-            # 注意：新鲜度过滤已移至推送阶段（_convert_rss_items_to_list）
-            # 这样所有文章都会存入数据库，但旧文章不会推送
-            print(f"[RSS] {feed.name}: 获取 {len(items)} 条")
-            return items, None
-
-        except requests.Timeout:
-            error = f"请求超时 ({self.timeout}s)"
-            print(f"[RSS] {feed.name}: {error}")
-            return [], error
-
-        except requests.RequestException as e:
-            error = f"请求失败: {e}"
-            print(f"[RSS] {feed.name}: {error}")
-            return [], error
-
-        except ValueError as e:
-            error = f"解析失败: {e}"
-            print(f"[RSS] {feed.name}: {error}")
-            return [], error
-
-        except Exception as e:
-            error = f"未知错误: {e}"
-            print(f"[RSS] {feed.name}: {error}")
-            return [], error
+        # 所有 URL 均失败
+        print(f"[RSS] {feed.name}: 所有 URL 均失败")
+        return [], last_error
 
     def fetch_all(self) -> RSSData:
         """
@@ -288,6 +306,7 @@ class RSSFetcher:
                 max_items=feed_config.get("max_items", 0),  # 0=不限制
                 enabled=feed_config.get("enabled", True),
                 max_age_days=max_age_days,  # None=使用全局，0=禁用，>0=覆盖
+                fallback_urls=feed_config.get("fallback_urls", []),
             )
             if feed.id and feed.url:
                 feeds.append(feed)
