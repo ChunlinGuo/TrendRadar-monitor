@@ -153,10 +153,8 @@ def split_content_into_batches(
         base_header += f"**时间：** {now.strftime('%Y-%m-%d %H:%M:%S')}\n"
         base_header += f"**类型：** {report_type}\n\n"
     elif format_type == "feishu":
-        base_header = f"**总新闻数：** {total_titles}\n"
+        base_header = f"<font color='grey'>🕐 {now.strftime('%Y-%m-%d %H:%M')} | 过去48小时博主动态</font>\n\n"
         base_header += ai_stats_line
-        base_header += f"**时间：** {now.strftime('%Y-%m-%d %H:%M:%S')}\n"
-        base_header += f"**类型：** {report_type}\n\n"
         base_header += "---\n\n"
     elif format_type == "dingtalk":
         base_header = f"**总新闻数：** {total_titles}\n"
@@ -1346,29 +1344,20 @@ def _process_standalone_section(
     if add_separator and current_batch_has_content:
         # 需要添加分割线
         if format_type == "feishu":
-            section_header = f"\n{feishu_separator}\n\n📋 **独立展示区** (共 {total_items} 条)\n\n"
+            section_header = f"\n{feishu_separator}\n\n"
         elif format_type == "dingtalk":
-            section_header = f"\n---\n\n📋 **独立展示区** (共 {total_items} 条)\n\n"
+            section_header = f"\n---\n\n"
         elif format_type in ("wework", "bark"):
-            section_header = f"\n\n\n\n📋 **独立展示区** (共 {total_items} 条)\n\n"
+            section_header = f"\n\n\n\n"
         elif format_type == "telegram":
-            section_header = f"\n\n📋 独立展示区 (共 {total_items} 条)\n\n"
+            section_header = f"\n\n"
         elif format_type == "slack":
-            section_header = f"\n\n📋 *独立展示区* (共 {total_items} 条)\n\n"
+            section_header = f"\n\n"
         else:
-            section_header = f"\n\n📋 **独立展示区** (共 {total_items} 条)\n\n"
+            section_header = f"\n\n"
     else:
         # 不需要分割线（第一个区域）
-        if format_type == "feishu":
-            section_header = f"📋 **独立展示区** (共 {total_items} 条)\n\n"
-        elif format_type == "dingtalk":
-            section_header = f"📋 **独立展示区** (共 {total_items} 条)\n\n"
-        elif format_type == "telegram":
-            section_header = f"📋 独立展示区 (共 {total_items} 条)\n\n"
-        elif format_type == "slack":
-            section_header = f"📋 *独立展示区* (共 {total_items} 条)\n\n"
-        else:
-            section_header = f"📋 **独立展示区** (共 {total_items} 条)\n\n"
+        section_header = ""
 
     # 添加区块标题
     test_content = current_batch + section_header
@@ -1448,13 +1437,13 @@ def _process_standalone_section(
 
         # RSS 源标题
         feed_header = ""
-        if format_type in ("wework", "bark"):
+        if format_type == "feishu":
+            feed_header = f"━━━━━━━━━━━━━━━━\n📰 **{feed_name}** ({len(items)} 条)\n\n"
+        elif format_type in ("wework", "bark"):
             feed_header = f"**{feed_name}** ({len(items)} 条):\n\n"
         elif format_type == "telegram":
             feed_header = f"{feed_name} ({len(items)} 条):\n\n"
         elif format_type == "ntfy":
-            feed_header = f"**{feed_name}** ({len(items)} 条):\n\n"
-        elif format_type == "feishu":
             feed_header = f"**{feed_name}** ({len(items)} 条):\n\n"
         elif format_type == "dingtalk":
             feed_header = f"**{feed_name}** ({len(items)} 条):\n\n"
@@ -1639,12 +1628,11 @@ def _format_standalone_rss_item(
 
     # 根据格式类型构建条目行
     if format_type == "feishu":
-        if url:
-            item_line = f"  {index}. [{title}]({url})"
-        else:
-            item_line = f"  {index}. {title}"
+        item_line = f"**{index}. {title}**"
         if meta_str:
-            item_line += f" <font color='grey'>- {meta_str}</font>"
+            item_line += f"\n<font color='grey'>⏰ {meta_str}</font>"
+        if url:
+            item_line += f"\n[🔗 查看原文]({url})"
     elif format_type == "telegram":
         if url:
             item_line = f"  {index}. {title} ({url})"
