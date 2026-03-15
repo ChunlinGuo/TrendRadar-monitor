@@ -166,11 +166,21 @@ def send_to_feishu(
             f"发送{log_prefix}第 {i}/{len(batches)} 批次，大小：{content_size} 字节 [{report_type}]"
         )
 
-        # 飞书 webhook 纯文本模式
+        # 飞书 webhook 卡片模式（支持markdown渲染）
+        batch_label = f" ({i}/{len(batches)})" if len(batches) > 1 else ""
         payload = {
-            "msg_type": "text",
-            "content": {
-                "text": batch_content,
+            "msg_type": "interactive",
+            "card": {
+                "header": {
+                    "title": {
+                        "tag": "plain_text",
+                        "content": f"📡 博主动态追踪{batch_label}",
+                    },
+                    "template": "blue",
+                },
+                "elements": [
+                    {"tag": "markdown", "content": batch_content}
+                ],
             },
         }
 

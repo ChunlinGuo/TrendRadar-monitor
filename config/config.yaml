@@ -104,7 +104,7 @@ rss:
   freshness_filter:
     enabled: true                     # 是否启用新鲜度过滤（默认启用）
 
-    max_age_days: 1                   # 最大文章年龄（天）
+    max_age_days: 2                   # 最大文章年龄（天）— 覆盖过去48小时
                                       # - 正整数：只推送 N 天内的文章
                                       # - 0：禁用过滤，推送所有文章
 
@@ -117,12 +117,12 @@ rss:
     - id: "elon-musk-x"
       name: "Elon Musk (X/Twitter)"
       url: "https://news.google.com/rss/search?q=elonmusk+site:x.com&hl=en&gl=US&ceid=US:en"
-      max_age_days: 1
+      max_age_days: 2
 
     - id: "trump-truth-social"
       name: "Trump (Truth Social)"
       url: "https://www.trumpstruth.org/feed"
-      max_age_days: 1
+      max_age_days: 2
 
     # ====== 可选：后续扩展更多博主 ======
     # - id: "example-weibo"
@@ -259,14 +259,11 @@ display:
   # 控制各区域是否启用（配合 region_order 使用）
   regions:
     hotlist: false                    # 关闭热榜区域（不用热榜）
-    new_items: false                   # 新增热点区域
-                                      # 注：热点词汇统计中的新增标记🆕不受此配置影响
+    new_items: false                   # 关闭新增热点区域
 
-    rss: true                         # RSS 订阅区域
-                                      # 开启后将对 RSS 进行关键词分析并在通知中展示
-                                      # 关闭后跳过分析，但独立展示区不受影响
+    rss: false                        # 关闭RSS关键词筛选区域（不需要按关键词过滤）
 
-    standalone: true                  # 开启独立展示区（完整显示博主动态）
+    standalone: true                  # 开启独立展示区（完整显示博主动态，不受关键词过滤）
     ai_analysis: true                 # AI 分析区域
 
   # 📋 独立展示区配置
