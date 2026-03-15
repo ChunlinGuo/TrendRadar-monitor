@@ -116,7 +116,7 @@ rss:
     # ====== 核心追踪：特定博主 ======
     - id: "elon-musk-x"
       name: "Elon Musk (X/Twitter)"
-      url: "https://news.google.com/rss/search?q=elonmusk+site:x.com&hl=en&gl=US&ceid=US:en"
+      url: "https://nitter.net/elonmusk/rss"
       max_age_days: 2
 
     - id: "trump-truth-social"
