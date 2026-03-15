@@ -97,6 +97,7 @@ def format_iso_time_friendly(
     iso_time: str,
     timezone: str = DEFAULT_TIMEZONE,
     include_date: bool = True,
+    show_tz: bool = False,
 ) -> str:
     """
     将 ISO 格式时间转换为用户时区的友好显示格式
@@ -105,9 +106,10 @@ def format_iso_time_friendly(
         iso_time: ISO 格式时间字符串，如 '2025-12-29T00:20:00' 或 '2025-12-29T00:20:00+00:00'
         timezone: 目标时区名称
         include_date: 是否包含日期部分
+        show_tz: 是否在末尾显示时区缩写（如 SGT、CST）
 
     Returns:
-        友好格式的时间字符串，如 '12-29 08:20' 或 '08:20'
+        友好格式的时间字符串，如 '12-29 08:20' 或 '12-29 08:20 SGT'
     """
     if not iso_time:
         return ""
@@ -156,10 +158,16 @@ def format_iso_time_friendly(
         dt_local = dt.astimezone(target_tz)
 
         # 格式化输出
+        tz_suffix = ""
+        if show_tz:
+            tz_abbr = dt_local.strftime("%Z")  # e.g. SGT, CST, EST
+            if tz_abbr:
+                tz_suffix = f" {tz_abbr}"
+
         if include_date:
-            return dt_local.strftime("%m-%d %H:%M")
+            return dt_local.strftime("%m-%d %H:%M") + tz_suffix
         else:
-            return dt_local.strftime("%H:%M")
+            return dt_local.strftime("%H:%M") + tz_suffix
 
     except Exception:
         # 出错时返回原始字符串的简化版本

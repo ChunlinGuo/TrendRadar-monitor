@@ -1460,7 +1460,7 @@ def _process_standalone_section(
 
         # 限制展示数量
         max_originals = 8
-        max_retweets = 5
+        max_retweets = 10
         display_originals = originals[:max_originals]
         display_retweets = retweets[:max_retweets]
 
@@ -1667,7 +1667,7 @@ def _format_rss_item_compact(
     # 简短时间
     friendly_time = ""
     if published_at:
-        friendly_time = format_iso_time_friendly(published_at, timezone, include_date=True)
+        friendly_time = format_iso_time_friendly(published_at, timezone, include_date=True, show_tz=True)
 
     if format_type == "feishu":
         prefix = "·" if is_retweet else f"{index}."

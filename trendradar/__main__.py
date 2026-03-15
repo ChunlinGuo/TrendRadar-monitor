@@ -454,6 +454,44 @@ class NewsAnalyzer:
                 traceback.print_exc()
             return [], None
 
+    def _save_push_history(self, standalone_data, rss_items=None):
+        """保存推送内容摘要到 output/push_history/last_push.json
+
+        用于下次推送时对比边际变化（哪些是新内容、哪些已消失）。
+        """
+        try:
+            history_dir = Path("output/push_history")
+            history_dir.mkdir(parents=True, exist_ok=True)
+
+            now = self.ctx.get_time()
+            summary = {
+                "push_time": now.isoformat(),
+                "feeds": {},
+            }
+
+            # 从 standalone_data 提取 RSS feeds 内容
+            if standalone_data:
+                for feed in standalone_data.get("rss_feeds", []):
+                    feed_name = feed.get("name", feed.get("id", ""))
+                    items = feed.get("items", [])
+                    summary["feeds"][feed_name] = [
+                        {
+                            "title": item.get("title", ""),
+                            "url": item.get("url", ""),
+                            "published_at": item.get("published_at", ""),
+                        }
+                        for item in items
+                        if item.get("title")
+                    ]
+
+            history_file = history_dir / "last_push.json"
+            with open(history_file, "w", encoding="utf-8") as f:
+                json.dump(summary, f, ensure_ascii=False, indent=2)
+
+            print(f"[推送历史] 已保存至 {history_file}")
+        except Exception as e:
+            print(f"[推送历史] 保存失败: {e}")
+
     def _run_ai_analysis(
         self,
         stats: List[Dict],
@@ -984,6 +1022,9 @@ class NewsAnalyzer:
                     scheduler = self.ctx.create_scheduler()
                     date_str = self.ctx.format_date()
                     scheduler.record_execution(schedule.period_key, "push", date_str)
+
+                # 保存推送历史（用于下次推送的边际变化对比）
+                self._save_push_history(standalone_data, rss_items)
 
             return True
 
