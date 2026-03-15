@@ -154,7 +154,6 @@ def split_content_into_batches(
         base_header += f"**类型：** {report_type}\n\n"
     elif format_type == "feishu":
         base_header = f"<font color='grey'>🕐 {now.strftime('%Y-%m-%d %H:%M')} | 过去48小时博主动态</font>\n\n"
-        base_header += ai_stats_line
         base_header += "---\n\n"
     elif format_type == "dingtalk":
         base_header = f"**总新闻数：** {total_titles}\n"
