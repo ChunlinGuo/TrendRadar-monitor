@@ -1434,7 +1434,7 @@ def _process_standalone_section(
         if not items:
             continue
 
-        # 分类条目：原创 vs 转发 vs 图片帖
+        # 分类条目：原创 vs 转发 vs 图片帖/短帖
         originals = []
         retweets = []
         skipped = 0
@@ -1443,8 +1443,18 @@ def _process_standalone_section(
             if not title or title.startswith("[无标题]"):
                 skipped += 1
                 continue
-            if "RT by @" in title or ("由 @" in title and "转发" in title):
+            # 转发/转推识别（覆盖翻译前后的多种格式）
+            is_rt = (
+                "RT by @" in title
+                or ("由 @" in title and ("转发" in title or "转推" in title))
+                or title.startswith("转推 @")
+                or title.startswith("转发 @")
+            )
+            if is_rt:
                 retweets.append(item)
+            elif len(title.strip()) <= 4:
+                # 极短内容（"是的"、"确实"、emoji等）归入短帖，不作为重点原创
+                skipped += 1
             else:
                 originals.append(item)
 
@@ -1631,17 +1641,23 @@ def _format_rss_item_compact(
     url = item.get("url", "")
     published_at = item.get("published_at", "")
 
-    # 转发清理前缀："RT by @user: content" 或 "由 @user 转发：content"
+    # 转发清理前缀："RT by @user: content" 或 "由 @user 转发/转推：content" 或 "转推 @user：content"
     if is_retweet:
         if "RT by @" in title:
             colon_idx = title.find(":", title.find("RT by @"))
             if colon_idx >= 0:
                 title = title[colon_idx + 1:].strip()
         else:
-            for sep in ["转发：", "转发:"]:
+            for sep in ["转发：", "转发:", "转推：", "转推:"]:
                 if sep in title:
                     title = title[title.find(sep) + len(sep):].strip()
                     break
+            # "转推 @user content" 格式（无冒号分隔）
+            if title.startswith("转推 @") or title.startswith("转发 @"):
+                # 跳过 "转推 @username " 部分
+                space_after_user = title.find(" ", 4)
+                if space_after_user > 0:
+                    title = title[space_after_user + 1:].strip()
 
     # 截断过长标题
     max_title_len = 80
