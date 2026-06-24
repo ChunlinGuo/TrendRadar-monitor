@@ -60,6 +60,7 @@ jobs:
           clean: true
 
       - name: Check Expiration
+        if: false  # 已停用：原试用版每 7 天到期自动 disable 的检查，现改为长期运行
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
