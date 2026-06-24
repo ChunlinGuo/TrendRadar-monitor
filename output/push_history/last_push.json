@@ -1,109 +1,37 @@
 {
-  "push_time": "2026-06-24T20:35:13.885412+08:00",
+  "push_time": "2026-06-25T07:43:49.232694+08:00",
   "feeds": {
-    "Elon Musk (X/Twitter)": [
-      {
-        "title": "Try Grok",
-        "url": "https://nitter.net/elonmusk/status/2069690741295861935#m",
-        "published_at": "2026-06-24T07:55:00"
-      },
-      {
-        "title": "🤣🤣",
-        "url": "https://nitter.net/elonmusk/status/2069665946286043260#m",
-        "published_at": "2026-06-24T06:16:28"
-      },
-      {
-        "title": "RT by @elonmusk: A message to the Republicans in congress and the Trump administration. Please stop treating legal immigration like just another issue to be fine tuned and start treating it like the existential threat that it is. Three genocidal communists were just elected to the House of Representatives because mass legal immigration from the third world made it possible to do so in New York City. If you don't ban immigration from the third world, your jobs will be gone too. You think this stays in New York? Your seat is next.",
-        "url": "https://nitter.net/Anc_Aesthetics/status/2069664207977501148#m",
-        "published_at": "2026-06-24T06:09:34"
-      },
-      {
-        "title": "RT by @elonmusk: If your sole value is identity, then someone else will use a more extreme identity to displace you.",
-        "url": "https://nitter.net/yunta_tsai/status/2069664081683107987#m",
-        "published_at": "2026-06-24T06:09:04"
-      },
-      {
-        "title": "RT by @elonmusk: Grok Build just got another update with many improvements Release Notes: v0.2.64 — 2026-06-24 Features: • Dashboard now displays the current directory and branch; click or press Ctrl+L to change location, or Ctrl+W to dispatch new agents into fresh git worktrees. • /recap now appears as a collapsible tool-style block with a loading spinner while generating. Bug Fixes: • Dashboard arrow keys open agent details and exit overlays; closing an agent now selects the neighboring row. • /usage command and credit warnings are now hidden for API-key authentication. • MCP servers from your user config no longer appear labeled as project-scoped when running from your home directory.",
-        "url": "https://nitter.net/XFreeze/status/2069660314870899007#m",
-        "published_at": "2026-06-24T05:54:06"
-      },
-      {
-        "title": "RT by @elonmusk: Asmongold explains Keir Starmer's resignation using a WoW raid strategy and it makes perfect sense \"Labour just performed a tank swap. Starmer had too many debuffs so they pulled him out and brought in a new tank.\" \"The new guy is going to do the same thing for the same raid. They're tanking the same boss in the same way.\" \"You're Onyxia. Don't fall for the tank swap. He's not the organization. You didn't win, they just reset your aggro.\"",
-        "url": "https://nitter.net/Asmon_Updates/status/2069639853894201536#m",
-        "published_at": "2026-06-24T04:32:47"
-      },
-      {
-        "title": "RT by @elonmusk: 💯",
-        "url": "https://nitter.net/cb_doge/status/2069624318514938060#m",
-        "published_at": "2026-06-24T03:31:03"
-      },
-      {
-        "title": "RT by @elonmusk: How USAID Built Color Revolution Infrastructure With NGOs",
-        "url": "https://nitter.net/DataRepublican/status/2069619851518431312#m",
-        "published_at": "2026-06-24T03:13:18"
-      },
-      {
-        "title": "RT by @elonmusk: I warned you but you scoffed. You will regret your Suicidal Empathy.",
-        "url": "https://nitter.net/GadSaad/status/2069617626955825633#m",
-        "published_at": "2026-06-24T03:04:28"
-      },
-      {
-        "title": "RT by @elonmusk: USAID funded the Wuhan lab Wuhan lab created SARS-CoV-2 Wuhan lab was making more viruses DOGE defunded USAID DOGE may have been the most important pandemic prevention agency of the past century",
-        "url": "https://nitter.net/kevinnbass/status/2069582523697344681#m",
-        "published_at": "2026-06-24T00:44:59"
-      },
-      {
-        "title": "RT by @elonmusk: Elon confirms \"Starmind\" will be the official name of @SpaceX's AI satellite constellation. Earlier this year, SpaceX filed a request with the FCC to launch and operate a constellation of 1 million AI satellites. SpaceX's AI1 satellite:",
-        "url": "https://nitter.net/SawyerMerritt/status/2069570317798785480#m",
-        "published_at": "2026-06-23T23:56:29"
-      },
-      {
-        "title": "RT by @elonmusk: Elon Musk just confirmed that ‘Starmind’ will be the official name of the SpaceX AI satellite constellation",
-        "url": "https://nitter.net/iam_smx/status/2069569325019635826#m",
-        "published_at": "2026-06-23T23:52:32"
-      },
-      {
-        "title": "RT by @elonmusk: People who are complaining that he spends the first half of the movie murdering white people not migrants fail to understand that it’s hammering home an important premise. “Always hang a traitor before you shoot an enemy”",
-        "url": "https://nitter.net/ltwombly93/status/2069567858376323102#m",
-        "published_at": "2026-06-23T23:46:42"
-      },
-      {
-        "title": "True",
-        "url": "https://nitter.net/elonmusk/status/2069535856491483484#m",
-        "published_at": "2026-06-23T21:39:32"
-      },
-      {
-        "title": "Starlink coming to @AmericanAir next year!",
-        "url": "https://nitter.net/elonmusk/status/2069535601892987275#m",
-        "published_at": "2026-06-23T21:38:32"
-      },
-      {
-        "title": "RT by @elonmusk: \"Democracy\" is when the people vote for Brexit because they want less immigration, but they get exponentially more immigration as punishment.",
-        "url": "https://nitter.net/adamkjohnston/status/2069509987554975815#m",
-        "published_at": "2026-06-23T19:56:45"
-      },
-      {
-        "title": "RT by @elonmusk: 460 criminal charges $6.5B intended loss, $1.4B actual loss $127M seized assets Great work by @SecKennedy, @DAGToddBlanche, @FBIDirectorKash, & @DrOzCMS on today’s fraud takedown. If you’re committing fraud, we’ll find you.",
-        "url": "https://nitter.net/JDVance/status/2069488592443851030#m",
-        "published_at": "2026-06-23T18:31:44"
-      },
-      {
-        "title": "RT by @elonmusk: If you are asking “Why push back against anti-datacenter efforts?” I consider it a tragedy that anti-nuclear efforts largely strangled nuclear power in the US based on vibes, and I don’t want to see that happen to AI. Public opinion matters, and it shouldn’t be ceded unchallenged. If you are asking “Why should I support AI efforts at all?” I believe we are in the midst of a transition more vibrant than the industrial revolution. Opinions formed a couple of years ago about the uselessness of AI are no longer valid. Millions of people and organizations are getting great returns from using it, and the demand for data centers is the market responding to the value signal. That is how progress is made!",
-        "url": "https://nitter.net/ID_AA_Carmack/status/2069486595917402117#m",
-        "published_at": "2026-06-23T18:23:48"
-      },
-      {
-        "title": "RT by @elonmusk: Report: Female cop shoots Jewish rabbi outside Pornhub office in Canada while hiding from Marxist gunman who killed immigrant officer named Mohamed https://notthebee.com/t23da",
-        "url": "https://nitter.net/Not_the_Bee/status/2069443300038205633#m",
-        "published_at": "2026-06-23T15:31:45"
-      },
-      {
-        "title": "RT by @elonmusk: USAID and other shady leftist charities used real suffering as a human shield for leftist graft! Almost 57% of USAID money to Haiti was...spent inside the DC Beltway. Just 2% made it to Haiti.",
-        "url": "https://nitter.net/AndrewCFollett/status/2069355041887048004#m",
-        "published_at": "2026-06-23T09:41:03"
-      }
-    ],
     "Trump (Truth Social)": [
+      {
+        "title": "This is the hard rubber surface — No Paint — Before the Vandals cut and pulled it apart!",
+        "url": "https://www.trumpstruth.org/statuses/39515",
+        "published_at": "2026-06-24T15:18:30"
+      },
+      {
+        "title": "[No Title] - Post from June 24, 2026",
+        "url": "https://www.trumpstruth.org/statuses/39516",
+        "published_at": "2026-06-24T15:17:53"
+      },
+      {
+        "title": "Today’s Housing News Conference and Signing is hereby cancelled until such time as we pass the desperately needed SAVE AMERICA ACT, which I consider to be a National Emergency. Thank you for your attention to this matter! President DJT",
+        "url": "https://www.trumpstruth.org/statuses/39514",
+        "published_at": "2026-06-24T14:26:20"
+      },
+      {
+        "title": "MY REAL POLL NUMBERS ARE THE HIGHEST THEY HAVE EVER BEEN. THANK YOU!!! President DJT",
+        "url": "https://www.trumpstruth.org/statuses/39512",
+        "published_at": "2026-06-24T14:17:21"
+      },
+      {
+        "title": "Mayor Mamdani pulled through 3 solid Communists, and has received loud and universal applause from the Fake News Media. Congratulations Mr. Mayor! I went 16-0 last night, helping to elect wonderful American Patriots, and the Media doesn’t say a word. Over the last two years, my endorsement has netted 259 Primary WINS, and almost no losses, with Zero media attention!!! FAKE NEWS. President DJT",
+        "url": "https://www.trumpstruth.org/statuses/39513",
+        "published_at": "2026-06-24T14:15:43"
+      },
+      {
+        "title": "The Elizabeth “Pocahontas” Warren centric housing bill, which is of minor importance compared to lower interest rates, and even FISA, pales in comparison to passing THE SAVE AMERICA ACT. That is what Americans, both Dumocrats, Republicans, and everyone else, care about. Get the bad Republicans to approve it or, better yet, Terminate the Filibuster and approve it, AND EVERYTHING ELSE REPUBLICANS HAVE EVER DREAMED OF. The Dumocrats will do it in hour one, 100%. Republicans will feel very stupid if they don’t do it first. I’ll be watching with tears in my eyes!!! President DJT",
+        "url": "https://www.trumpstruth.org/statuses/39511",
+        "published_at": "2026-06-24T13:49:20"
+      },
       {
         "title": "Big Rally tonight on the National Mall. Fantastic Music!!! MAGA!!! FUN!!! Be there at 7:00 P.M. President DJT",
         "url": "https://www.trumpstruth.org/statuses/39510",
@@ -173,36 +101,6 @@
         "title": "[No Title] - Post from June 24, 2026",
         "url": "https://www.trumpstruth.org/statuses/39499",
         "published_at": "2026-06-24T02:27:52"
-      },
-      {
-        "title": "[No Title] - Post from June 24, 2026",
-        "url": "https://www.trumpstruth.org/statuses/39500",
-        "published_at": "2026-06-24T02:27:40"
-      },
-      {
-        "title": "RT @realDonaldTrump",
-        "url": "https://www.trumpstruth.org/statuses/39492",
-        "published_at": "2026-06-24T01:53:13"
-      },
-      {
-        "title": "[No Title] - Post from June 24, 2026",
-        "url": "https://www.trumpstruth.org/statuses/39493",
-        "published_at": "2026-06-24T01:52:56"
-      },
-      {
-        "title": "[No Title] - Post from June 24, 2026",
-        "url": "https://www.trumpstruth.org/statuses/39494",
-        "published_at": "2026-06-24T01:52:47"
-      },
-      {
-        "title": "[No Title] - Post from June 24, 2026",
-        "url": "https://www.trumpstruth.org/statuses/39495",
-        "published_at": "2026-06-24T01:52:35"
-      },
-      {
-        "title": "RT @realDonaldTrump",
-        "url": "https://www.trumpstruth.org/statuses/39484",
-        "published_at": "2026-06-24T01:22:20"
       }
     ]
   }
