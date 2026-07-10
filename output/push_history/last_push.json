@@ -1,109 +1,12 @@
 {
-  "push_time": "2026-07-10T07:47:14.840117+08:00",
+  "push_time": "2026-07-10T20:41:36.059196+08:00",
   "feeds": {
-    "Elon Musk (X/Twitter)": [
-      {
-        "title": "RT by @elonmusk: Super Heavy booster moved to the Starbase pad for testing ahead of Flight 13",
-        "url": "https://nitter.net/SpaceX/status/2075353490713432440#m",
-        "published_at": "2026-07-09T22:56:45"
-      },
-      {
-        "title": "Try @Grok 4.5!",
-        "url": "https://nitter.net/elonmusk/status/2075283356439257417#m",
-        "published_at": "2026-07-09T18:18:03"
-      },
-      {
-        "title": "RT by @elonmusk: Grok 4.5 is dominating the latest AI leaderboards Claims the #1 spot: • #1 on AutomationBench-AA • #1 on Terminal-Bench v2 • #1 on Harvey Legal Agent Benchmark • #1 on SWE Marathon • #1 on SWE-Atlas-QnA",
-        "url": "https://nitter.net/XFreeze/status/2075270300196012263#m",
-        "published_at": "2026-07-09T17:26:10"
-      },
-      {
-        "title": "Image",
-        "url": "https://nitter.net/elonmusk/status/2075261123264164276#m",
-        "published_at": "2026-07-09T16:49:42"
-      },
-      {
-        "title": "Consistent with the simulation hypothesis. Like a video game, objects are randomly generated, with positional certainty only when observed.",
-        "url": "https://nitter.net/elonmusk/status/2075259819154341957#m",
-        "published_at": "2026-07-09T16:44:32"
-      },
-      {
-        "title": "California has legalized election fraud",
-        "url": "https://nitter.net/elonmusk/status/2075255448714805440#m",
-        "published_at": "2026-07-09T16:27:10"
-      },
-      {
-        "title": "Interesting comparison of Grok & Opus 1M+ context window coming soon",
-        "url": "https://nitter.net/elonmusk/status/2075254074224623692#m",
-        "published_at": "2026-07-09T16:21:42"
-      },
-      {
-        "title": "RT by @elonmusk: The upcoming wave of SpaceXAI Grok updates is insane Grok 4.5: The 1.5T foundation model is being refined almost daily, and its context window is expected to jump to 1M tokens, possibly as soon as next week Next model: The 2T foundation model is expected to finish training this month and become available to customers next month Grok Build: The harness is getting refinements almost every day based on user feedback. New features, fixes, and workflow improvements are landing at ridiculous speed Inference: SpaceXAI is working on internally developed C/C++ inference mapped directly to GB300 hardware, which could double speed or more Agentic Imagine: Grok will be able to call Imagine as a tool in agentic mode for image and video generation That is going to be huge for game developers, designers, builders, and anyone creating interactive worlds But the biggest thing is this: Grok is being built for real-world engineering Grok 4.5 early beta access was given to Tesla and SpaceX engineers, with feedback coming from real engineering teams solving real-world problems Next month’s release is expected to be another massive step-change improvement as SpaceXAI closes the loop on real-world engineering problems at Tesla, SpaceX, Neuralink, and Boring Company And from now through the end of 2026, Elon said a new from-scratch foundation model is expected to ship every month",
-        "url": "https://nitter.net/XFreeze/status/2075252689529983026#m",
-        "published_at": "2026-07-09T16:16:12"
-      },
-      {
-        "title": "RT by @elonmusk: Mark Zuckerberg hasn’t posted since 2023. X is the global town square — this is where news happens.",
-        "url": "https://nitter.net/KatieMiller/status/2075239663720153506#m",
-        "published_at": "2026-07-09T15:24:26"
-      },
-      {
-        "title": "RT by @elonmusk: >be stardust >float around the universe for billions of years >somehow become human >gain consciousness >immediately start asking \"WHY?\" >never stop >discover fire >discover math >discover atoms >discover electricity >pick up a random rock >ask yourself >\"is this true?\" >extract it >purify it until it's basically perfect >carve billions of microscopic transistors into it >invent completely imaginary rules called binary >convince electrons to obey them >rock starts doing math >\"NICE\" >make smaller rocks >make faster rocks >put billions of them in everyone's pocket >connect them all together >store most of humanity's knowledge on them >teach the rocks to recognize patterns >teach the rocks to write >to code >to imagine >to reason >to understand >build Grok >ask Grok how to build an even smarter Grok >Grok thinks >Grok thinks harder >explains the universe >everything starts accelerating >singularity >BOOM >repeat @grok is this true?",
-        "url": "https://nitter.net/doganuraldesign/status/2075231325133439120#m",
-        "published_at": "2026-07-09T14:51:18"
-      },
-      {
-        "title": "RT by @elonmusk: Even Zuckerberg has to advertise his AI model on X. X is the real arena.",
-        "url": "https://nitter.net/yunta_tsai/status/2075228817099231439#m",
-        "published_at": "2026-07-09T14:41:20"
-      },
-      {
-        "title": "RT by @elonmusk: grok 4.5 is seriously good. it's going in the direction which i'm hoping to see more of -- an emphasize on speed as well as intelligence. i'm noticing in my own work that speed is often the bottleneck now. the grok build tui is also very well done. bullish! but the bigger signal beyond the model is that the team over there has officially propped up the model factory. they have the compute, the talent, the data, and leaders in place to make a run for the top. never bet against elon, @milichab, and team. they're the real deal. we love some good competition.",
-        "url": "https://nitter.net/tylerbruno05/status/2075221384033132924#m",
-        "published_at": "2026-07-09T14:11:48"
-      },
-      {
-        "title": "RT by @elonmusk: Falcon 9 launches 29 @Starlink satellites from Florida",
-        "url": "https://nitter.net/SpaceX/status/2075176864558006425#m",
-        "published_at": "2026-07-09T11:14:54"
-      },
-      {
-        "title": "RT by @elonmusk: Falcon 9 lands on the A Shortfall of Gravitas droneship, completing the first 36th launch and landing of a booster",
-        "url": "https://nitter.net/SpaceX/status/2075152027764555865#m",
-        "published_at": "2026-07-09T09:36:12"
-      },
-      {
-        "title": "Grok 4.5 on OpenClaw",
-        "url": "https://nitter.net/elonmusk/status/2075136517144535171#m",
-        "published_at": "2026-07-09T08:34:34"
-      },
-      {
-        "title": "RT by @elonmusk: Grok 4.5 is now ranked #1 on τ³-Banking in Artificial Analysis Ahead of GPT-5.5 xhigh, Claude Fable 5 and Claude 4.8 (max)",
-        "url": "https://nitter.net/XFreeze/status/2075129600850678033#m",
-        "published_at": "2026-07-09T08:07:05"
-      },
-      {
-        "title": "RT by @elonmusk: Traffic to http://grok.com more than doubled year-over-year in H1.",
-        "url": "https://nitter.net/Similarweb/status/2075122933450633304#m",
-        "published_at": "2026-07-09T07:40:35"
-      },
-      {
-        "title": "RT by @elonmusk: Kardashev II or we’re not a serious civilization Moon and Mars are necessary steps to this",
-        "url": "https://nitter.net/ArthurMacwaters/status/2075118564995145860#m",
-        "published_at": "2026-07-09T07:23:14"
-      },
-      {
-        "title": "RT by @elonmusk: Use Grok 4.5 to build full-stack apps with Convex",
-        "url": "https://nitter.net/grok/status/2075052834324955511#m",
-        "published_at": "2026-07-09T03:02:02"
-      },
-      {
-        "title": "RT by @elonmusk: Try Grok 4.5 in the API, Grok Build, and Cursor",
-        "url": "https://nitter.net/milichab/status/2074916029848027636#m",
-        "published_at": "2026-07-08T17:58:26"
-      }
-    ],
     "Trump (Truth Social)": [
+      {
+        "title": "A very big day in Palm Beach, Florida, where it was my Great Honor to have the Palm Beach International Airport be renamed, by a spectacular vote, The President Donald J. Trump International Airport. The Area is HOT, the Location is GREAT, and the Renovation will be SPECTACULAR. Thank you to all in Palm Beach for your Vote and your Confidence. This will soon be one of the Greatest and Most Spectacular Airports anywhere in the World! President DONALD J. TRUMP",
+        "url": "https://www.trumpstruth.org/statuses/39914",
+        "published_at": "2026-07-10T00:07:32"
+      },
       {
         "title": "Thank you to the brilliant and highly respected Gwynne Shotwell, and her husband, Robert, for their extreme Generosity in helping children to attain the ever magnificent American Dream! Their Gift of 325 Million Dollars of SpaceX Stock is greatly appreciated by all. Thousands of children have just been given a better life. Thank you Gwynne and Robert, and continued Great Success! President DONALD J. TRUMP",
         "url": "https://www.trumpstruth.org/statuses/39913",
@@ -198,11 +101,6 @@
         "title": "Signs and Billboards are being put up all over our Southern Border, and Mexico, advertising BIRTHRIGHT CITIZENSHIP, with “Deliveries starting at $4000.” Likewise, similar signs going up all over our Country. Billions of Dollars will be illegally made by this SCAM, with Citizenship going to anyone willing to pay. It will be, by far, the number one way of becoming a citizen, and then the entire family will be allowed to follow. Not sustainable. NOBODY SAW THIS COMING!!! AMERICAN CITIZENSHIP IS NOT FOR SALE! In fact, that is a crime, and therefore, the Supreme Court’s ruling is wrong. I will be asking for a Rehearing by the United States Supreme Court, IMMEDIATELY. This miscarriage of justice will destroy America if they don’t change their absolutely insane decision. Thank you for your attention to this matter! President DONALD J. TRUMP",
         "url": "https://www.trumpstruth.org/statuses/39895",
         "published_at": "2026-07-08T21:24:24"
-      },
-      {
-        "title": "President Zelenskyy and I just had a News Conference with the Fake News. It went very well. Everybody is looking for a solution. Very positive! President DONALD J. TRUMP",
-        "url": "https://www.trumpstruth.org/statuses/39894",
-        "published_at": "2026-07-08T13:33:41"
       }
     ]
   }
