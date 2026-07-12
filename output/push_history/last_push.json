@@ -1,104 +1,154 @@
 {
-  "push_time": "2026-07-12T07:28:12.029866+08:00",
+  "push_time": "2026-07-13T07:27:33.685817+08:00",
   "feeds": {
     "Elon Musk (X/Twitter)": [
+      {
+        "title": "Grok Build improvements",
+        "url": "https://nitter.net/elonmusk/status/2076434715951689733#m",
+        "published_at": "2026-07-12T22:33:09"
+      },
+      {
+        "title": "Grok 4.5 even ranks slightly above Fable, which is an incredibly good model, on some software benchmarks!",
+        "url": "https://nitter.net/elonmusk/status/2076434607562531049#m",
+        "published_at": "2026-07-12T22:32:43"
+      },
+      {
+        "title": "Follow the Starship series @SpaceX",
+        "url": "https://nitter.net/elonmusk/status/2076433121893814735#m",
+        "published_at": "2026-07-12T22:26:49"
+      },
+      {
+        "title": "Cool",
+        "url": "https://nitter.net/elonmusk/status/2076432602999722000#m",
+        "published_at": "2026-07-12T22:24:45"
+      },
+      {
+        "title": "Grok 4.5 is Opus class for browser use",
+        "url": "https://nitter.net/elonmusk/status/2076411563116835245#m",
+        "published_at": "2026-07-12T21:01:09"
+      },
+      {
+        "title": "RT by @elonmusk: The mega bull case for AI infrastructure would be *if* market share shifted away from certain frontier labs with 90%+ inference margins toward cheaper models, whether open-source or closed. It would increase the ROI on AI spend for end customers by increasing intelligence per dollar, which would drive incremental token demand. Margin dollars would effectively get redistributed from the frontier labs to AI infrastructure providers. The infra winners would be those with the lowest per token cost and the winners at the model layer would be those with the highest token efficiency. There are many reasons Jensen is so focused on open source, but this is likely the most important one as I think he is probably less worried about a monopsony these days. Lower margin % at the model layer = more margin $ at the infra layer all else equal. With SpaceX and Meta being vertically integrated and possessing the #3 and #4 models respectively it is more possible than ever. Note that Grok 4.5 is ahead of Fable for some useful tasks at a much lower cost, so ranking them #3 is conservative. This is not happening yet. Cheap, mostly open source tokens are likely the majority of volume today but the majority of economic value is still accruing to the most intelligent models. Might change though. We will see.",
+        "url": "https://nitter.net/GavinSBaker/status/2076369936251851091#m",
+        "published_at": "2026-07-12T18:15:44"
+      },
+      {
+        "title": "RT by @elonmusk: For the first time, Starship will carry 20 next-generation Starlink V3 satellites to space Starlink V3 is designed to massively expand the network’s capacity and increase user speeds After deployment, the test satellites will: • Extend their solar arrays and antennas • Attempt to connect with ground stations in South Africa • Establish links with the wider Starlink constellation using high-capacity lasers The satellites will follow the same suborbital trajectory as Starship, meaning they will not remain in orbit and are expected to reenter the atmosphere later in the mission But the most interesting part is how Starlink will help inspect Starship Six of the satellites have been modified with cameras designed to scan Starship’s heat shield and transmit the imagery back to SpaceX operators Several heat-shield tiles have even been painted white to simulate missing tiles and provide clear imaging targets The goal is to continue testing methods of analyzing Starship’s heat shield readiness for return to launch site on future missions Starship launches Starlink Starlink helps inspect Starship The entire SpaceX ecosystem is starting to compound on itself",
+        "url": "https://nitter.net/XFreeze/status/2076358671798575154#m",
+        "published_at": "2026-07-12T17:30:58"
+      },
+      {
+        "title": "RT by @elonmusk: Elon Musk explains why the Sun is humanity's ultimate energy source: \"The vast majority of Earth's energy already comes from the Sun. Without it, Earth would be a frozen ice ball A roughly 100-mile by 100-mile area of solar panels....about a corner of Arizona, could generate enough electricity to power the entire United States\" The challenge isn't whether enough solar energy exists It's building the infrastructure to capture, store, and distribute it efficiently",
+        "url": "https://nitter.net/XFreeze/status/2076352093703794999#m",
+        "published_at": "2026-07-12T17:04:50"
+      },
+      {
+        "title": "RT by @elonmusk: I say both energy and mass, as they are separate scarcities for practical purposes, despite being technically “equivalent”, as described by Einstein’s famous equation. Our solar system has only a tiny percentage of non-solar atoms with which to build things.",
+        "url": "https://nitter.net/elonmusk/status/2076340432464752656#m",
+        "published_at": "2026-07-12T16:18:30"
+      },
+      {
+        "title": "RT by @elonmusk: I would like to offer a counterargument that LLMs (or maybe AIs) cannot jump. Before AlphaGo, the AI field had the same argument for Go: there are 2.08 × 10^170 possibilities, nothing fits in the computer, and there is no way AI could possibly predict the outcome of the next 50-60 moves. It turned out most moves do not lead to a win. Combined with clever use of Monte Carlo Tree Search, the sampling becomes quite manageable. The same can be said for physics, where equations are just another form of compression. Einstein did not start with relativity. That was not his first paper. He spent years understanding the properties of light before concluding that the speed of light is constant across the universe, which unlocked his discovery of relativity. During his thought process, he also interacted with other physicists (e.g., sub-agents) to enrich his thinking. Currently we have not run an agent for years of compute. The sessions are often fragmented and disoriented, so every new session is almost a fragmented memory of the past, but it may not be for long.",
+        "url": "https://nitter.net/yunta_tsai/status/2076323348217565485#m",
+        "published_at": "2026-07-12T15:10:37"
+      },
+      {
+        "title": "RT by @elonmusk: Grok 4.5 is the truth seeking leader that other AIs can aspire to become",
+        "url": "https://nitter.net/gailalfaratx/status/2076259670751100967#m",
+        "published_at": "2026-07-12T10:57:35"
+      },
+      {
+        "title": "Try Grok 4.5 and see for yourself",
+        "url": "https://nitter.net/elonmusk/status/2076252465674977609#m",
+        "published_at": "2026-07-12T10:28:57"
+      },
+      {
+        "title": "Starship is evolving rapidly",
+        "url": "https://nitter.net/elonmusk/status/2076102645823971373#m",
+        "published_at": "2026-07-12T00:33:37"
+      },
+      {
+        "title": "Grok is the most politically neutral and objectively truth-seeking AI",
+        "url": "https://nitter.net/elonmusk/status/2076102201575969192#m",
+        "published_at": "2026-07-12T00:31:51"
+      },
+      {
+        "title": "Next Starship launch aiming for Thursday",
+        "url": "https://nitter.net/elonmusk/status/2076100095867506809#m",
+        "published_at": "2026-07-12T00:23:29"
+      },
+      {
+        "title": "RT by @elonmusk: Grok 4.5 by @SpaceXAI is the most neutral AI model out there. Almost perfectly balanced between the political Left and Right. No other model comes even close to its neutrality. Fantastic achievement, and much harder to pull off than most would realize!",
+        "url": "https://nitter.net/mark_k/status/2076040435743506800#m",
+        "published_at": "2026-07-11T20:26:25"
+      },
       {
         "title": "Tesla self-driving enables safer mobility for senior citizens",
         "url": "https://nitter.net/elonmusk/status/2076038090947166516#m",
         "published_at": "2026-07-11T20:17:06"
       },
       {
-        "title": "Video",
-        "url": "https://nitter.net/elonmusk/status/2075926721337991455#m",
-        "published_at": "2026-07-11T12:54:33"
+        "title": "RT by @elonmusk: and yes, i would say that @elonmusk mission with @SpaceXAI is going well. the results definitively shows how Grok 4.5 training pushed even further to become as neutral as possible and it does feel good to know there is at least 1 model out there that is within that neutral zone.",
+        "url": "https://nitter.net/CardilloSamuel/status/2076036462290624972#m",
+        "published_at": "2026-07-11T20:10:38"
       },
       {
-        "title": "R to @elonmusk: He might literally love scamming more than any human alive!",
-        "url": "https://nitter.net/elonmusk/status/2075926480387776675#m",
-        "published_at": "2026-07-11T12:53:36"
-      },
-      {
-        "title": "By “this” he means scamming 🤣🤣",
-        "url": "https://nitter.net/elonmusk/status/2075926239848611976#m",
-        "published_at": "2026-07-11T12:52:39"
-      },
-      {
-        "title": "He takes scamming to a whole new level",
-        "url": "https://nitter.net/elonmusk/status/2075892136604573903#m",
-        "published_at": "2026-07-11T10:37:08"
-      },
-      {
-        "title": "Cybercab at a fork in the road",
-        "url": "https://nitter.net/elonmusk/status/2075891028284903616#m",
-        "published_at": "2026-07-11T10:32:43"
-      },
-      {
-        "title": "RT by @elonmusk: BREAKING: Starlink has provided new emergency connectivity support to Armenia. 🇦🇲 • 56 additional kits will be deployed by Armenia’s Ministry of Internal Affairs’ Rescue Service to provide connectivity during natural disasters and emergencies. • 110 Starlink terminals already connect thousands of students across Armenia’s remote schools.",
-        "url": "https://nitter.net/cb_doge/status/2075888291824746682#m",
-        "published_at": "2026-07-11T10:21:51"
-      },
-      {
-        "title": "They sure put a lot of effort into this crime",
-        "url": "https://nitter.net/elonmusk/status/2075887316577439860#m",
-        "published_at": "2026-07-11T10:17:59"
-      },
-      {
-        "title": "Nuanced",
-        "url": "https://nitter.net/elonmusk/status/2075885854787064241#m",
-        "published_at": "2026-07-11T10:12:10"
-      },
-      {
-        "title": "RT by @elonmusk: The Anglo-Scottish Enlightenment – the real antidote to Rousseau and Voltaire The French Enlightenment and the Anglo-Scottish Enlightenment happened simultaneously, in the same century, reading the same books, arguing about the same questions. They reached completely opposite conclusions. One produced the Declaration of Independence and the American Constitution. The other produced the guillotine. This is the most important civilizational fork in modern history. 1. The French Enlightenment begins with the assumption that human beings can be improved by reason – that if you strip away the corrupting institutions of Church, tradition, and inherited authority, the natural goodness underneath will organize itself into a just society. This sounds like progress. It is a fantasy with a body count. Every attempt to implement it has required, at some point, a Committee of Public Safety to handle the people who turned out not to be naturally good enough. 2. The Anglo-Scottish Enlightenment begins with the opposite assumption: human beings are what they are, not what they could be if properly enlightened. Hume grounds morality in human nature as it actually operates – sympathy, habit, sentiment, the slow accumulation of social trust. Smith shows that self-interest, properly channeled, produces collective benefit without a planner. Neither man is building a utopia. Both are building with the actual material available. 3. Burke is the direct refutation, written in real time. He published Reflections on the Revolution in France in 1790 – before the Terror, predicting it precisely – because he understood that institutions are not obstacles to human flourishing, they are its precondition. They contain accumulated wisdom — the knowledge of the dead — that cannot be recovered once destroyed. Pull society apart to improve it and you don’t get the General Will. You get Robespierre. 4. The American founders read Burke, Hume, Smith, and Montesquieu – the Frenchman who looked at England and understood what France was missing. They built a system that takes human nature as given — self-interested, power-hungry, tribal — and constructs institutions to contain those tendencies rather than assume they disappear once the right people are in charge. Checks and balances are not a design flaw. They are what you build when you don’t believe in philosopher-kings. 5. 1776 versus 1789. Same Enlightenment, same century, same vocabulary of liberty and reason. One produces a constitutional republic that has survived two and a half centuries of stress, civil war, and upheaval. The other produces, in sequence: the Terror, Napoleon, 1848, the Commune, and eventually — via Marx, who was a Frenchman in spirit if not in birth — the entire catastrophe of the twentieth century. The difference was not intelligence or intention. It was the starting assumption about human nature. Get that wrong and everything that follows is wrong with it. 6. The guillotine is not the Revolution’s failure. It is its logical conclusion. If man is naturally good and the system is corrupt, then whoever seizes the system in the name of natural goodness is licensed to do anything. The General Will cannot be wrong. Those who resist it are not opponents – they are enemies of nature itself. 7. The real antidote to Rousseau and Voltaire was never a better French philosopher. It was a different civilizational tradition – one that builds with human beings as they are; that treats inherited institutions as repositories of wisdom rather than obstacles to progress; that distributes power rather than concentrating it in whoever currently claims to know the General Will. That tradition was built in Edinburgh, London, and Philadelphia. It is currently under sustained assault — from exactly the same ideas, in exactly the same form, with exactly the same confidence — that Burke watched demolish France in 1789. He was right then. He is right now.",
-        "url": "https://nitter.net/Kristof_Poland/status/2075864669151998341#m",
-        "published_at": "2026-07-11T08:47:59"
-      },
-      {
-        "title": "Falcon Rising",
-        "url": "https://nitter.net/elonmusk/status/2075818822544601377#m",
-        "published_at": "2026-07-11T05:45:48"
-      },
-      {
-        "title": "Grok places second after Fable on real-world software engineering",
-        "url": "https://nitter.net/elonmusk/status/2075814989953114259#m",
-        "published_at": "2026-07-11T05:30:35"
-      },
-      {
-        "title": "Grok 4.5 Review",
-        "url": "https://nitter.net/elonmusk/status/2075814427698344032#m",
-        "published_at": "2026-07-11T05:28:20"
-      },
-      {
-        "title": "Bamf",
-        "url": "https://nitter.net/elonmusk/status/2075795264627933276#m",
-        "published_at": "2026-07-11T04:12:12"
-      },
-      {
-        "title": "As usual, legacy media is misrepresenting the situation. I just asked Tesla & SpaceX to try out Grok 4.5 to see if it solves their task, not use it no matter what! They should continue to use other AI models if those models outperform Grok.",
-        "url": "https://nitter.net/elonmusk/status/2075794297631158373#m",
-        "published_at": "2026-07-11T04:08:21"
-      },
-      {
-        "title": "Media",
-        "url": "https://nitter.net/elonmusk/status/2075793029693157579#m",
-        "published_at": "2026-07-11T04:03:19"
-      },
-      {
-        "title": "Epic videos of Starship Super Heavy!",
-        "url": "https://nitter.net/elonmusk/status/2075792911933853989#m",
-        "published_at": "2026-07-11T04:02:51"
-      },
-      {
-        "title": "RT by @elonmusk: Grok 4.5 with Grok Build has tied for the #1 spot on the SWE-Atlas-QnA benchmark, matching Codex GPT-5.6 with an impressive 84 score. Another strong milestone for xAI's rapidly advancing coding capabilities.",
-        "url": "https://nitter.net/teslaownersSV/status/2075643190334705885#m",
-        "published_at": "2026-07-10T18:07:54"
-      },
-      {
-        "title": "RT by @elonmusk: tesla fsd is the greatest piece of technology i've ever experienced. it's not even close. there's something hard to comprehend that my car is operating in the physical world, completely autonomously. pure magic. I can't ever get another car now...",
-        "url": "https://nitter.net/tylerbruno05/status/2075587411334119779#m",
-        "published_at": "2026-07-10T14:26:16"
+        "title": "RT by @elonmusk: How many people have left America to escape Capitalism? VS How many people have come to America while escaping socialism?",
+        "url": "https://nitter.net/TheRabbitHole/status/2076005333416521787#m",
+        "published_at": "2026-07-11T18:06:56"
       }
     ],
     "Trump (Truth Social)": [
+      {
+        "title": "[No Title] - Post from July 12, 2026",
+        "url": "https://www.trumpstruth.org/statuses/39965",
+        "published_at": "2026-07-12T22:12:42"
+      },
+      {
+        "title": "RT @realDonaldTrumpThank you to Ben Domenech, for all of the great things he has been saying. We’re doing well. Our Country has never been stronger, and it’s nice to be recognized! More importantly, it is really great that Lindsey Graham is being so respectfully honored — He greatly deserves it! President DONALD J. TRUMP",
+        "url": "https://www.trumpstruth.org/statuses/39963",
+        "published_at": "2026-07-12T20:00:41"
+      },
+      {
+        "title": "RT @realDonaldTrumpIn honor of the remarkable life and achievements of Senator Lindsey Graham, a dear friend of mine, and a truly great man, who achieved so much for our Country, and his beloved Home State of South Carolina, I am ordering all American Flags throughout the United States lowered to Half Mast until Saturday evening at 6 P.M. GOD BLESS YOU LINDSEY! President DONALD J. TRUMP",
+        "url": "https://www.trumpstruth.org/statuses/39964",
+        "published_at": "2026-07-12T20:00:39"
+      },
+      {
+        "title": "[No Title] - Post from July 12, 2026",
+        "url": "https://www.trumpstruth.org/statuses/39960",
+        "published_at": "2026-07-12T19:55:29"
+      },
+      {
+        "title": "[No Title] - Post from July 12, 2026",
+        "url": "https://www.trumpstruth.org/statuses/39961",
+        "published_at": "2026-07-12T19:55:22"
+      },
+      {
+        "title": "[No Title] - Post from July 12, 2026",
+        "url": "https://www.trumpstruth.org/statuses/39962",
+        "published_at": "2026-07-12T19:55:13"
+      },
+      {
+        "title": "[No Title] - Post from July 12, 2026",
+        "url": "https://www.trumpstruth.org/statuses/39959",
+        "published_at": "2026-07-12T19:54:02"
+      },
+      {
+        "title": "Thank you to Ben Domenech, for all of the great things he has been saying. We’re doing well. Our Country has never been stronger, and it’s nice to be recognized! More importantly, it is really great that Lindsey Graham is being so respectfully honored — He greatly deserves it! President DONALD J. TRUMP",
+        "url": "https://www.trumpstruth.org/statuses/39958",
+        "published_at": "2026-07-12T18:50:39"
+      },
+      {
+        "title": "In honor of the remarkable life and achievements of Senator Lindsey Graham, a dear friend of mine, and a truly great man, who achieved so much for our Country, and his beloved Home State of South Carolina, I am ordering all American Flags throughout the United States lowered to Half Mast until Saturday evening at 6 P.M. GOD BLESS YOU LINDSEY! President DONALD J. TRUMP",
+        "url": "https://www.trumpstruth.org/statuses/39957",
+        "published_at": "2026-07-12T16:53:04"
+      },
+      {
+        "title": "Senator Lindsey Graham, one of the greatest people and Senators I have ever known, is dead! He was always working, and was a true American Patriot. Lindsey will be greatly missed!!! DETAILS AND ARRANGEMENTS TO FOLLOW. So sad!President DONALD J. TRUMP",
+        "url": "https://www.trumpstruth.org/statuses/39956",
+        "published_at": "2026-07-12T07:21:57"
+      },
       {
         "title": "[No Title] - Post from July 11, 2026",
         "url": "https://www.trumpstruth.org/statuses/39953",
@@ -148,56 +198,6 @@
         "title": "With only bad Press and Fake News, I won the Presidential Election IN A LANDSLIDE. Therefore, the Media has NO CREDIBILITY! If it did, that Historic Win would not have been possible. I want them to gain the Respect which they have so sadly lost, and help, MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP",
         "url": "https://www.trumpstruth.org/statuses/39946",
         "published_at": "2026-07-11T20:54:31"
-      },
-      {
-        "title": "It’s incredible! I win the Election IN A LANDSLIDE against the entire Dumocrat Party, and almost 100% negative news — I won 86% of the Counties in America, 2,750 to 525, won the Electoral College, 312 to 226, was the first Republican in decades to win the Popular Vote, and decisively won all seven Swing States, all 50 States shifted toward the Republican Party for the first time, EVER — and I had to run against not one Candidate, but two, Sleepy Joe and Kamala, which has never happened before, against almost 100% negative press and Fake News, all of them willing to do anything that I lose — and yet especially Maggot Hagerman, one of the most unattractive people in the News “Business,” and her lightweight assistant, Jonathan Swan, and The Failing New York Times itself, which spends all of its energy on negative stories about me. All I do is WIN, often against all odds but, after the Big Election Success, there’s no, “Gee, he won, he did a great job!” There’s no saying, “Maybe we were wrong about him, the people were right” or, maybe, “Congratulations, we wish you Great Success for our Country!” No, but after I won the Election FOR THE THIRD TIME, the same people start immediately, all over again — The Failing New York Times, The LOST ITS WAY Wall Street Journal, MSDNC (They changed their name to MSNOW because nobody was watching!), Ignorant CNN, with some of the Worst No Name Anchors in History, and all three Fake Networks, ABC, CBS, NBC. All of their Readership, Ratings, and Viewership, are “tanking” because the Public understands they are, as I have said right from the beginning, “FAKE NEWS!” They have no credibility, or it would have been impossible for me to win with only bad stories, especially in a Historic Landslide. Think of it, this was my opposition! If the Election was held again today, I would win by even more — Actually, much more! The Dumocrats don’t have what it takes, their Policies are wrong, and they are, generally, stupid people. They are going COMMUNIST because they are a desperately “sinking ship,” and there’s not a thing they can do about it. Instead of writing inaccurate, false articles, for over 10 years now, shouldn’t it be time that they say, “We give up, we can’t beat him, there seems nothing we can do.” Isn’t it time they say, “TRUMP IS THE BEST POLITICAL ATHLETE OF ALL TIME! CONGRATULATIONS, MR. PRESIDENT. YOU HAVE BEATEN US FOR 10 YEARS, AND WE ARE NOT GOING TO WASTE OUR TIME FIGHTING YOU ANY LONGER. WE CAN’T WIN. DO A GREAT JOB, SIR, RUNNING OUR COUNTRY. MAKE AMERICA GREAT AGAIN!”",
-        "url": "https://www.trumpstruth.org/statuses/39945",
-        "published_at": "2026-07-11T19:16:20"
-      },
-      {
-        "title": "Maggot Hagerman has covered me incorrectly for ten years. Her book is a joke! 90% of it is Fake News. She has made a living off her bad reporting, and will pay the price when our Multi Billion Dollar Lawsuit against The Failing New York Times gets to Court, which should not be that long. I don’t mind bad press, if they are right. I do mind Fake Reporting, like what’s in her boring book, and like she’s done for eleven years, with only one aim in mind, to have Trump lose Elections but, as I sit in the Oval Office and ponder, that hasn’t worked out too well. Maggot is a loser! If she ever wrote the true story about me, it would actually be quite boring, but loaded with lots of SUCCESS. Also, I just finished a perfect physical at Walter Reed, I do it every six months, and I requested another Cognitive Test, the only President to do so, three times, and I aced them all — Got every question right. Few people in Washington, D.C., could do so, including Maggot and her flunky associate, Jonathan Swan. I would be willing to bet they couldn’t get 50% of the questions right. Anyway, don’t buy their book, it’s garbage! President DONALD J. TRUMP",
-        "url": "https://www.trumpstruth.org/statuses/39944",
-        "published_at": "2026-07-11T16:23:20"
-      },
-      {
-        "title": "[No Title] - Post from July 11, 2026",
-        "url": "https://www.trumpstruth.org/statuses/39942",
-        "published_at": "2026-07-11T12:17:13"
-      },
-      {
-        "title": "Wow! Palm Beach has always been a special place to me. So Beautiful!!! President DONALD J. TRUMP",
-        "url": "https://www.trumpstruth.org/statuses/39943",
-        "published_at": "2026-07-11T12:16:21"
-      },
-      {
-        "title": "RT @realDonaldTrump1000 Missiles are Locked and Loaded and aimed at the Islamic Republic of Iran, with thousands of more to immediately follow, should the Iranian Government act on its threat, pronounced in many corners of the Globe, to assassinate, or attempt to assassinate, the sitting President of the United States of America, in this case, ME! Orders have already been given, and the U.S. Military is ready, willing, and able, for a one year period of time, subject to extension, to completely decimate and destroy all areas of Iran - PRAISE BE TO ALLAH! President DONALD J. TRUMP",
-        "url": "https://www.trumpstruth.org/statuses/39941",
-        "published_at": "2026-07-11T04:07:03"
-      },
-      {
-        "title": "I was able to cut a MUCH BETTER DEAL for America, and by so doing, will be allowing the new and spectacular Gordie Howe International Bridge, spanning Detroit and Windsor, Ontario, to open on July 27th, as scheduled. The original deal made was unacceptable to me! The new deal is great, and fair. Thank you and congratulations to the Canadian Government. May we both have many years of success with this wonderful new development!!! President DONALD J. TRUMP",
-        "url": "https://www.trumpstruth.org/statuses/39940",
-        "published_at": "2026-07-11T04:04:44"
-      },
-      {
-        "title": "[No Title] - Post from July 11, 2026",
-        "url": "https://www.trumpstruth.org/statuses/39939",
-        "published_at": "2026-07-11T03:25:18"
-      },
-      {
-        "title": "1000 Missiles are Locked and Loaded and aimed at the Islamic Republic of Iran, with thousands of more to immediately follow, should the Iranian Government act on its threat, pronounced in many corners of the Globe, to assassinate, or attempt to assassinate, the sitting President of the United States of America, in this case, ME! Orders have already been given, and the U.S. Military is ready, willing, and able, for a one year period of time, subject to extension, to completely decimate and destroy all areas of Iran - PRAISE BE TO ALLAH! President DONALD J. TRUMP",
-        "url": "https://www.trumpstruth.org/statuses/39938",
-        "published_at": "2026-07-11T03:18:00"
-      },
-      {
-        "title": "[No Title] - Post from July 11, 2026",
-        "url": "https://www.trumpstruth.org/statuses/39937",
-        "published_at": "2026-07-11T02:24:30"
-      },
-      {
-        "title": "Jack Smith’s team may have exposed classified info while probing Trump for allegedly doing the same:",
-        "url": "https://www.trumpstruth.org/statuses/39936",
-        "published_at": "2026-07-11T02:17:51"
       }
     ]
   }
