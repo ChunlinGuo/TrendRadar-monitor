@@ -1,109 +1,77 @@
 {
-  "push_time": "2026-07-15T07:26:15.129010+08:00",
+  "push_time": "2026-07-16T07:29:22.421039+08:00",
   "feeds": {
-    "Elon Musk (X/Twitter)": [
-      {
-        "title": "Ancient times",
-        "url": "https://nitter.net/elonmusk/status/2077044528234553709#m",
-        "published_at": "2026-07-14T14:56:19"
-      },
-      {
-        "title": "True",
-        "url": "https://nitter.net/elonmusk/status/2077043449279262954#m",
-        "published_at": "2026-07-14T14:52:02"
-      },
-      {
-        "title": "RT by @elonmusk: Starlink will provide high-speed, low-latency connectivity onboard @FlyFrontier, transforming every flight into a fully connected experience 🛰️✈️",
-        "url": "https://nitter.net/Starlink/status/2077022708693684548#m",
-        "published_at": "2026-07-14T13:29:37"
-      },
-      {
-        "title": "RT by @elonmusk: Grok is the Flow LLM. Grok 4.5’s biggest advantage is its speed. It’s smart enough to be comparable to the other models on most things. But that speed allows you to make little tweaks to your system so that the output is PERFECT. With the other models, it takes FOREVER to do this, and you constantly end up outside of a flow state, which makes it way way way harder to do this. It’s now my preferred model.",
-        "url": "https://nitter.net/farzyness/status/2077012251899277738#m",
-        "published_at": "2026-07-14T12:48:04"
-      },
-      {
-        "title": "Grok 4.5 reaches #1 position on Long-Horizon Terminal-Bench",
-        "url": "https://nitter.net/elonmusk/status/2076909201524203973#m",
-        "published_at": "2026-07-14T05:58:35"
-      },
-      {
-        "title": "The woke mob had turned Twitter into Wormtongue to the World",
-        "url": "https://nitter.net/elonmusk/status/2076905740531302479#m",
-        "published_at": "2026-07-14T05:44:50"
-      },
-      {
-        "title": "RT by @elonmusk: Just a reminder that deepseek v3 came out 18 months ago and was considered revolutionary at the time but is basically unusable today There was a fierce debate at the time about vibe coding and the argument was that LLMs can never create anything new because they are limited by their training data Those engineers were partly right and vibe coding was a real nightmare, I cannot believe what we used to put ourselves through with Sonnet 3.5, but we also knew real new things could be made and that the detractors were wrong I guess us non-engineers saw it most clearly (I would like to think so at least) because we were astonished at the new things we could do without the programming background, and we had nothing to lose and everything to gain in our enthusiasm Then came Opus 4.5 earlier this year which changed everything Suddenly real production code became possible with so much less friction and headache Everyone complained endlessly about models being nerfed or quantized but there was a steady march of progress from 4.5 to 4.8 Now a completely new crop of models is coming out that is not quite a 4.5 moment but something close We are not only getting more polish but things are becoming a little freaky, entire isolated domains become possible to combine with small teams or even just one person into new applications that would have required large infusions of time and capital in the past My wife back in 2021 told me about AI but I was in healthcare, I thought she was being a little nutty, and she talked like something from a science fiction film was coming and she got involved in it early on She never stops letting me know that she was right, and she was The next year is going to be wild, the world is truly going to change over the next few years, the scale of disruption will be a combination of astonishing and awesome, but also catastrophic There are many amazing things ahead and extraordinary challenges and opportunities We are living inside one of one of the biggest revolutions in human history",
-        "url": "https://nitter.net/kevinnbass/status/2076881971117011234#m",
-        "published_at": "2026-07-14T04:10:23"
-      },
-      {
-        "title": "RT by @elonmusk: Falcon 9 launches 27 @Starlink satellites from California",
-        "url": "https://nitter.net/SpaceX/status/2076879176628305957#m",
-        "published_at": "2026-07-14T03:59:16"
-      },
-      {
-        "title": "True",
-        "url": "https://nitter.net/elonmusk/status/2076796854973423971#m",
-        "published_at": "2026-07-13T22:32:09"
-      },
-      {
-        "title": "RT by @elonmusk: SpaceX was founded on one powerful belief: A future where humanity is out exploring the stars is fundamentally more exciting than one where we are not Every Falcon launch, every Starship test, and every step toward Mars is built around that belief The goal is not just to reach space It is to build a future where humanity becomes a multiplanetary civilization",
-        "url": "https://nitter.net/XFreeze/status/2076750536582529090#m",
-        "published_at": "2026-07-13T19:28:06"
-      },
-      {
-        "title": "RT by @elonmusk: We're rolling out a small tweak to boost visibility of your posts to your mutuals (people who you follow back). We noticed this data was missing from the algo and it made your friends appear less in your replies. This resulted in the reply section feeling more like a battleground with people you don't recognize. This should also help clusters form around interests more easily, which many people have asked for.",
-        "url": "https://nitter.net/nikitabier/status/2076747704248758617#m",
-        "published_at": "2026-07-13T19:16:51"
-      },
-      {
-        "title": "Progress",
-        "url": "https://nitter.net/elonmusk/status/2076739857863385206#m",
-        "published_at": "2026-07-13T18:45:40"
-      },
-      {
-        "title": "True. As a precautionary measure, all user data that was uploaded to SpaceXAI before now will be completely and utterly deleted. Zero anything whatsoever will remain.",
-        "url": "https://nitter.net/elonmusk/status/2076739687658496209#m",
-        "published_at": "2026-07-13T18:45:00"
-      },
-      {
-        "title": "SpaceX policy regarding data retention. It is actually helpful for debugging issues if we can retain some amount of data, so allowing this would be appreciated, but your privacy settings are always respected.",
-        "url": "https://nitter.net/elonmusk/status/2076737992689914215#m",
-        "published_at": "2026-07-13T18:38:16"
-      },
-      {
-        "title": "RT by @elonmusk: Their zero data retention policy fine print says they still retain data? Am I reading this right?",
-        "url": "https://nitter.net/elonmusk/status/2076737284192285068#m",
-        "published_at": "2026-07-13T18:35:27"
-      },
-      {
-        "title": "RT by @elonmusk: The default in Grok Build is off. You can also run /privacy and any synced data is deleted. ZDR is respected for both headless and interactive use as well.",
-        "url": "https://nitter.net/JasonBud/status/2076726650365264196#m",
-        "published_at": "2026-07-13T17:53:11"
-      },
-      {
-        "title": "RT by @elonmusk: That's not the case. The CLI doesn't retain data under ZDR (including headless/non-headless modes), and has since launch. Similarly, /privacy in the CLI will disable or reenable any data retention. For some features, including remote session listing, cloud agents, and handoff, you will need to enable data syncing.",
-        "url": "https://nitter.net/milichab/status/2076725943708868615#m",
-        "published_at": "2026-07-13T17:50:23"
-      },
-      {
-        "title": "RT by @elonmusk: Right-wing wave in Europe. France 🇫🇷: Marine Le Pen now leading polls to be next President. Austria 🇦🇹: the Freedom Party is leading the polls massively at almost 40% Germany 🇩🇪: The AfD party now consistently number ONE in polls. Norway 🇳🇴: The Libertarian FrP party leading the polls by a wide margin. Something is changing in Europe.",
-        "url": "https://nitter.net/PeterSweden7/status/2076723840168632703#m",
-        "published_at": "2026-07-13T17:42:01"
-      },
-      {
-        "title": "RT by @elonmusk: Crazy what you can build with Grok 4.5 and Grok Build in minutes.",
-        "url": "https://nitter.net/tetsuoai/status/2076722045136843026#m",
-        "published_at": "2026-07-13T17:34:53"
-      },
-      {
-        "title": "RT by @elonmusk: If you run /privacy and change the setting, all previously synced data is deleted.",
-        "url": "https://nitter.net/SpaceXAI/status/2076696092037833091#m",
-        "published_at": "2026-07-13T15:51:46"
-      }
-    ],
     "Trump (Truth Social)": [
+      {
+        "title": "Iran has allowed an American Citizen, who was wrongfully detained in December of 2024 under the “presidency” of Sleepy Joe Biden, to leave the Country. She is now safely outside of Iran, and in good condition. The United States of America appreciates this gesture of Goodwill by Iran! President DONALD J. TRUMP",
+        "url": "https://www.trumpstruth.org/statuses/40067",
+        "published_at": "2026-07-15T22:54:07"
+      },
+      {
+        "title": "Amy Klobuchar, the lightly respected Senator from Minnesota, is running for Governor to take the place of the current Corrupt and Incompetent Tim Walz. I have gotten to know Klobuchar over the years, and find her to be equally as incompetent as Walz, and probably equally as corrupt in that, as a high Government Official from Minnesota, she knew everything that was going on. If the Elections in Minnesota weren’t RIGGED, any Republican could win, but they were, and that is why nobody has won there since Richard Nixon many years ago. I thought I won it all three times, only to be disappointed in the end. Vote for Mike Lindell for Governor, who has my Complete and Total Endorsement, and forget about these Corrupt Dumocrats like Amy Klobuchar. MAKE MINNESOTA GREAT AGAIN! President DONALD J. TRUMP",
+        "url": "https://www.trumpstruth.org/statuses/40066",
+        "published_at": "2026-07-15T17:09:34"
+      },
+      {
+        "title": "It is my Great Honor to endorse MAGA Warrior, Michael Alfonso, a young “STAR” who is running to represent the incredible people of Wisconsin’s 7th Congressional District. Michael is the son-in-law of our GREAT Secretary of Transportation, Sean Duffy, and the wonderful Rachel Campos-Duffy, of FoxNews, one of the most popular (and talented!) anchors in all of Television. His family has been fierce advocates for our Movement to, MAKE AMERICA GREAT AGAIN! As your next Congressman, Michael will work tirelessly to Grow our Economy, Cut Taxes and Regulations, Champion our Amazing Farmers and Ranchers, Promote MADE IN THE U.S.A., Advance American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Support our Military/Veterans, Safeguard our Elections, and Protect our always under siege Second Amendment. Michael Alfonso has been a WINNER all of his life, comes from a truly spectacular family, and has my Complete and Total Endorsement to be the next Representative from Wisconsin’s 7th Congressional District — HE WILL NEVER LET YOU DOWN!",
+        "url": "https://www.trumpstruth.org/statuses/40065",
+        "published_at": "2026-07-15T17:01:12"
+      },
+      {
+        "title": "One of the biggest Driving Forces in the Future for Jobs, are Data Centers. They are big, strong, bold, and Money Machines for the State in which they are built. Governor Kathy Hochul, for political reasons, has terminated all Data Centers being built, or to be built, in New York State. These Companies are now being sought in Alabama, Florida, Texas, Arizona, and many other States. Both the Taxes and the Jobs amount to LIQUID GOLD! New York State has made a terrible decision. All of this Income, and other Benefits, will be going to Red States, and some Blue, where Data Centers are sought as Cash Cows, with Lower Taxes and Record Setting Jobs. They must pay for their own Water and Power, and any leftover goes back to the State and local Community. Data Centers are tremendous WINS for the States and Communities that are lucky enough to get them. New York should change its Policy, IMMEDIATELY. The Radical Left Dumocrats must not be allowed to cause us to lose Data Centers, AI, and all of this incredible new Technology, to China, and other countries! President DONALD J. TRUMP",
+        "url": "https://www.trumpstruth.org/statuses/40064",
+        "published_at": "2026-07-15T16:39:53"
+      },
+      {
+        "title": "So cool!!! President DJT",
+        "url": "https://www.trumpstruth.org/statuses/40062",
+        "published_at": "2026-07-15T11:34:26"
+      },
+      {
+        "title": "Mike Lindell, the “Pillow Man,” and one of America’s greatest and most hard working Patriots, is running to be GOVERNOR OF MINNESOTA, replacing one of the worst and most incompetent governors in the history of the U.S.A. Early Primary Voting has begun and, if given the chance, Mike will be SPECTACULAR!!! He truly loves Minnesota, as do I, and wants to bring it back from oblivion and embarrassment. He can do it! Nobody has sacrificed more than Mike Lindell in fighting for our country, especially when it comes to Election Integrity. He truly deserves everything he gets - He will MAKE MINNESOTA GREAT AGAIN!!! MIKE LINDELL HAS MY COMPLETE AND TOTAL ENDORSEMENT - HE WILL NOT LET YOU DOWN. Good Luck Mike!!! President DONALD J. TRUMP",
+        "url": "https://www.trumpstruth.org/statuses/40063",
+        "published_at": "2026-07-15T11:31:15"
+      },
+      {
+        "title": "Sen. Lindsey Graham’s presidential relationship emblematic of Trump's willingness to mend fences:",
+        "url": "https://www.trumpstruth.org/statuses/40061",
+        "published_at": "2026-07-15T10:53:55"
+      },
+      {
+        "title": "Great News for America!House passes Trump-supported bill to make daylight savings time permanent:",
+        "url": "https://www.trumpstruth.org/statuses/40059",
+        "published_at": "2026-07-15T10:49:45"
+      },
+      {
+        "title": "The men and women of ICE are doing a GREAT job, one that has to be done. CRIME IS WAY DOWN IN AMERICA, in many cases with numbers that haven’t been seen in decades. The Open Border Policy of Sleepy Joe Biden allowed 25,000,000 people to pour into our Country, unchecked and unvetted. Many were Criminals, and we have to get them out. In order to do this, we must be strong, tough, and smart, and we CANNOT give up one of I.C.E.’s most important and effective Crime Fighting tools, THE TRAFFIC STOP! Once we do, we are playing right into the criminal’s hands. The Radical Left Dumocrats would like to see this done, but it won’t happen on my watch. I.C.E., be judicious, fair and smart, and go back and do your very important job. Keep those Crime Stat Records coming! Remember, you are loved and respected in America. Thank you for your attention to this matter! PRESIDENT DONALD J. TRUMP",
+        "url": "https://www.trumpstruth.org/statuses/40060",
+        "published_at": "2026-07-15T10:45:34"
+      },
+      {
+        "title": "Great News America! The Dumocrat caused inflation is way down from what it had been, and we will bring it down still further. MAGA!",
+        "url": "https://www.trumpstruth.org/statuses/40058",
+        "published_at": "2026-07-15T10:16:36"
+      },
+      {
+        "title": "[No Title] - Post from July 14, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40054",
+        "published_at": "2026-07-14T23:58:03"
+      },
+      {
+        "title": "[No Title] - Post from July 14, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40055",
+        "published_at": "2026-07-14T23:57:53"
+      },
+      {
+        "title": "[No Title] - Post from July 14, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40056",
+        "published_at": "2026-07-14T23:57:47"
+      },
+      {
+        "title": "[No Title] - Post from July 14, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40057",
+        "published_at": "2026-07-14T23:57:33"
+      },
       {
         "title": "[No Title] - Post from July 14, 2026",
         "url": "https://www.trumpstruth.org/statuses/40053",
@@ -133,76 +101,6 @@
         "title": "[No Title] - Post from July 14, 2026",
         "url": "https://www.trumpstruth.org/statuses/40044",
         "published_at": "2026-07-14T15:23:08"
-      },
-      {
-        "title": "[No Title] - Post from July 14, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40045",
-        "published_at": "2026-07-14T15:22:54"
-      },
-      {
-        "title": "[No Title] - Post from July 14, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40046",
-        "published_at": "2026-07-14T15:21:53"
-      },
-      {
-        "title": "[No Title] - Post from July 14, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40047",
-        "published_at": "2026-07-14T15:21:42"
-      },
-      {
-        "title": "[No Title] - Post from July 14, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40048",
-        "published_at": "2026-07-14T15:21:01"
-      },
-      {
-        "title": "[No Title] - Post from July 14, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40049",
-        "published_at": "2026-07-14T15:20:46"
-      },
-      {
-        "title": "[No Title] - Post from July 14, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40041",
-        "published_at": "2026-07-14T15:18:22"
-      },
-      {
-        "title": "[No Title] - Post from July 14, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40042",
-        "published_at": "2026-07-14T15:16:08"
-      },
-      {
-        "title": "[No Title] - Post from July 14, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40040",
-        "published_at": "2026-07-14T15:10:25"
-      },
-      {
-        "title": "[No Title] - Post from July 14, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40039",
-        "published_at": "2026-07-14T15:09:57"
-      },
-      {
-        "title": "Oil is flowing like never before, thanks to the awesome Power of the United States Military. A special salute to Secretary of War, Pete Hegseth, Chairman of the Joint Chiefs of Staff, Dan Caine, and Commander of the United States Central Command, Admiral Brad Cooper. Because of them, and all members of the Most Powerful Military anywhere in the World, BY FAR, the Strait of Hormuz is open to ALL Ship traffic except for Iran — and that is because of their lying, violent, malicious leadership, which is taking them down the path of TOTAL DESTRUCTION. We will therefore have a FULL Blockade, but only on Ships coming to and from Iranian ports, or carrying anything have to do with Iranian cargo. Based on highly productive conversations with Middle East leadership, I have decided to replace the 20% United States Reimbursement Fee with Trade and Investment Deals that the various Gulf States will be making into the United States. Those Investments will be MASSIVE but, at the same time, extraordinarily good for them, and their future. As everyone is aware, we have the largest Dollar Investment into the United States, of any Country in History, but these new Investments will make that Number even larger, and we will see Factories, Plants, and Equipment pour into the United States at Historic levels, which will create additional millions of High Paying AMERICAN Jobs! America is WINNING again, winning like never before. The days of Iran killing hundreds of thousands of people, including 52,000 protestors, are OVER and, most importantly, IRAN WILL NEVER HAVE A NUCLEAR WEAPON! Thank you for your attention to this matter. President DONALD J. TRUMP",
-        "url": "https://www.trumpstruth.org/statuses/40038",
-        "published_at": "2026-07-14T15:04:19"
-      },
-      {
-        "title": "[No Title] - Post from July 14, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40036",
-        "published_at": "2026-07-14T14:41:05"
-      },
-      {
-        "title": "[No Title] - Post from July 14, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40037",
-        "published_at": "2026-07-14T14:40:49"
-      },
-      {
-        "title": "Trump says he stopped California from rigging the gubernatorial race against Steve Hilton:",
-        "url": "https://www.trumpstruth.org/statuses/40035",
-        "published_at": "2026-07-14T14:35:17"
-      },
-      {
-        "title": "Trump touts U.S. economy and oil prices in a midterm pitch in Pennsylvania:",
-        "url": "https://www.trumpstruth.org/statuses/40028",
-        "published_at": "2026-07-14T14:35:03"
       }
     ]
   }
