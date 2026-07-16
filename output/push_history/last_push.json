@@ -1,106 +1,208 @@
 {
-  "push_time": "2026-07-16T07:29:22.421039+08:00",
+  "push_time": "2026-07-16T20:02:42.557824+08:00",
   "feeds": {
+    "Elon Musk (X/Twitter)": [
+      {
+        "title": "RT by @elonmusk: This feels like a scene out of a sci-fi movie but it’s just my drive to work this morning",
+        "url": "https://nitter.net/AJamesMcCarthy/status/2077722244571144271#m",
+        "published_at": "2026-07-16T11:49:19"
+      },
+      {
+        "title": "Arguing with NPCs is pointless",
+        "url": "https://nitter.net/elonmusk/status/2077629400569278597#m",
+        "published_at": "2026-07-16T05:40:24"
+      },
+      {
+        "title": "Pinned: Image",
+        "url": "https://nitter.net/elonmusk/status/2077626867297681867#m",
+        "published_at": "2026-07-16T05:30:20"
+      },
+      {
+        "title": "RT by @elonmusk: \"@elonmusk is working on the most important areas of A.I. xAI is working on foundation cognitive intelligence A.I., Tesla is working on autonomous vehicles. Optimus is for humanoid robotics. He is very optimistic about the future of A.I.\"",
+        "url": "https://nitter.net/teslaownersSV/status/2077620854696050963#m",
+        "published_at": "2026-07-16T05:06:26"
+      },
+      {
+        "title": "That’s how making a startup succeed goes",
+        "url": "https://nitter.net/elonmusk/status/2077620484624011651#m",
+        "published_at": "2026-07-16T05:04:58"
+      },
+      {
+        "title": "RT by @elonmusk: Usage limits are reset and Grok Build is open-source",
+        "url": "https://nitter.net/grok/status/2077528321819320571#m",
+        "published_at": "2026-07-15T22:58:45"
+      },
+      {
+        "title": "RT by @elonmusk: BREAKING: SpaceXAI sues Grok user accused of creating illegal deepfakes. Elon Musk previously warned that anyone using Grok to create illegal content would face the same consequences as someone uploading it. • A user created multiple accounts using false identities and repeatedly attempted to bypass Grok’s safeguards. • He uploaded photos of adults and minors and tried to turn them into CSAM. • SpaceXAI says its detection and reporting helped lead to his arrest. He now faces eight felony child-exploitation charges in South Carolina. • SpaceXAI has suspended 52,222 accounts and submitted 73,604 reports to NCMEC in 2026, contributing to at least 244 arrests.",
+        "url": "https://nitter.net/cb_doge/status/2077514657707991311#m",
+        "published_at": "2026-07-15T22:04:27"
+      },
+      {
+        "title": "RT by @elonmusk: I've inspected the open-sourced Grok Build so you don't have to. Here's exactly what data it sends (and what stays local): Core (unavoidable)→ Your prompts/conversations + tool calls go to xAI's inference API. That's the whole point of the CLI. Everything else is off by default — no Mixpanel, no Sentry, no product telemetry unless you explicitly turn it on. Even the auto-update check is a simple version GET you can disable in config. Purely local stuff (crash reports, debug logs, secret redaction, auth) never touches the network. All telemetry paths also scrub secrets before anything is sent. Full details 👇",
+        "url": "https://nitter.net/MiaAI_lab/status/2077512540431466565#m",
+        "published_at": "2026-07-15T21:56:02"
+      },
+      {
+        "title": "RT by @elonmusk: Grok Build is now fully open source, and SpaceXAI has made its privacy-first approach even stronger SpaceXAI has officially: • Open-sourced the Grok Build harness CLI • Reset usage limits for all users • Disabled data retention by default • Deleted all previously retained coding data • Made the harness fully local-first, allowing you to run it with your own inference Since launch, Grok Build has supported Zero Data Retention (ZDR) for users who opted in Now, based on community feedback, SpaceXAI has gone a step further: Data retention is now OFF by default for everyone Your coding sessions remain private by default, with retention entirely under your control By combining an open-source harness, local-first execution, zero retention by default, and the deletion of previously retained coding data, SpaceXAI is setting a new standard for privacy in AI coding tools Transparent, open, and built to give users complete control over their data",
+        "url": "https://nitter.net/XFreeze/status/2077501069127819347#m",
+        "published_at": "2026-07-15T21:10:27"
+      },
+      {
+        "title": "RT by @elonmusk: We've appreciated your feedback on X. Limits are reset, Grok 4.5 is available in the EU, and Grok Build is now open source.",
+        "url": "https://nitter.net/JasonBud/status/2077496523685056751#m",
+        "published_at": "2026-07-15T20:52:23"
+      },
+      {
+        "title": "Grok Build is now open source",
+        "url": "https://nitter.net/elonmusk/status/2077495635687723408#m",
+        "published_at": "2026-07-15T20:48:52"
+      },
+      {
+        "title": "RT by @elonmusk: I know I'm late but yeah ok Grok 4.5 is actually really good. It's super fast, direct path to solutions, and quite capable.",
+        "url": "https://nitter.net/MatthewBerman/status/2077445418884202757#m",
+        "published_at": "2026-07-15T17:29:19"
+      },
+      {
+        "title": "RT by @elonmusk: The sheer amount of energy it takes to defeat gravity is humbling, but a powerful reminder of what humanity is capable of. My photography is to hopefully provide an optimistic perspective of humanity's future among the stars.",
+        "url": "https://nitter.net/AJamesMcCarthy/status/2077440302676386009#m",
+        "published_at": "2026-07-15T17:08:59"
+      },
+      {
+        "title": "It is a thoughtful framework overall and certainly a good starting point for discussions",
+        "url": "https://nitter.net/elonmusk/status/2077415601610297535#m",
+        "published_at": "2026-07-15T15:30:50"
+      },
+      {
+        "title": "Grok",
+        "url": "https://nitter.net/elonmusk/status/2077415187846500563#m",
+        "published_at": "2026-07-15T15:29:11"
+      },
+      {
+        "title": "Good reason to try Grok 4.5 with Grok Build. It gets better every day!",
+        "url": "https://nitter.net/elonmusk/status/2077412964231991420#m",
+        "published_at": "2026-07-15T15:20:21"
+      },
+      {
+        "title": "Am putting together a product gallery at my ranch in Texas",
+        "url": "https://nitter.net/elonmusk/status/2077412614091473360#m",
+        "published_at": "2026-07-15T15:18:58"
+      },
+      {
+        "title": "RT by @elonmusk: INSANE Drone Flyover of Tesla Giga Texas! I flew my FPV drone right over Tesla’s massive Gigafactory in Texas and captured epic aerial views of the factory. The sheer size of this place is mind-blowing! Watch the full flyover and see why Giga Texas is one of the biggest factories in the world. Drone footage shot on @antigravity_HQ A1 Drone Purchase below https://www.antigravity.tech/drone/antigravity-a1/buy?utm_term=AGRP5DM",
+        "url": "https://nitter.net/teslaownersSV/status/2077154314989232197#m",
+        "published_at": "2026-07-14T22:12:35"
+      },
+      {
+        "title": "RT by @elonmusk: Well said Demis! Worth reading",
+        "url": "https://nitter.net/sundarpichai/status/2077086951833063580#m",
+        "published_at": "2026-07-14T17:44:54"
+      },
+      {
+        "title": "RT by @elonmusk: An important piece from Demis. We need more of this kind of thinking. A good reminder that the goal is a frontier ecosystem that promotes innovation and choice, while avoiding any one model drop that breaks the world!",
+        "url": "https://nitter.net/satyanadella/status/2077063479232795024#m",
+        "published_at": "2026-07-14T16:11:38"
+      }
+    ],
     "Trump (Truth Social)": [
       {
-        "title": "Iran has allowed an American Citizen, who was wrongfully detained in December of 2024 under the “presidency” of Sleepy Joe Biden, to leave the Country. She is now safely outside of Iran, and in good condition. The United States of America appreciates this gesture of Goodwill by Iran! President DONALD J. TRUMP",
-        "url": "https://www.trumpstruth.org/statuses/40067",
-        "published_at": "2026-07-15T22:54:07"
+        "title": "[No Title] - Post from July 16, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40086",
+        "published_at": "2026-07-16T05:33:37"
       },
       {
-        "title": "Amy Klobuchar, the lightly respected Senator from Minnesota, is running for Governor to take the place of the current Corrupt and Incompetent Tim Walz. I have gotten to know Klobuchar over the years, and find her to be equally as incompetent as Walz, and probably equally as corrupt in that, as a high Government Official from Minnesota, she knew everything that was going on. If the Elections in Minnesota weren’t RIGGED, any Republican could win, but they were, and that is why nobody has won there since Richard Nixon many years ago. I thought I won it all three times, only to be disappointed in the end. Vote for Mike Lindell for Governor, who has my Complete and Total Endorsement, and forget about these Corrupt Dumocrats like Amy Klobuchar. MAKE MINNESOTA GREAT AGAIN! President DONALD J. TRUMP",
-        "url": "https://www.trumpstruth.org/statuses/40066",
-        "published_at": "2026-07-15T17:09:34"
+        "title": "[No Title] - Post from July 16, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40087",
+        "published_at": "2026-07-16T05:30:20"
       },
       {
-        "title": "It is my Great Honor to endorse MAGA Warrior, Michael Alfonso, a young “STAR” who is running to represent the incredible people of Wisconsin’s 7th Congressional District. Michael is the son-in-law of our GREAT Secretary of Transportation, Sean Duffy, and the wonderful Rachel Campos-Duffy, of FoxNews, one of the most popular (and talented!) anchors in all of Television. His family has been fierce advocates for our Movement to, MAKE AMERICA GREAT AGAIN! As your next Congressman, Michael will work tirelessly to Grow our Economy, Cut Taxes and Regulations, Champion our Amazing Farmers and Ranchers, Promote MADE IN THE U.S.A., Advance American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Support our Military/Veterans, Safeguard our Elections, and Protect our always under siege Second Amendment. Michael Alfonso has been a WINNER all of his life, comes from a truly spectacular family, and has my Complete and Total Endorsement to be the next Representative from Wisconsin’s 7th Congressional District — HE WILL NEVER LET YOU DOWN!",
-        "url": "https://www.trumpstruth.org/statuses/40065",
-        "published_at": "2026-07-15T17:01:12"
+        "title": "[No Title] - Post from July 16, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40084",
+        "published_at": "2026-07-16T05:06:24"
       },
       {
-        "title": "One of the biggest Driving Forces in the Future for Jobs, are Data Centers. They are big, strong, bold, and Money Machines for the State in which they are built. Governor Kathy Hochul, for political reasons, has terminated all Data Centers being built, or to be built, in New York State. These Companies are now being sought in Alabama, Florida, Texas, Arizona, and many other States. Both the Taxes and the Jobs amount to LIQUID GOLD! New York State has made a terrible decision. All of this Income, and other Benefits, will be going to Red States, and some Blue, where Data Centers are sought as Cash Cows, with Lower Taxes and Record Setting Jobs. They must pay for their own Water and Power, and any leftover goes back to the State and local Community. Data Centers are tremendous WINS for the States and Communities that are lucky enough to get them. New York should change its Policy, IMMEDIATELY. The Radical Left Dumocrats must not be allowed to cause us to lose Data Centers, AI, and all of this incredible new Technology, to China, and other countries! President DONALD J. TRUMP",
-        "url": "https://www.trumpstruth.org/statuses/40064",
-        "published_at": "2026-07-15T16:39:53"
+        "title": "[No Title] - Post from July 16, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40085",
+        "published_at": "2026-07-16T05:05:17"
       },
       {
-        "title": "So cool!!! President DJT",
-        "url": "https://www.trumpstruth.org/statuses/40062",
-        "published_at": "2026-07-15T11:34:26"
+        "title": "FREEDOM 250 GRAND PRIX🏎️🇺🇸🏁",
+        "url": "https://www.trumpstruth.org/statuses/40083",
+        "published_at": "2026-07-16T05:04:00"
       },
       {
-        "title": "Mike Lindell, the “Pillow Man,” and one of America’s greatest and most hard working Patriots, is running to be GOVERNOR OF MINNESOTA, replacing one of the worst and most incompetent governors in the history of the U.S.A. Early Primary Voting has begun and, if given the chance, Mike will be SPECTACULAR!!! He truly loves Minnesota, as do I, and wants to bring it back from oblivion and embarrassment. He can do it! Nobody has sacrificed more than Mike Lindell in fighting for our country, especially when it comes to Election Integrity. He truly deserves everything he gets - He will MAKE MINNESOTA GREAT AGAIN!!! MIKE LINDELL HAS MY COMPLETE AND TOTAL ENDORSEMENT - HE WILL NOT LET YOU DOWN. Good Luck Mike!!! President DONALD J. TRUMP",
-        "url": "https://www.trumpstruth.org/statuses/40063",
-        "published_at": "2026-07-15T11:31:15"
+        "title": "With today’s announcement, Pennsylvania will play a key role in building the arsenal of freedom to defend our nation in the modern world!",
+        "url": "https://www.trumpstruth.org/statuses/40081",
+        "published_at": "2026-07-16T04:59:45"
       },
       {
-        "title": "Sen. Lindsey Graham’s presidential relationship emblematic of Trump's willingness to mend fences:",
-        "url": "https://www.trumpstruth.org/statuses/40061",
-        "published_at": "2026-07-15T10:53:55"
+        "title": "[No Title] - Post from July 16, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40082",
+        "published_at": "2026-07-16T04:56:45"
       },
       {
-        "title": "Great News for America!House passes Trump-supported bill to make daylight savings time permanent:",
-        "url": "https://www.trumpstruth.org/statuses/40059",
-        "published_at": "2026-07-15T10:49:45"
+        "title": "[No Title] - Post from July 16, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40078",
+        "published_at": "2026-07-16T04:54:11"
       },
       {
-        "title": "The men and women of ICE are doing a GREAT job, one that has to be done. CRIME IS WAY DOWN IN AMERICA, in many cases with numbers that haven’t been seen in decades. The Open Border Policy of Sleepy Joe Biden allowed 25,000,000 people to pour into our Country, unchecked and unvetted. Many were Criminals, and we have to get them out. In order to do this, we must be strong, tough, and smart, and we CANNOT give up one of I.C.E.’s most important and effective Crime Fighting tools, THE TRAFFIC STOP! Once we do, we are playing right into the criminal’s hands. The Radical Left Dumocrats would like to see this done, but it won’t happen on my watch. I.C.E., be judicious, fair and smart, and go back and do your very important job. Keep those Crime Stat Records coming! Remember, you are loved and respected in America. Thank you for your attention to this matter! PRESIDENT DONALD J. TRUMP",
-        "url": "https://www.trumpstruth.org/statuses/40060",
-        "published_at": "2026-07-15T10:45:34"
+        "title": "[No Title] - Post from July 16, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40079",
+        "published_at": "2026-07-16T04:53:32"
       },
       {
-        "title": "Great News America! The Dumocrat caused inflation is way down from what it had been, and we will bring it down still further. MAGA!",
-        "url": "https://www.trumpstruth.org/statuses/40058",
-        "published_at": "2026-07-15T10:16:36"
+        "title": "[No Title] - Post from July 16, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40080",
+        "published_at": "2026-07-16T04:51:55"
       },
       {
-        "title": "[No Title] - Post from July 14, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40054",
-        "published_at": "2026-07-14T23:58:03"
+        "title": "[No Title] - Post from July 16, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40073",
+        "published_at": "2026-07-16T04:50:24"
       },
       {
-        "title": "[No Title] - Post from July 14, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40055",
-        "published_at": "2026-07-14T23:57:53"
+        "title": "[No Title] - Post from July 16, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40074",
+        "published_at": "2026-07-16T04:50:15"
       },
       {
-        "title": "[No Title] - Post from July 14, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40056",
-        "published_at": "2026-07-14T23:57:47"
+        "title": "[No Title] - Post from July 16, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40075",
+        "published_at": "2026-07-16T04:50:07"
       },
       {
-        "title": "[No Title] - Post from July 14, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40057",
-        "published_at": "2026-07-14T23:57:33"
+        "title": "[No Title] - Post from July 16, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40076",
+        "published_at": "2026-07-16T04:50:06"
       },
       {
-        "title": "[No Title] - Post from July 14, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40053",
-        "published_at": "2026-07-14T23:15:56"
+        "title": "[No Title] - Post from July 16, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40077",
+        "published_at": "2026-07-16T04:50:05"
       },
       {
-        "title": "Todd Blanche is doing a PHENOMENAL job as Acting Attorney General of the United States. Under Todd’s incredible leadership at DOJ, Murder is down to the LOWEST level since 1900, and we just saw the biggest one year drop in RECORDED HISTORY. Violent Crime arrests are UP 100%. Robberies, Carjackings, and Assaults, are all CRASHING. More than 500 million deadly doses of Drugs have already been seized, saving countless innocent lives. This is what happens when you unleash LAW AND ORDER on our streets, instead of protecting vicious Criminal Thugs, and releasing dangerous Illegal Aliens into our Communities like the Dumocrats did for four disastrous years under Sleepy Joe Biden. Todd has fought hard for Religious Liberty, ended the Weaponization of our Justice System, protected FREE SPEECH, kept Men OUT of Women’s Sports, strengthened Election Integrity, and gone to all-out-WAR against Fraud like nobody in the History of the Department of Justice. He is tough, brilliant, and 100% LOYAL to our Constitution, and the American People. When the Corrupt Biden “Injustice” Department and Radical Left Prosecutors tried to throw me in jail, and interfered in our Historic 2024 Presidential Campaign, Todd stood by my side and fought off the Lawfare. He is a great lawyer, always very fair, and every Republican Senator should vote to CONFIRM Todd Blanche, ASAP! President DONALD J. TRUMP",
-        "url": "https://www.trumpstruth.org/statuses/40052",
-        "published_at": "2026-07-14T18:37:42"
+        "title": "[No Title] - Post from July 16, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40072",
+        "published_at": "2026-07-16T04:35:21"
       },
       {
-        "title": "[No Title] - Post from July 14, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40051",
-        "published_at": "2026-07-14T15:30:58"
+        "title": "[No Title] - Post from July 16, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40070",
+        "published_at": "2026-07-16T03:15:35"
       },
       {
-        "title": "East Wing Northern Facade — A match for the White House!",
-        "url": "https://www.trumpstruth.org/statuses/40050",
-        "published_at": "2026-07-14T15:29:14"
+        "title": "[No Title] - Post from July 16, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40071",
+        "published_at": "2026-07-16T03:15:06"
       },
       {
-        "title": "[No Title] - Post from July 14, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40043",
-        "published_at": "2026-07-14T15:23:16"
+        "title": "[No Title] - Post from July 16, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40068",
+        "published_at": "2026-07-16T03:14:00"
       },
       {
-        "title": "[No Title] - Post from July 14, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40044",
-        "published_at": "2026-07-14T15:23:08"
+        "title": "[No Title] - Post from July 16, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40069",
+        "published_at": "2026-07-16T03:12:54"
       }
     ]
   }
