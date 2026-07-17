@@ -1,104 +1,72 @@
 {
-  "push_time": "2026-07-17T07:26:06.315176+08:00",
+  "push_time": "2026-07-18T07:24:41.697885+08:00",
   "feeds": {
-    "Elon Musk (X/Twitter)": [
-      {
-        "title": "R to @elonmusk: Some of the engines didn’t start, triggering an automatic launch abort. Now offloading propellant. Next launch attempt hopefully in a few days.",
-        "url": "https://nitter.net/elonmusk/status/2077890013841310149#m",
-        "published_at": "2026-07-16T22:55:59"
-      },
-      {
-        "title": "To understand more about Starship",
-        "url": "https://nitter.net/elonmusk/status/2077882072950096042#m",
-        "published_at": "2026-07-16T22:24:26"
-      },
-      {
-        "title": "Tesla now in Uruguay",
-        "url": "https://nitter.net/elonmusk/status/2077875206702448814#m",
-        "published_at": "2026-07-16T21:57:08"
-      },
-      {
-        "title": "Starlink now available in Côte d'Ivoire!",
-        "url": "https://nitter.net/elonmusk/status/2077867371956412545#m",
-        "published_at": "2026-07-16T21:26:01"
-      },
-      {
-        "title": "Starship launch window opens at 5:45pm Texas time",
-        "url": "https://nitter.net/elonmusk/status/2077867066556547097#m",
-        "published_at": "2026-07-16T21:24:48"
-      },
-      {
-        "title": "RT by @elonmusk: We have Falcon and Starship taking off almost at the same time today (~2 hours apart) For other space programs, this is years' worth of launch cycle, and SpaceX does it in a day",
-        "url": "https://nitter.net/XFreeze/status/2077858079660814810#m",
-        "published_at": "2026-07-16T20:49:05"
-      },
-      {
-        "title": "RT by @elonmusk: Today I’m really feeling the acceleration.",
-        "url": "https://nitter.net/jamesdouma/status/2077849526816350455#m",
-        "published_at": "2026-07-16T20:15:06"
-      },
-      {
-        "title": "RT by @elonmusk: No Starship, no orbital data centers. No orbital data centers, no potential $28.5 trillion market. Before you watch tonight's launch, see what we think SpaceX's master plan is.",
-        "url": "https://nitter.net/ARKInvest/status/2077845977516392703#m",
-        "published_at": "2026-07-16T20:01:00"
-      },
-      {
-        "title": "RT by @elonmusk: Extremely strong at CAD and spatial reasoning",
-        "url": "https://nitter.net/milichab/status/2077825887962337434#m",
-        "published_at": "2026-07-16T18:41:10"
-      },
-      {
-        "title": "RT by @elonmusk: Love the new Starship Schematics T-shirt sold by SpaceX",
-        "url": "https://nitter.net/Kristennetten/status/2077819549991547320#m",
-        "published_at": "2026-07-16T18:15:59"
-      },
-      {
-        "title": "RT by @elonmusk: A lot of people asked for this, so Muse Spark 1.1 is now on OpenRouter.",
-        "url": "https://nitter.net/finkd/status/2077804413251354698#m",
-        "published_at": "2026-07-16T17:15:50"
-      },
-      {
-        "title": "RT by @elonmusk: Starlink Mobile will be available in Italy with @FASTWEB. The service will keep customers connected via apps and text messaging in remote areas without signal 🛰️📱",
-        "url": "https://nitter.net/Starlink/status/2077803428512969113#m",
-        "published_at": "2026-07-16T17:11:55"
-      },
-      {
-        "title": "RT by @elonmusk: It’s been very fast, and a pleasure to use. Nice work!",
-        "url": "https://nitter.net/aelluswamy/status/2077779871649181921#m",
-        "published_at": "2026-07-16T15:38:19"
-      },
-      {
-        "title": "RT by @elonmusk: Stacking Starship for Flight 13",
-        "url": "https://nitter.net/SpaceX/status/2077767492487774635#m",
-        "published_at": "2026-07-16T14:49:07"
-      },
-      {
-        "title": "RT by @elonmusk: SpaceXAI has updated Zero Data Retention (ZDR) in Docs with more information",
-        "url": "https://nitter.net/techdevnotes/status/2077702864345133420#m",
-        "published_at": "2026-07-16T10:32:19"
-      },
-      {
-        "title": "RT by @elonmusk: Starship Flight 13 is flying today, and once again it’s going to make history Throwback: Amazing moment when a SpaceX employee met Elon Musk, gave him a hug, and was very optimistic about the Starship Flight “We will make it,” the employee said to Elon",
-        "url": "https://nitter.net/iam_smx/status/2077675807959364062#m",
-        "published_at": "2026-07-16T08:44:48"
-      },
-      {
-        "title": "RT by @elonmusk: I swear, Grok Build adds about 60 points to my IQ which means I can experience what it's like to have an IQ in the top half of all humans while I'm using it.",
-        "url": "https://nitter.net/stevenmarkryan/status/2077662880972054731#m",
-        "published_at": "2026-07-16T07:53:26"
-      },
-      {
-        "title": "RT by @elonmusk: Render mermaid charts in your CLI",
-        "url": "https://nitter.net/milichab/status/2077556147595419927#m",
-        "published_at": "2026-07-16T00:49:19"
-      },
-      {
-        "title": "RT by @elonmusk: Rick Scott Is Right",
-        "url": "https://nitter.net/BasedMikeLee/status/2077437124593234356#m",
-        "published_at": "2026-07-15T16:56:22"
-      }
-    ],
     "Trump (Truth Social)": [
+      {
+        "title": "[No Title] - Post from July 17, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40100",
+        "published_at": "2026-07-17T19:36:17"
+      },
+      {
+        "title": "Such great news in June’s Inflation Numbers! Prices FELL by the most in a single month in over six years. The June CPI was below the forecast of every single Economist (67!) that Bloomberg polled. Prices were down across the board including for Gasoline, Electricity, Auto Insurance, Hotels, and Prescription Drugs. With strong Wage Growth and a decline in Prices in June, Real Wages rose a massive 0.8%. As Investment pours into our Country, Factory Construction surges, Manufacturing Jobs rise, and Prices fall, there is so much to be proud of — The Golden Age of America is here! President DONALD J. TRUMP",
+        "url": "https://www.trumpstruth.org/statuses/40101",
+        "published_at": "2026-07-17T19:35:55"
+      },
+      {
+        "title": "BIG WIN in Court for the American People! The so-called \"Digital Equity Act,\" a Biden DEI law, was ruled exactly what I said it was last year — A RACIST and UNCONSTITUTIONAL giveaway that never should have become Law. Sleepy Joe and the Dumocrats used YOUR Tax Dollars to divide Americans, instead of serving ALL Americans. At my direction, Howard Lutnick, my wonderful Secretary of Commerce, fought it, and the Court AGREED. A MASSIVE Victory for Common Sense and our Constitution. Thank you for your attention to this matter! President DONALD J. TRUMP",
+        "url": "https://www.trumpstruth.org/statuses/40099",
+        "published_at": "2026-07-17T19:32:27"
+      },
+      {
+        "title": "For decades, horrible politicians allowed our Industrial Base to move overseas. Their Trade Policies encouraged Companies to find the cheapest Labor, and build the Products we invented across Asia. When I took Office, we didn’t build Leading Edge Semiconductor Chips here in America. American Trade Policy was broken and, the results, disastrous. Now, TSMC, the largest Leading Edge Semiconductor Chip Manufacturer in the World, has announced an additional 100 Billion Dollar Investment in their Semiconductor Fabrication Factories in Arizona. That brings their total commitment to build Chips in America to a record 265 Billion Dollars. My Trade Policies and Trade Deals are accomplishing exactly what I said they would. From Automobiles, Pharmaceuticals, to Semiconductors, and everything across our Economy, the Trump Administration is bringing Advanced Manufacturing home to America. This is what SUCCESS feels like! Massive Hiring, massive Construction, massive Investment — Welcome to the Golden Age of America, where we invite everybody to come and build in America — and remember, if you do so, there are NO TARIFFS! President DONALD J. TRUMP",
+        "url": "https://www.trumpstruth.org/statuses/40098",
+        "published_at": "2026-07-17T19:30:04"
+      },
+      {
+        "title": "We are holding Canada responsible for the fact that they are not properly maintaining their Forests, and Brush therein, and the United States is being unnecessarily invaded by filthy, polluted, and unhealthy air, the quality of which is dangerous, and totally unacceptable! I will call the Prime Minister during the day to find out what they are going to do about it. The cost is incalculable! Canada has refused to engage in basic Forest Management and Debris Removal, knowing that such refusal will lead to exactly this result. This is Willful Negligence, and becoming a yearly occurrence, costing the United States Billions of Dollars, which cost of this pollution must of necessity be added to the TARIFFS Canada is currently paying. Thank you for your attention to this matter! President DONALD J. TRUMP",
+        "url": "https://www.trumpstruth.org/statuses/40097",
+        "published_at": "2026-07-17T19:24:49"
+      },
+      {
+        "title": "It was my Honor to welcome now Senator Darline Graham Nordone (The sister of the Late, Great Lindsey Graham!), from the Wonderful State of South Carolina, into the Oval Office. We have known each other for a long time — She is a spectacular person, and a true American Patriot. Lindsey was one of the greatest people and Senators I have ever known, and his sister shares his deep love of our Country, and the State of South Carolina. During her visit, I asked Darline, for the Good of our Nation, to run for the U.S. Senate in the Special Republican Primary on Tuesday, August 11, 2026. I hope Darline does this, in that there would be nobody better to honor the legacy of her beloved brother, Lindsey. Darline, who comes from an absolutely incredible family, has been a WINNER all of her life and, should she accept, has my Complete and Total Endorsement in the Special Election for U.S. Senate in South Carolina — SHE WILL NEVER LET YOU DOWN. RUN, DARLINE, RUN! President DONALD J. TRUMP",
+        "url": "https://www.trumpstruth.org/statuses/40096",
+        "published_at": "2026-07-17T19:15:16"
+      },
+      {
+        "title": "[No Title] - Post from July 17, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40095",
+        "published_at": "2026-07-17T17:38:10"
+      },
+      {
+        "title": "The Reflecting Pool, so badly damaged by Deranged Vandals, has been emptied as the massive slash gets repaired. We got it through the great July Fourth Weekend. What kind of animals would do such a thing? We are looking for a Vandal Proof material, but such a thing should not have been necessary. The Scum in Court will hopefully be prosecuted to the MAX. President DJT",
+        "url": "https://www.trumpstruth.org/statuses/40094",
+        "published_at": "2026-07-17T13:46:04"
+      },
+      {
+        "title": "Election integrity documents are available for review here:",
+        "url": "https://www.trumpstruth.org/statuses/40093",
+        "published_at": "2026-07-17T13:36:55"
+      },
+      {
+        "title": "Italian Embassy as fully renovated by a great American Patriot!!! This should be done to NEW YORK CITY! Needs so much loving care. D.C. is the best example. All cleaned up, and safe. Crime down 95%! President DJT",
+        "url": "https://www.trumpstruth.org/statuses/40092",
+        "published_at": "2026-07-17T12:54:04"
+      },
+      {
+        "title": "Great reviews on speech last night. Big audience. Pass THE SAVE AMERICA ACT!!! Thank you! President DONALD J. TRUMP",
+        "url": "https://www.trumpstruth.org/statuses/40091",
+        "published_at": "2026-07-17T11:52:48"
+      },
+      {
+        "title": "[No Title] - Post from July 17, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40090",
+        "published_at": "2026-07-17T01:16:53"
+      },
+      {
+        "title": "[No Title] - Post from July 17, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40089",
+        "published_at": "2026-07-17T01:02:21"
+      },
       {
         "title": "[No Title] - Post from July 16, 2026",
         "url": "https://www.trumpstruth.org/statuses/40088",
@@ -133,71 +101,6 @@
         "title": "With today’s announcement, Pennsylvania will play a key role in building the arsenal of freedom to defend our nation in the modern world!",
         "url": "https://www.trumpstruth.org/statuses/40081",
         "published_at": "2026-07-16T04:59:45"
-      },
-      {
-        "title": "[No Title] - Post from July 16, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40082",
-        "published_at": "2026-07-16T04:56:45"
-      },
-      {
-        "title": "[No Title] - Post from July 16, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40078",
-        "published_at": "2026-07-16T04:54:11"
-      },
-      {
-        "title": "[No Title] - Post from July 16, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40079",
-        "published_at": "2026-07-16T04:53:32"
-      },
-      {
-        "title": "[No Title] - Post from July 16, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40080",
-        "published_at": "2026-07-16T04:51:55"
-      },
-      {
-        "title": "[No Title] - Post from July 16, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40073",
-        "published_at": "2026-07-16T04:50:24"
-      },
-      {
-        "title": "[No Title] - Post from July 16, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40074",
-        "published_at": "2026-07-16T04:50:15"
-      },
-      {
-        "title": "[No Title] - Post from July 16, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40075",
-        "published_at": "2026-07-16T04:50:07"
-      },
-      {
-        "title": "[No Title] - Post from July 16, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40076",
-        "published_at": "2026-07-16T04:50:06"
-      },
-      {
-        "title": "[No Title] - Post from July 16, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40077",
-        "published_at": "2026-07-16T04:50:05"
-      },
-      {
-        "title": "[No Title] - Post from July 16, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40072",
-        "published_at": "2026-07-16T04:35:21"
-      },
-      {
-        "title": "[No Title] - Post from July 16, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40070",
-        "published_at": "2026-07-16T03:15:35"
-      },
-      {
-        "title": "[No Title] - Post from July 16, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40071",
-        "published_at": "2026-07-16T03:15:06"
-      },
-      {
-        "title": "[No Title] - Post from July 16, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40068",
-        "published_at": "2026-07-16T03:14:00"
       }
     ]
   }
