@@ -1,208 +1,106 @@
 {
-  "push_time": "2026-07-28T07:35:26.030394+08:00",
+  "push_time": "2026-07-29T07:31:33.769250+08:00",
   "feeds": {
-    "Elon Musk (X/Twitter)": [
-      {
-        "title": "The best way to communicate with the world is directly in your own words, not through the reality distortion nightmare mirror that is the legacy mainstream press",
-        "url": "https://nitter.net/elonmusk/status/2081803897883046220#m",
-        "published_at": "2026-07-27T18:08:21"
-      },
-      {
-        "title": "Actual footage 😂",
-        "url": "https://nitter.net/elonmusk/status/2081801843022111055#m",
-        "published_at": "2026-07-27T18:00:12"
-      },
-      {
-        "title": "R to @elonmusk: “Not having symptoms is one of the symptoms” 🙄 🤦‍♂️🤡",
-        "url": "https://nitter.net/elonmusk/status/2081801094791823522#m",
-        "published_at": "2026-07-27T17:57:13"
-      },
-      {
-        "title": "This is so funny 🤣🤣",
-        "url": "https://nitter.net/elonmusk/status/2081799342948524075#m",
-        "published_at": "2026-07-27T17:50:15"
-      },
-      {
-        "title": "Extremely important point",
-        "url": "https://nitter.net/elonmusk/status/2081798385833570773#m",
-        "published_at": "2026-07-27T17:46:27"
-      },
-      {
-        "title": "RT by @elonmusk: In the last couple weeks, X has been joined by: Mark Zuckerberg Jensen Huang Denny’s Bernard Arnault Welcome to the global town square.",
-        "url": "https://nitter.net/nikitabier/status/2081790015995248960#m",
-        "published_at": "2026-07-27T17:13:12"
-      },
-      {
-        "title": "True",
-        "url": "https://nitter.net/elonmusk/status/2081782292591104077#m",
-        "published_at": "2026-07-27T16:42:30"
-      },
-      {
-        "title": "RT by @elonmusk: BREAKING: President Javier Milei announced Starlink will connect 6,000 rural schools across Argentina. 🇦🇷 \"Thanks to Starlink, 6,000 rural schools that until today had poor internet connection or no connectivity at all will be added. That is a huge amount. Thank you, Elon\"",
-        "url": "https://nitter.net/cb_doge/status/2081777064152019100#m",
-        "published_at": "2026-07-27T16:21:44"
-      },
-      {
-        "title": "RT by @elonmusk: Glad to join this important alliance to advance AI security across the frontier ecosystem",
-        "url": "https://nitter.net/satyanadella/status/2081767219957277083#m",
-        "published_at": "2026-07-27T15:42:37"
-      },
-      {
-        "title": "Fauci smelled it and he also dealt it",
-        "url": "https://nitter.net/elonmusk/status/2081765886617067831#m",
-        "published_at": "2026-07-27T15:37:19"
-      },
-      {
-        "title": "RT by @elonmusk: No results, NO RECESS. Pass SAVE America NOW!",
-        "url": "https://nitter.net/SenRickScott/status/2081736246041154005#m",
-        "published_at": "2026-07-27T13:39:32"
-      },
-      {
-        "title": "RT by @elonmusk: Proud to join @nvidia as a founding member of the Open Secure AI Alliance. Defenders need open tools, collaboration, and transparency to secure AI agents and systems. And customers want the ability to choose the best open or closed models.",
-        "url": "https://nitter.net/MichaelDell/status/2081718431393402884#m",
-        "published_at": "2026-07-27T12:28:45"
-      },
-      {
-        "title": "RT by @elonmusk: Worth a read. Bernard Arnault responds to the press. @X has shifted the balance of power away from the media and back to the people. Thank you @elonmusk!",
-        "url": "https://nitter.net/BillAckman/status/2081706238153261278#m",
-        "published_at": "2026-07-27T11:40:18"
-      },
-      {
-        "title": "I will not forget about Mars",
-        "url": "https://nitter.net/elonmusk/status/2081627240777895998#m",
-        "published_at": "2026-07-27T06:26:23"
-      },
-      {
-        "title": "I don’t pay the protection money to the media",
-        "url": "https://nitter.net/elonmusk/status/2081624723432124681#m",
-        "published_at": "2026-07-27T06:16:23"
-      },
-      {
-        "title": "RT by @elonmusk: These two photos were taken 22 years apart.",
-        "url": "https://nitter.net/cb_doge/status/2081623049665663430#m",
-        "published_at": "2026-07-27T06:09:44"
-      },
-      {
-        "title": "Video",
-        "url": "https://nitter.net/elonmusk/status/2081622225023611265#m",
-        "published_at": "2026-07-27T06:06:27"
-      },
-      {
-        "title": "RT by @elonmusk: 🚨BREAKING: Germany's Anti-Immigration party the AfD have topped a poll in liberal/left leaning BERLIN for the FIRST TIME EVER This is unprecedented Remigration is inevitable",
-        "url": "https://nitter.net/BasilTheGreat/status/2081608857256657382#m",
-        "published_at": "2026-07-27T05:13:20"
-      },
-      {
-        "title": "RT by @elonmusk: Hating any group besides straight white men is racism, sexism, homophobia, transphobia, etc. But hating straight white men? Well, that's social justice, obviously.",
-        "url": "https://nitter.net/kevinnbass/status/2081493665738887290#m",
-        "published_at": "2026-07-26T21:35:36"
-      },
-      {
-        "title": "RT by @elonmusk: Tribute to VLOP",
-        "url": "https://nitter.net/dvorahfr/status/2081296500324209045#m",
-        "published_at": "2026-07-26T08:32:08"
-      }
-    ],
     "Trump (Truth Social)": [
       {
-        "title": "President Trump’s primetime address reaffirms election fraud and deep state as America’s greatest threat – with media willfully complicit:",
-        "url": "https://www.trumpstruth.org/statuses/40334",
-        "published_at": "2026-07-27T23:29:03"
+        "title": "RT @realDonaldTrumpWe’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
+        "url": "https://www.trumpstruth.org/statuses/40383",
+        "published_at": "2026-07-28T17:30:24"
       },
       {
-        "title": "[No Title] - Post from July 27, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40325",
-        "published_at": "2026-07-27T23:23:38"
+        "title": "Trump Rallies Around 'Trump Accounts' During Ga. Speech:",
+        "url": "https://www.trumpstruth.org/statuses/40377",
+        "published_at": "2026-07-28T17:28:59"
       },
       {
-        "title": "[No Title] - Post from July 27, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40326",
-        "published_at": "2026-07-27T23:21:25"
+        "title": "Trump touts explosive early growth of new child savings accounts:",
+        "url": "https://www.trumpstruth.org/statuses/40378",
+        "published_at": "2026-07-28T17:28:28"
       },
       {
-        "title": "[No Title] - Post from July 27, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40327",
-        "published_at": "2026-07-27T23:21:16"
+        "title": "Trump: ‘With communism, everything turns to s***’:",
+        "url": "https://www.trumpstruth.org/statuses/40379",
+        "published_at": "2026-07-28T17:27:18"
       },
       {
-        "title": "[No Title] - Post from July 27, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40328",
-        "published_at": "2026-07-27T23:21:07"
+        "title": "Trump blasts Jon Ossoff, 'communist' Democrats in Georgia speech:",
+        "url": "https://www.trumpstruth.org/statuses/40380",
+        "published_at": "2026-07-28T17:26:57"
       },
       {
-        "title": "[No Title] - Post from July 27, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40329",
-        "published_at": "2026-07-27T23:20:58"
+        "title": "Trump holds hands with toddler and mocks ‘Pee-wee Herman look-alike’ Jon Ossoff at Georgia Trump Accounts rally:",
+        "url": "https://www.trumpstruth.org/statuses/40381",
+        "published_at": "2026-07-28T17:26:35"
       },
       {
-        "title": "Trump caps sensational 250th celebration with tribute to the glory of American freedom:",
-        "url": "https://www.trumpstruth.org/statuses/40330",
-        "published_at": "2026-07-27T23:20:43"
+        "title": "Trump gives emotional tribute to fallen Army Lt Tyler Feehan after flying grieving family on Air Force One:",
+        "url": "https://www.trumpstruth.org/statuses/40382",
+        "published_at": "2026-07-28T17:26:14"
       },
       {
-        "title": "RT @SebGorkaIt’s very simple. Trust President @realDonaldTrump. @WhiteHouse",
-        "url": "https://www.trumpstruth.org/statuses/40331",
-        "published_at": "2026-07-27T23:20:13"
+        "title": "Tariffs pull, USMCA pushes: Toyota to Texas:",
+        "url": "https://www.trumpstruth.org/statuses/40376",
+        "published_at": "2026-07-28T17:24:57"
       },
       {
-        "title": "NVIDIA: Building in America, for America:",
-        "url": "https://www.trumpstruth.org/statuses/40333",
-        "published_at": "2026-07-27T23:20:03"
+        "title": "We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
+        "url": "https://www.trumpstruth.org/statuses/40374",
+        "published_at": "2026-07-28T17:05:05"
       },
       {
-        "title": "NVIDIA and Partners Build in America, for America:",
-        "url": "https://www.trumpstruth.org/statuses/40322",
-        "published_at": "2026-07-27T23:19:17"
+        "title": "[No Title] - Post from July 28, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40375",
+        "published_at": "2026-07-28T17:04:55"
       },
       {
-        "title": "Trump-endorsed congressional candidate pledges entire $174K salary to wounded Iraq War veteran's family:",
-        "url": "https://www.trumpstruth.org/statuses/40323",
-        "published_at": "2026-07-27T23:19:05"
+        "title": "‘Up Like a Rocket!’ CNN Data Guru Says Lindsey Graham’s Sister Is Now ‘Clear Favorite’ to Win Primary:",
+        "url": "https://www.trumpstruth.org/statuses/40363",
+        "published_at": "2026-07-28T13:53:55"
       },
       {
-        "title": "Rep. Hamadeh: America First Has Never Meant America Alone:",
-        "url": "https://www.trumpstruth.org/statuses/40324",
-        "published_at": "2026-07-27T23:18:47"
+        "title": "[No Title] - Post from July 28, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40364",
+        "published_at": "2026-07-28T13:53:49"
       },
       {
-        "title": "[No Title] - Post from July 27, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40321",
-        "published_at": "2026-07-27T22:46:39"
+        "title": "[No Title] - Post from July 28, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40365",
+        "published_at": "2026-07-28T13:53:36"
       },
       {
-        "title": "BREAKING NEWS: The Failing New York Times, after 10 years of harassment, slander, and libel, just failed again in their desperate attempt to have our powerful Defamation Lawsuit against them dropped. As we requested, the Highly Respected Judge has called for an updated complaint, which will lay out, in extreme detail, all the ways in which The Times has repeatedly and consistently acted, with actual malice in defaming me, my family, our Great MAGA Movement, and America, itself. We will continue to hold The Times and their “comrades” in the Mainstream Media accountable for publishing, promoting, and dealing in Fake News. Thank you for your attention to this matter! President DONALD J. TRUMP",
-        "url": "https://www.trumpstruth.org/statuses/40320",
-        "published_at": "2026-07-27T21:52:33"
+        "title": "[No Title] - Post from July 28, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40366",
+        "published_at": "2026-07-28T13:53:22"
       },
       {
-        "title": "Sen. Ron Johnson: Move to End the Filibuster Now—Before Democrats Do:",
-        "url": "https://www.trumpstruth.org/statuses/40310",
-        "published_at": "2026-07-27T20:24:29"
+        "title": "[No Title] - Post from July 28, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40367",
+        "published_at": "2026-07-28T13:53:10"
       },
       {
-        "title": "[No Title] - Post from July 27, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40311",
-        "published_at": "2026-07-27T20:24:22"
+        "title": "She only went public because she was caught!Software vendor disputes NJ governor's ‘glitch’ claim, says state approves foreigners on voter roll:",
+        "url": "https://www.trumpstruth.org/statuses/40368",
+        "published_at": "2026-07-28T13:52:56"
       },
       {
-        "title": "[No Title] - Post from July 27, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40312",
-        "published_at": "2026-07-27T20:24:01"
+        "title": "MIKE DAVIS: Why criminal referral of Jack Smith was 100% justified:",
+        "url": "https://www.trumpstruth.org/statuses/40369",
+        "published_at": "2026-07-28T13:52:30"
       },
       {
-        "title": "[No Title] - Post from July 27, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40313",
-        "published_at": "2026-07-27T20:23:48"
+        "title": "It was a Rigged Election that we must learn from. Never forget!",
+        "url": "https://www.trumpstruth.org/statuses/40370",
+        "published_at": "2026-07-28T13:52:13"
       },
       {
-        "title": "[No Title] - Post from July 27, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40314",
-        "published_at": "2026-07-27T20:23:41"
+        "title": "Lil Wayne Praises Trump for Building White House Ballroom: ‘I’m So Glad!’",
+        "url": "https://www.trumpstruth.org/statuses/40371",
+        "published_at": "2026-07-28T13:51:50"
       },
       {
-        "title": "[No Title] - Post from July 27, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40315",
-        "published_at": "2026-07-27T20:23:23"
+        "title": "Confirm Todd Blanche without delay:",
+        "url": "https://www.trumpstruth.org/statuses/40372",
+        "published_at": "2026-07-28T13:51:36"
       }
     ]
   }
