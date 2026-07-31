@@ -1,109 +1,37 @@
 {
-  "push_time": "2026-07-31T07:34:41.107679+08:00",
+  "push_time": "2026-08-01T07:30:48.578285+08:00",
   "feeds": {
-    "Elon Musk (X/Twitter)": [
-      {
-        "title": "Starlink V3 is a gamechanger",
-        "url": "https://nitter.net/elonmusk/status/2082961814409605545#m",
-        "published_at": "2026-07-30T22:49:30"
-      },
-      {
-        "title": "RT by @elonmusk: Ahead of our first earnings webcast, investors can submit questions using a new tool built with @grok → http://ir.spacex.com/events/default.aspx",
-        "url": "https://nitter.net/SpaceX/status/2082958972093669752#m",
-        "published_at": "2026-07-30T22:38:13"
-      },
-      {
-        "title": "Looks like World War Z!",
-        "url": "https://nitter.net/elonmusk/status/2082956678400541160#m",
-        "published_at": "2026-07-30T22:29:06"
-      },
-      {
-        "title": "All military age males means it is an invasion",
-        "url": "https://nitter.net/elonmusk/status/2082955718743761002#m",
-        "published_at": "2026-07-30T22:25:17"
-      },
-      {
-        "title": "Wake up, before it is too late",
-        "url": "https://nitter.net/elonmusk/status/2082934814756282751#m",
-        "published_at": "2026-07-30T21:02:13"
-      },
-      {
-        "title": "Spain’s entire budget will be destroyed by illegal migrants. It’s basic math: if Spain offers free stuff to migrants that is above 90% of the living standard of Earth, they create a forcing function for 90% of Earth to move to Spain, which is around 7 billion people!",
-        "url": "https://nitter.net/elonmusk/status/2082927356893683771#m",
-        "published_at": "2026-07-30T20:32:35"
-      },
-      {
-        "title": "RT by @elonmusk: BREAKING: Emirates is reportedly removing Viasat equipment from its new Airbus A350s as it moves to standardize its fleet on Starlink. • Incoming A350s are expected to transition from Viasat GX Aviation to Starlink • Starlink is already active on dozens of Emirates Boeing 777s and a growing number of A380s • Emirates plans to equip approximately 232 aircraft by mid-2027 • Passengers have already made more than 1 million Starlink connections • More than 1 petabyte of data has been used since the rollout began.",
-        "url": "https://nitter.net/cb_doge/status/2082920807919939655#m",
-        "published_at": "2026-07-30T20:06:34"
-      },
-      {
-        "title": "RT by @elonmusk: This is like a Black Mirror episode",
-        "url": "https://nitter.net/michaelmalice/status/2082914257562177916#m",
-        "published_at": "2026-07-30T19:40:32"
-      },
-      {
-        "title": "RT by @elonmusk: Everyone is a real-world AI engineer. They don’t just make cars, but autonomous robots with frontier capabilities. Thanks for their hard work keeping the line smooth and running. It’s my pleasure working with manufacturing teams—a truly unique experience not found in any other AI lab.",
-        "url": "https://nitter.net/yunta_tsai/status/2082884013837165030#m",
-        "published_at": "2026-07-30T17:40:21"
-      },
-      {
-        "title": "RT by @elonmusk: What’s happening in Spain is what is coming for America if Democrats regain power. Complain about Republicans all you want, they’re the only avenue to secure borders. We need better Republicans, but electing Democrats is a death sentence.",
-        "url": "https://nitter.net/WallStreetMav/status/2082883655186124825#m",
-        "published_at": "2026-07-30T17:38:56"
-      },
-      {
-        "title": "Given that AI from 2 years ago feels so old that it should be in a museum, then obviously AI 2 years from now will be mind-blowing",
-        "url": "https://nitter.net/elonmusk/status/2082849031483470066#m",
-        "published_at": "2026-07-30T15:21:21"
-      },
-      {
-        "title": "Big difference",
-        "url": "https://nitter.net/elonmusk/status/2082847730653610409#m",
-        "published_at": "2026-07-30T15:16:11"
-      },
-      {
-        "title": "RT by @elonmusk: It is baffling how treasonous Western politicians are. Castrated, weak, lobotomized ideologues.",
-        "url": "https://nitter.net/GadSaad/status/2082837239185203484#m",
-        "published_at": "2026-07-30T14:34:29"
-      },
-      {
-        "title": "RT by @elonmusk: The Trump Administration today announced a series of actions to \"cut red tape and accelerate American automated vehicle innovation.\" Secretary Sean Duffy has directed NHTSA to implement the following AV policy changes: 1) Accelerate development of first-ever AV performance standards through a partnership with SAE Industry Technologies Consortia (ITC): This partnership will fund a three-year, $5 million “A2SCEND” consortium, bringing together experts to gather data and accelerate creation of the first-ever AV performance standards. This project will inform a single national standard for AV safety to eliminate the patchwork regulatory landscape that has stifled innovation for years. 2) Allow Zoox to commercially deploy its robotaxis through a temporary exemption: This temporary exemption will allow the commercial deployment of up to 2,500 vehicles annually for two years, subject to an enhanced, adaptable oversight structure that can evolve as Zoox’s technology advances. 3) Publish an interim final rule that allows vehicles manufactured prior to an exemption to be eligible for a commercial deployment exemption: This rule will modernize the application process and improve access to exemptions for innovators, including AV developers, by granting the NHTSA Administrator the discretion to apply temporary exemptions to vehicles manufactured prior to the effective date of an exemption grant. 4) Establish a new Federal Docket for public feedback on NHTSA’s updated safe AV development and deployment guidance: NHTSA is updating its technical guidance for AVs for the first time since 2017—focusing on key safety areas like emergency responder interactions, safety management systems, remote assistance, and post-crash behavior to help the industry scale up driverless deployments safely. 5) Streamline the application process for Part 555 exemptions by updating guidance and soliciting feedback from the public: By updating the Part 555 exemption process—which allows automakers to temporarily sell a limited number of non-compliant vehicles, primarily to test new technologies—NHTSA is aiming to create a more flexible oversight structure for exemptions and summarize recent AV framework activities, including expanded exemption pathways, streamlined crash reporting, and ongoing efforts to modernize Federal Motor Vehicle Safety Standards (FMVSS).",
-        "url": "https://nitter.net/SawyerMerritt/status/2082835692208763011#m",
-        "published_at": "2026-07-30T14:28:20"
-      },
-      {
-        "title": "RT by @elonmusk: BREAKING: Moroccan media reports that over 30,000 Moroccans are currently invading Ceuta On the eve of Throne Day, Moroccan King Mohammed VI pardoned 1,788 prisoners. In May, he pardoned 1,376 prisoners, including terrorists. They are now entering Spain with no controls 🇪🇸🇲🇦",
-        "url": "https://nitter.net/visegrad24/status/2082825977353076848#m",
-        "published_at": "2026-07-30T13:49:44"
-      },
-      {
-        "title": "RT by @elonmusk: Huge congratulations. Bringing happiness and safety to 10 million families. 🎉🎉",
-        "url": "https://nitter.net/mayemusk/status/2082799407989133594#m",
-        "published_at": "2026-07-30T12:04:10"
-      },
-      {
-        "title": "RT by @elonmusk: 🇪🇸 Residents in Barcelona are installing barbed wire along their balconies to protect their homes from burglaries and squatters.",
-        "url": "https://nitter.net/RMXnews/status/2082762131125023044#m",
-        "published_at": "2026-07-30T09:36:02"
-      },
-      {
-        "title": "RT by @elonmusk: Watch Falcon 9 launch the @NRO_gov and @USSF_SSC’s NROL-95 mission from pad 40 in Florida https://x.com/i/broadcasts/1DxLddLoqayxm",
-        "url": "https://nitter.net/SpaceX/status/2082722674732626193#m",
-        "published_at": "2026-07-30T06:59:15"
-      },
-      {
-        "title": "RT by @elonmusk: Grok Build now has a way to enable/disable MCP grok mcp enable grok mcp disable",
-        "url": "https://nitter.net/techdevnotes/status/2082546312608719207#m",
-        "published_at": "2026-07-29T19:18:27"
-      },
-      {
-        "title": "RT by @elonmusk: Gates-ism perfectly epitomized.",
-        "url": "https://nitter.net/xenocosmography/status/2082494156987871642#m",
-        "published_at": "2026-07-29T15:51:12"
-      }
-    ],
     "Trump (Truth Social)": [
+      {
+        "title": "[No Title] - Post from July 31, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40405",
+        "published_at": "2026-07-31T21:30:31"
+      },
+      {
+        "title": "RT @RobertCahalyBREAKING: @trafalgar_group SC GOP 2026 Special Election for US Senate Tracking Poll (7/28-30) 989 Respondents 2.9 MOE 27.0% Darline Graham17.4% @RussellFrySC 17.4% Ralph Norman 15.1% Mark Sanford 8.1% Mark Lynch1.1% Samuel Sam Shepherd 0.9% Duke Buckner 0.4% Mark McBride 0.3% Clark Nielson12.4% Und",
+        "url": "https://www.trumpstruth.org/statuses/40406",
+        "published_at": "2026-07-31T21:30:18"
+      },
+      {
+        "title": "BREAKING: @trafalgar_group SC GOP 2026 Special Election for US Senate Tracking Poll (7/28-30) 989 Respondents 2.9 MOE 27.0% Darline Graham17.4% @RussellFrySC 17.4% Ralph Norman 15.1% Mark Sanford 8.1% Mark Lynch1.1% Samuel Sam Shepherd 0.9% Duke Buckner 0.4% Mark McBride 0.3% Clark Nielson12.4% Und",
+        "url": "https://www.trumpstruth.org/statuses/40407",
+        "published_at": "2026-07-31T20:21:52"
+      },
+      {
+        "title": "What’s happening with Spain, with tens of thousands of Illegal Immigrants invading it, happened in the United States during the Sleepy Joe Biden Administration, and it will happen again, only worse, if the Dumocrats ever again gain power. DON’T LET OUR COUNTRY BE DESTROYED. VOTE REPUBLICAN, AND BE PROUD OF THE U.S.A. President DONALD J. TRUMP",
+        "url": "https://www.trumpstruth.org/statuses/40404",
+        "published_at": "2026-07-31T20:10:20"
+      },
+      {
+        "title": "I am pleased to announce that the man who so foolishly led the Indiana State Senate, with almost every Candidate losing their Race, many of them in Office for years, will not be seeking Re-Election as Senate President because he wouldn’t have had a chance to be elected — Better yet would be if he would resign from Office, completely, but he will be met by us at the Indiana Polls. Rodric Bray should be ashamed of himself for costing our Country, mainly the Republican Party, two U.S. House Seats, and for costing all of his colleagues who went along with him, an Election loss! Isn’t it amazing how Politics works? I want to thank the Great State of Indiana for your support, not only in my Presidential Election, which we won with the Highest Vote in the History of the State, but also for your support in getting rid of wayward Senators, led down the Path of Destruction by a FOOL named Rodric Bray. Indiana, I will never forget your loyalty! President DONALD J. TRUMP",
+        "url": "https://www.trumpstruth.org/statuses/40403",
+        "published_at": "2026-07-31T14:50:41"
+      },
+      {
+        "title": "John Cornyn never had a problem with the so called “Fund,” which will not benefit me, but rather the great American Patriots who were hunted down like dogs and whose lives were unfairly and illegally destroyed by the Crooked Joe Biden Administration, until after I decided to Endorse and Support his Republican Primary opponent in Texas, who easily won the Nomination for the United States Senate. Perhaps there has never been a group of people treated so badly in our Nation’s history. They are suffering still, many ruined, and I felt that they should be given compensation for what has been done to them. I gave up any payments for myself, which would have been substantial, including for the illegal and unprecedented raid on Mar-a-Lago, my home in Florida, even though many legal experts, and others, including John Cornyn, said it was a shocking and disgusting display of “weaponization” against me. Such an event has never happened before, and hopefully will never happen again! I will always feel that these victims of government abuse should be paid back for what they were forced to endure, their lives have been ruined! Millions of people agree with me, as was proven in my landslide Presidential win, where this was a major subject of debate, and so did John Cornyn, until he lost his Election to an opponent that I Endorsed. Todd Blanche, a good man, should be immediately approved as U.S. Attorney General. Thank you for your attention to this matter! President DONALD J. TRUMP",
+        "url": "https://www.trumpstruth.org/statuses/40402",
+        "published_at": "2026-07-31T11:03:27"
+      },
       {
         "title": "RT @realDonaldTrumpToday, the Board of Peace reached a HISTORIC agreement for the COMPLETE DISARMAMENT of Hamas and all other armed groups in Gaza. This is a monumental step toward lasting PEACE and SECURITY.This agreement is a critical step towards Gaza finally being governed by a new Palestinian government that will work closely with the Board of Peace to help the Palestinian people. At the same time, Israel will have the security it deserves, with Gaza no longer used as a base for terror attacks.This is a major milestone in the implementation of the Trump 20-Point Plan. The agreement will be carried out in carefully structured phases. As disarmament is completed, Israeli forces will withdraw, and the International Stabilization Force will work with a new Palestinian police force to take responsibility for Gaza being safe for its residents and its neighbors.One year ago there was a violent raging war, humanitarian crisis and hostages kept in brutal captivity. We have made historic progress and there is still much work to do.I want to thank the mediators—Egypt, Qatar, and Türkiye—for their important efforts, and especially my outstanding team, whose tireless work made this historic breakthrough possible.The threat that emerged from Gaza on October 7 will NOT be allowed to rebuild! Under this agreement, Gaza will finally be in the hands of a new Palestinian government that serves its PEOPLE.CONGRATULATIONS TO ALL ON THIS AMAZING DEVELOPMENT, THAT EVERYBODY SAID COULD NEVER BE ACHIEVED!DONALD J. TRUMPPresident of the United States of America",
         "url": "https://www.trumpstruth.org/statuses/40398",
@@ -138,61 +66,6 @@
         "title": "Thank you Abe! President DJT",
         "url": "https://www.trumpstruth.org/statuses/40394",
         "published_at": "2026-07-30T01:18:18"
-      },
-      {
-        "title": "Thanks to @realDonaldTrump, the Export-Import Bank is profitable for the first time in nearly a DECADE. Here’s why that matters to every American: ✅ Supply Chain Security: EXIM is answering @realDonaldTrump’s call to action - delivering Project Vault and $28 billion in deals to ensure companies large and small have access to critical raw materials. ✅ Reindustrializing America: EXIM is a frontline economic tool again, and small businesses are at the heart of our mission, supporting over 45,000 American jobs. ✅ Energy DOMINANCE: After 4 years of Biden inaction, President Trump is unleashing American Energy Dominance & EXIM is sending American molecules and technologies to every corner of the globe. ✅ American Innovation: EXIM is investing in America’s future by making sure we can innovate AND build in America again, backing cutting-edge companies like JetZero, Beta Technologies and K2 Space as they transform their industries. EXIM is doing all of this while returning a profit to the taxpayer. When EXIM does its job, hardworking Americans across the country have more high-paying jobs and more money in their pockets.",
-        "url": "https://www.trumpstruth.org/statuses/40401",
-        "published_at": "2026-07-29T23:12:46"
-      },
-      {
-        "title": "Does anybody have any idea how much Money and Prestige the United States Supreme Court has cost our Nation with their negative Rulings on Birthright Citizenship and TARIFFS? The answer, TRILLIONS AND TRILLIONS OF DOLLARS! President DONALD J. TRUMP",
-        "url": "https://www.trumpstruth.org/statuses/40393",
-        "published_at": "2026-07-29T22:13:23"
-      },
-      {
-        "title": "[No Title] - Post from July 29, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40392",
-        "published_at": "2026-07-29T17:03:48"
-      },
-      {
-        "title": "Many more people died of Covid under the Biden Administration than under the Trump Administration. “Operation Warp Speed” was a SPECTACULAR SUCCESS, in fact, many say, one of the most successful things ever done by an American President. I overrode Fauci on this. His ideas were CRAZY! Also, I said from the beginning that the Virus came from the Wuhan Laboratory in China. Fauci strongly disagreed, always trying to protect China. I Inherited Fauci, who was there since the 1980’s, but with each passing day, relied less and less on him. He made too many bad calls, like on MASKS. Remember at the beginning he was an anti-masker. He then switched to a super-masker. In any event I didn’t let him shut the Country down, although he wanted to. I went the Federalist way, and let the governors decide. The Republican governors did a much better job than the Dumocrats. Fauci was largely taken out of play, and then along came Sleepy Joe Biden, who made Fauci a “King!” I called Biden to tell him Fauci was no good, either didn’t have a clue, or was dishonest. The call was well received, but sadly,not acted on. Biden went on to give Fauci vast destructive power. The rest is history! President DJT",
-        "url": "https://www.trumpstruth.org/statuses/40391",
-        "published_at": "2026-07-29T11:46:42"
-      },
-      {
-        "title": "Senator Ron Johnson is working hard with Senate Republican Leadership to adopt a Budget Resolution before the August recess. This is the first step towards getting as much of THE SAVE AMERICA ACT as possible in a Budget Bill, funding our Troops, and helping our Farmers. I am calling on the Senate to get this critical first step done before the August recess. This Resolution can be adopted at a simple Majority threshold. GET IT DONE! Thank you for your attention to this matter. President DONALD J. TRUMP",
-        "url": "https://www.trumpstruth.org/statuses/40390",
-        "published_at": "2026-07-29T01:09:06"
-      },
-      {
-        "title": "It is my Great Honor to endorse Amir Hassan, who is running to represent the fantastic people of Michigan’s 8th Congressional District! From bravely fighting for our incredible U.S. Navy, to protecting his Community as a Federal Law Enforcement Officer, Amir has served our Nation with distinction, and will bring that same Fighting Spirit to the U.S. Congress. His opponent, Kristen McDonald Rivet, voted against NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if she and the Dumocrats ever got in, all of these things would be terminated. She wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender for Everybody. On the other hand, Amir will work hard to Grow the Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Strengthen our Great Military/Veterans, and Defend our always under siege Second Amendment. Amir Hassan has my Complete and Total Endorsement to be the next Representative from Michigan’s 8th Congressional District — HE WILL NEVER LET YOU DOWN!",
-        "url": "https://www.trumpstruth.org/statuses/40388",
-        "published_at": "2026-07-29T00:59:25"
-      },
-      {
-        "title": "Prime Minister Bibi Netanyahu of Israel, along with myself and Representatives. Had a very good meeting! Obviously, many important subjects were discussed. President DONALD J. TRUMP",
-        "url": "https://www.trumpstruth.org/statuses/40389",
-        "published_at": "2026-07-29T00:57:07"
-      },
-      {
-        "title": "Great Honor to meet with President Zelenskyy of Ukraine. Many things were discussed. The meeting went very well! President DONALD J. TRUMP",
-        "url": "https://www.trumpstruth.org/statuses/40387",
-        "published_at": "2026-07-29T00:54:57"
-      },
-      {
-        "title": "Fauci told everyone he was a great basketball player, so I assumed that he would be easily able to throw a ball to Home Plate. It turned out that he was a phony on that, just like he was on everything else (See below!). He was a terrible “athlete,” and this is, by far, the worst throw I have ever seen in years of watching first pitches! President DONALD J. TRUMP",
-        "url": "https://www.trumpstruth.org/statuses/40386",
-        "published_at": "2026-07-29T00:35:57"
-      },
-      {
-        "title": "Congratulations to the Great Jay Clayton on his confirmation by the United States Senate, to be the next Director of National Intelligence. Jay is outstanding in every way, and will do a spectacular job as Director! President DONALD J. TRUMP",
-        "url": "https://www.trumpstruth.org/statuses/40384",
-        "published_at": "2026-07-28T23:51:03"
-      },
-      {
-        "title": "THE MASSIE MASSACRE in the Great Commonwealth of Kentucky has had a really great impact on Senator Rand Paul who will be running in two years. He’s been terrific, lately! President DJT",
-        "url": "https://www.trumpstruth.org/statuses/40385",
-        "published_at": "2026-07-28T23:50:11"
       }
     ]
   }
