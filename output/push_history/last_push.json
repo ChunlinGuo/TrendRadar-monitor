@@ -1,26 +1,91 @@
 {
-  "push_time": "2026-08-05T07:34:10.214161+08:00",
+  "push_time": "2026-08-06T07:30:42.211576+08:00",
   "feeds": {
     "Elon Musk (X/Twitter)": [
+      {
+        "title": "True",
+        "url": "https://nitter.net/elonmusk/status/2085074791648948401#m",
+        "published_at": "2026-08-05T18:45:43"
+      },
+      {
+        "title": "Critical feedback for the Grok Build harness, Grok foundation model and Imagine is super appreciated",
+        "url": "https://nitter.net/elonmusk/status/2085074733532590531#m",
+        "published_at": "2026-08-05T18:45:29"
+      },
+      {
+        "title": "It will and then to the Moon too",
+        "url": "https://nitter.net/elonmusk/status/2085045708844134423#m",
+        "published_at": "2026-08-05T16:50:09"
+      },
+      {
+        "title": "Exactly",
+        "url": "https://nitter.net/elonmusk/status/2085044909351047205#m",
+        "published_at": "2026-08-05T16:46:59"
+      },
+      {
+        "title": "RT by @elonmusk: New aspect ratio visualizer A small but delightful UI update to Grok Imagine Web.",
+        "url": "https://nitter.net/doganuraldesign/status/2085043800301318384#m",
+        "published_at": "2026-08-05T16:42:34"
+      },
+      {
+        "title": "RT by @elonmusk: Perfecting the overnight mode on Grok Build to keep the main agent context clean, dropping compaction from 3 times to 1. Prompt: \"Overnight mode on: . The role of the orchestrator is to a) make high-level strategy decisions, b) make sure sub-agents deliver useful information and keep going, c) validate sub-agent results (fan out another sub-agent as a validator), and make the next move.\"",
+        "url": "https://nitter.net/yunta_tsai/status/2084998906702901758#m",
+        "published_at": "2026-08-05T13:44:11"
+      },
+      {
+        "title": "Grok Build",
+        "url": "https://nitter.net/elonmusk/status/2084989366590742585#m",
+        "published_at": "2026-08-05T13:06:16"
+      },
+      {
+        "title": "RT by @elonmusk: Falcon 9’s first stage has landed on the A Shortfall of Gravitas droneship",
+        "url": "https://nitter.net/SpaceX/status/2084912076502282341#m",
+        "published_at": "2026-08-05T07:59:09"
+      },
+      {
+        "title": "Best way to use Grok is via our Build harness. Download at http://X.ai/cli",
+        "url": "https://nitter.net/elonmusk/status/2084857373555101726#m",
+        "published_at": "2026-08-05T04:21:47"
+      },
+      {
+        "title": "RT by @elonmusk: An extraordinary graphic showing what will happen in Poland if fertility rates simply stay where they are. Most of the developed world is on a trajectory of population collapse similar to this. Nothing matters more than turning around birthrate decline.",
+        "url": "https://nitter.net/MoreBirths/status/2084856017859317948#m",
+        "published_at": "2026-08-05T04:16:24"
+      },
+      {
+        "title": "Bring any idea to life with Imagine",
+        "url": "https://nitter.net/elonmusk/status/2084854619675754599#m",
+        "published_at": "2026-08-05T04:10:50"
+      },
+      {
+        "title": "Beautiful art from Imagine",
+        "url": "https://nitter.net/elonmusk/status/2084853838381711435#m",
+        "published_at": "2026-08-05T04:07:44"
+      },
+      {
+        "title": "My favorite piece of merch other than the (not a) flamethrower",
+        "url": "https://nitter.net/elonmusk/status/2084853510756282452#m",
+        "published_at": "2026-08-05T04:06:26"
+      },
+      {
+        "title": "RT by @elonmusk: SpaceX has launched more then every other company combined 🔥 🔥",
+        "url": "https://nitter.net/TheRabbitHole/status/2084765597901152301#m",
+        "published_at": "2026-08-04T22:17:06"
+      },
       {
         "title": "RT by @elonmusk: Elon & Jensen with NVIDIA GPUs August 2016",
         "url": "https://nitter.net/Kristennetten/status/2084755184748486980#m",
         "published_at": "2026-08-04T21:35:43"
       },
       {
-        "title": "Pinned: SpaceX earnings call on now",
-        "url": "https://nitter.net/elonmusk/status/2084745539187273851#m",
-        "published_at": "2026-08-04T20:57:23"
+        "title": "RT by @elonmusk: Grok Imagine is truly an excellent app. This app inspires me to dream completely different dreams. @elonmusk You absolutely must try Grok Imagine. Thank you, Emperor Kekius Maximus ⚔️💪⚔️",
+        "url": "https://nitter.net/Emp_Kek_Max/status/2084754523541889448#m",
+        "published_at": "2026-08-04T21:33:05"
       },
       {
-        "title": "SpaceX has committed to using Nvidia GPUs exclusively because they are the best",
-        "url": "https://nitter.net/elonmusk/status/2084744157470351541#m",
-        "published_at": "2026-08-04T20:51:54"
-      },
-      {
-        "title": "The same Starmind V1 satellite design (minus solar & radiator) will be deployed on the ground in our data centers. It’s a major improvement in data center efficiency.",
-        "url": "https://nitter.net/elonmusk/status/2084733538591486349#m",
-        "published_at": "2026-08-04T20:09:42"
+        "title": "RT by @elonmusk: Grok 4.5 just turned Blender into a conversation. Instead of manually importing assets, fixing rigs, placing armies, adjusting cameras, and debugging objects that face the wrong direction, the user simply tells Grok what to change. It builds a medieval battlefield from existing 3D assets, adds horses, knights, a castle, siege machines, trees, animation paths, cameras, and even spatial audio. The impressive part is not that it gets everything right. It absolutely does not. Models spawn upside down, characters face the wrong way, and the scene needs constant correction. But Grok keeps editing the actual Blender project instead of generating another fake 3D image and hoping nobody notices. It is replacing a suspicious amount of the boring work they had to do before the skilled part even started.",
+        "url": "https://nitter.net/irinatoxi/status/2084737280204280212#m",
+        "published_at": "2026-08-04T20:24:34"
       },
       {
         "title": "RT by @elonmusk: AI compute is going to orbit. 🚀 @SpaceX’s Starmind AI1 satellite compute payload is powered by NVIDIA Vera Rubin NVL72, bringing AI factory compute closer to the stars. The next chapter of AI infrastructure boldly goes where no AI compute has gone before.",
@@ -28,181 +93,116 @@
         "published_at": "2026-08-04T20:09:24"
       },
       {
-        "title": "RT by @elonmusk: Crew-13 completed training in California this past week. Falcon 9 is targeted to launch Dragon and the crew to the @Space_Station in September",
-        "url": "https://nitter.net/SpaceX/status/2084714741876871462#m",
-        "published_at": "2026-08-04T18:55:01"
+        "title": "RT by @elonmusk: This Grok Imagine 1.5 is pure magic. The lighting, atmosphere and flawless consistency make it look so real. Grok Imagine creates the most natural and heartfelt videos of any AI.",
+        "url": "https://nitter.net/testerlabor/status/2084629270714806587#m",
+        "published_at": "2026-08-04T13:15:23"
       },
       {
-        "title": "RT by @elonmusk: Falcon 9 launches 24 @Starlink satellites from California",
-        "url": "https://nitter.net/SpaceX/status/2084709117265064416#m",
-        "published_at": "2026-08-04T18:32:40"
-      },
-      {
-        "title": "Indeed",
-        "url": "https://nitter.net/elonmusk/status/2084678514402271486#m",
-        "published_at": "2026-08-04T16:31:03"
-      },
-      {
-        "title": "🚀🚀",
-        "url": "https://nitter.net/elonmusk/status/2084669448376480185#m",
-        "published_at": "2026-08-04T15:55:02"
-      },
-      {
-        "title": "RT by @elonmusk: The scale of what Elon is building in Bastrop is not well understood.",
-        "url": "https://nitter.net/MrGoldBro/status/2084666793340326059#m",
-        "published_at": "2026-08-04T15:44:29"
-      },
-      {
-        "title": "RT by @elonmusk: Today, we’re launching Alpamayo 2 Super, our frontier open reasoning model for autonomous vehicles. Beyond seeing, Alpamayo understands and reasons through the complex world - thinks before it acts. It’s a powerful backbone for robotaxis, trucks, shuttles, delivery vans, tractors and the long tail of mobile robots—billions of autonomous machines someday. We’re releasing it for commercial use under OpenMDW-1.1 so teams can inspect it, fine-tune it and deploy it—open models advance safety and security. The next wave of AI is robotics—and it starts with autonomous vehicles. Great work, Alpamayo team! https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available",
-        "url": "https://nitter.net/JensenHuang/status/2084656303046332747#m",
-        "published_at": "2026-08-04T15:02:48"
-      },
-      {
-        "title": "Can’t trust OpenAI",
-        "url": "https://nitter.net/elonmusk/status/2084652192024125768#m",
-        "published_at": "2026-08-04T14:46:28"
-      },
-      {
-        "title": "Yeah",
-        "url": "https://nitter.net/elonmusk/status/2084651951774454093#m",
-        "published_at": "2026-08-04T14:45:30"
-      },
-      {
-        "title": "Grok Imagine",
-        "url": "https://nitter.net/elonmusk/status/2084635712515678600#m",
-        "published_at": "2026-08-04T13:40:59"
-      },
-      {
-        "title": "Terafab",
-        "url": "https://nitter.net/elonmusk/status/2084635401566802217#m",
-        "published_at": "2026-08-04T13:39:45"
-      },
-      {
-        "title": "RT by @elonmusk: A very small percentage of my academic colleagues have ever openly supported my efforts to fight against the parasitic rot in academia. Regrettably, most academics are astoundingly cowardly. They prefer to nod quietly that \"men too can menstruate\" rather than standing up and saying \"Are you insane? No, men cannot menstruate.\" If you can get academics to reject the most fundamental markers of biological reality, you know that academia is not populated with intellectual NAVY seals.",
-        "url": "https://nitter.net/GadSaad/status/2084633101230023088#m",
-        "published_at": "2026-08-04T13:30:36"
-      },
-      {
-        "title": "RT by @elonmusk: Elon Musk in 1995 enjoys the trophy after successfully raiding the refrigerator in the kitchen of his then-girlfriend Jennifer's parents 😂",
-        "url": "https://nitter.net/EvaFox/status/2084613682512724255#m",
-        "published_at": "2026-08-04T12:13:26"
-      },
-      {
-        "title": "RT by @elonmusk: BREAKING: Billionaire Whitey Basson says Elon Musk’s Starlink must launch in South Africa. 🇿🇦 He said that keeping @Starlink out of South Africa is discouraging businesspeople from investing in rural areas where there is no working communications infrastructure.",
-        "url": "https://nitter.net/cb_doge/status/2084600591448203559#m",
-        "published_at": "2026-08-04T11:21:25"
-      },
-      {
-        "title": "RT by @elonmusk: Learn how to use References on Grok Imagine: characters, locations and props.",
-        "url": "https://nitter.net/imagine/status/2084411126876459300#m",
-        "published_at": "2026-08-03T22:48:33"
-      },
-      {
-        "title": "RT by @elonmusk: After their slave revolt, Haiti’s founder ordered the killing of all white people on the island. Soldiers went house to house killing thousands including women and children. They took full control, purged the population they blamed, and turned the richest colony in the Caribbean into the poorest and most dysfunctional country in the Western Hemisphere. Today, their descendants demand entry into the West they fought to escape, refuse to return to the mess they and their ancestors created, and are for some reason strongly convinced that borders are racist.",
-        "url": "https://nitter.net/Rothmus/status/2084362788307116099#m",
-        "published_at": "2026-08-03T19:36:28"
+        "title": "RT by @elonmusk: Grok Imagine Video 1.5 is now the #2 Image-to-Video AI model. Another huge milestone for xAI as Grok continues to climb the rankings.",
+        "url": "https://nitter.net/teslaownersSV/status/2084530890093298013#m",
+        "published_at": "2026-08-04T06:44:27"
       }
     ],
     "Trump (Truth Social)": [
       {
-        "title": "For far too long, Radical Climate Activists attempted to hold our Great Country hostage by drastically and unreasonably expanding the intended scope of the Endangered Species Act. This was complete and total regulatory overreach by unelected bureaucrats! They treated Americans very unfairly by stifling the production of important resources like Oil, Natural Gas, and Timber, and blocking the construction of family homes and critical Infrastructure. Even our Military couldn’t train on land that was deemed “off limits” to protect a little rodent! Now my Administration has returned the Endangered Species Act to how it was intended to be, just as the Great Justice Antonin Scalia has explained in previous cases. While responsibly protecting our beautiful Country, the United States of America is going to BUILD again. Thank you for your attention to this matter! President DONALD J. TRUMP",
-        "url": "https://www.trumpstruth.org/statuses/40554",
-        "published_at": "2026-08-04T22:52:51"
+        "title": "I was 28-1 last night on Endorsements, and numerous of them were outliers, but if you studied the Fake News, you would think it was just the opposite, 1-28. All they talked about was the one, and that’s why they call it the FAKE NEWS! President DJT",
+        "url": "https://www.trumpstruth.org/statuses/40594",
+        "published_at": "2026-08-05T20:16:40"
       },
       {
-        "title": "Congratulations to Brandon Beach, Treasurer of the United States, on having a portion of Highway 9 in Alpharetta, Georgia, named in his honor! He helped us secure a HISTORIC Victory in the Great State of Georgia. As Treasurer, he is working closely with our Secretary of the Treasury, Scott Bessent, to promote Dollar Dominance, and strengthen America’s Financial Future. Brandon is doing an incredible job for our Country. Congratulations Brandon!",
-        "url": "https://www.trumpstruth.org/statuses/40555",
-        "published_at": "2026-08-04T22:52:02"
+        "title": "Great news for the Republican Party. El-Sayed, a Communist loser who hates Jews and Israel, is the projected winner in his race with the Socialist. As usual, the Polls were way off on this one. She was not expected to do nearly as well as she did. Now, the Dumocrats crazy policies will only get worse!",
+        "url": "https://www.trumpstruth.org/statuses/40593",
+        "published_at": "2026-08-05T14:10:28"
       },
       {
-        "title": "The Highly Respected Alan Dershowitz has written a powerful new book, “Why I quit the Dems and so should you! (confessions of a reluctant Republican*).” Alan is a Great American Patriot who understands the Wisdom and Courage it takes to defend Democracy from Communism, and it is our Honor to welcome him into the Party of COMMON SENSE! There are many others, like Alan, who feel abandoned by the Radical Left Dumocrats, and are fleeing the Dumocrat Party, and Blue States, for FREEDOM — This Book is for you. Preorder your copy today:",
-        "url": "https://www.trumpstruth.org/statuses/40551",
-        "published_at": "2026-08-04T22:34:59"
+        "title": "Wayne County (Detroit) in Michigan is one of the most corrupt voting areas in the United States, if not the World. It is strictly Third World! Miracles happen in Wayne County, including more votes being cast than there are voters, by a lot. Therefore, the Communist, who is not liked in Detroit, is potentially in “Vote Counter” trouble. The Radical Left Socialist has a real shot, and don’t discount all of those fake mail-in ballots that will “surprisingly” show up at the last moment. Get ready for another Rigged Election. In November we must VOTE FOR MIKE ROGERS, and make Michigan TOO BIG TO RIG. God Bless America! President DJT",
+        "url": "https://www.trumpstruth.org/statuses/40592",
+        "published_at": "2026-08-05T13:28:05"
       },
       {
-        "title": "It was my Honor to write the Foreword for Brian Pannebecker’s incredible new Book, “Blue Collar Conservative: From Reagan to Trump.” As the head of Autoworkers for Trump, Brian has been with us from the very beginning, and understands, like few others, the Wisdom, Courage, and TARIFFS required to, MAKE AMERICA GREAT AGAIN. It is Great Patriots like Brian who helped us secure Historic Victories in three Presidential Campaigns, and are working tirelessly to save American Industry, and champion MADE IN THE U.S.A. “Forgotten” America is forgotten no longer — Get your copy today:",
-        "url": "https://www.trumpstruth.org/statuses/40552",
-        "published_at": "2026-08-04T22:34:28"
+        "title": "[No Title] - Post from August 5, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40591",
+        "published_at": "2026-08-05T05:15:13"
       },
       {
-        "title": "For many years, the vast Majority of Americans have asked to make Daylight Saving Time permanent, but no Administration has been able to get it done, until now. I am proud to announce that the House of Representatives has passed the Bill, and it has now gone to the Senate for final approval. People are sick and tired of having to change their clocks twice a year. It is foolish, inconvenient and, in some cases, very costly. For Cities and States with Watchtowers, and hard to reach places, it costs Millions of Dollars. A recent case was made that it is also bad for your health in the anxiety it creates. Leading Medical, Crime, and Economic Studies have shown that ceasing the biannual time change, giving us one extra hour of natural sunlight in the evenings, will help Decrease Robbery and Murder Rates, Reduce Car Accidents (especially those involving Pedestrians!), Lower Risk for Cardiac Issues, Stroke, and Seasonal Depression, Make It Safer for Children to Walk Home from School, Increase Time with your Family, Strongly Support Extracurricular Activities, Boost the Sports, Fitness, Tourism, Retail, and Restaurant Industries (and more!), and Save Money on Energy Bills, because everyone will be enjoying an EXTRA HOUR OF DAYLIGHT. In other words, leave it as it is now, and never change again. This is an issue that Republicans, Democrats, and Independents can unite behind. I am asking Republican Senators to release their holds, and allow the hotline to clear on the Republican side. LET’S PASS THE SUNSHINE PROTECTION ACT, ASAP. Thank you for your attention to this matter! President DONALD J. TRUMP",
-        "url": "https://www.trumpstruth.org/statuses/40553",
-        "published_at": "2026-08-04T22:30:40"
+        "title": "[No Title] - Post from August 5, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40589",
+        "published_at": "2026-08-05T05:06:35"
       },
       {
-        "title": "The very complex and expensive structure, being built for the United States Military, at the East Wing of the White House. This picture does not yet include the DronePort, where the steel, which is already fabricated and ready to go, will be delivered, imminently. The Project is on cost, and substantially ahead of schedule. We are working very closely with the United States Secret Service, and Military, and this Military Complex is the best of the best! It will provide the highest level of Defense, Offense, and Safety for the people of Washington, D.C., and for, importantly, future Presidents. Also rising is the desperately needed Ballroom, something which former Presidents have wanted for 150 years, which sits directly under the elevated DronePort, and is paid for by Great American Patriots — No Taxpayer Money! Thank you for your attention to this matter. President DONALD J. TRUMP",
-        "url": "https://www.trumpstruth.org/statuses/40550",
-        "published_at": "2026-08-04T22:29:28"
+        "title": "[No Title] - Post from August 5, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40590",
+        "published_at": "2026-08-05T05:05:48"
       },
       {
-        "title": "HAPPY 236th BIRTHDAY TO THE UNITED STATES COAST GUARD! Today we honor the incredible Men and Women of the United States Coast Guard, who protect our Borders, defend our Homeland, save countless American lives, and have done an AMAZING job taking deadly drugs off our streets before they can poison and kill our Citizens. America is SAFER because of their Courage and Devotion. We are very proud of them! Under my Administration and, with the tremendous leadership of Secretary of Homeland Security, Markwayne Mullin, we are rebuilding the Coast Guard like never before. The FIRST of 11 new Arctic Security Cutters that I ordered will be delivered in 2028, ensuring American Strength, Sovereignty, and Security in the Arctic for generations to come. Congress must FULLY SUPPORT and FULLY FUND the United States Coast Guard so they can continue carrying out this vital Mission. Thank you to Senators Dan Sullivan, Rick Scott, Katie Britt, and Tommy Tuberville for your outstanding leadership and your unwavering support of America's Coast Guard. To every Coast Guardsman, Active Duty, Reserve, Civilian, Auxiliary, Veteran, and your wonderful Families — THANK YOU for your Service to our Great Nation. SEMPER PARATUS! DONALD J. TRUMPPresident of the United States of America",
-        "url": "https://www.trumpstruth.org/statuses/40549",
-        "published_at": "2026-08-04T22:15:00"
+        "title": "[No Title] - Post from August 5, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40585",
+        "published_at": "2026-08-05T04:56:16"
       },
       {
-        "title": "[No Title] - Post from August 4, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40548",
-        "published_at": "2026-08-04T22:14:24"
+        "title": "[No Title] - Post from August 5, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40586",
+        "published_at": "2026-08-05T04:55:16"
       },
       {
-        "title": "[No Title] - Post from August 4, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40546",
-        "published_at": "2026-08-04T21:49:09"
+        "title": "[No Title] - Post from August 5, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40587",
+        "published_at": "2026-08-05T04:54:43"
       },
       {
-        "title": "[No Title] - Post from August 4, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40547",
-        "published_at": "2026-08-04T21:48:51"
+        "title": "[No Title] - Post from August 5, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40588",
+        "published_at": "2026-08-05T04:54:00"
       },
       {
-        "title": "The new President Donald J. Trump Bridge in Tennessee. A Great Honor!",
-        "url": "https://www.trumpstruth.org/statuses/40545",
-        "published_at": "2026-08-04T21:42:01"
+        "title": "Scott Bessent interviewed by Joe Kernen!",
+        "url": "https://www.trumpstruth.org/statuses/40584",
+        "published_at": "2026-08-05T04:35:07"
       },
       {
-        "title": "My REAL Polling Numbers, not those made up by the Fake News Media, are the best they have ever been, and why wouldn’t they be with the biggest tax cuts and employment numbers EVER, the biggest outside Investment in America in World history, a totally secure Border, a giant Victory in Venezuela, the Denuclearization of Iran, unparalleled respect and success throughout the World, and much more? Don’t believe the Radical Left’s Fake Poll numbers. They are Crooked and Corrupt, just like the Country Destroying Dumocrats are Crooked and Corrupt. VOTE REPUBLICAN FOR GREATNESS IN AMERICA! Thank you for your attention to this matter! President DJT",
-        "url": "https://www.trumpstruth.org/statuses/40544",
-        "published_at": "2026-08-04T21:39:05"
+        "title": "[No Title] - Post from August 5, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40581",
+        "published_at": "2026-08-05T04:05:42"
       },
       {
-        "title": "Manufacturing is BOOMING! Factory activity just hit its fastest pace in more than FOUR YEARS, far exceeding expectations. New orders have expanded for SEVEN straight months. American Manufacturing is BACK! The Stock Market is at an ALL TIME HIGH, and setting Record after Record because Investors know America is WINNING! American Exports are on FIRE. U.S. Goods Exports have now topped 200 BILLION DOLLARS for the fifth consecutive month, and we are on pace for nearly 2.5 TRILLION DOLLARS in Goods Exports this year — Numbers nobody thought possible just two years ago. The Fake News and the Dumocrats are doing everything they can to distract people’s thoughts from these MASSIVE Successes, but it’s getting harder and harder for them to do. With TRILLIONS OF DOLLARS of new Investment pouring into the United States, and more Factories, more Construction, and more High Paying Jobs on the way, the results are impossible to hide. This is the GOLDEN AGE OF AMERICA, and we’re just getting started. We’re already achieving heights that nobody thought possible — and the biggest Victories are still ahead!President DONALD J. TRUMP",
-        "url": "https://www.trumpstruth.org/statuses/40543",
-        "published_at": "2026-08-04T20:38:42"
+        "title": "[No Title] - Post from August 5, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40582",
+        "published_at": "2026-08-05T04:05:32"
       },
       {
-        "title": "Highly Respected Congresswoman, Harriet Hageman, is running for the United States Senate in the Great State of Wyoming, a place I love and WON BIG in 2016, 2020, and 2024!I know Harriet well, and she is a TOTAL WINNER! Harriet has ALWAYS delivered for Wyoming, and will continue to do so in the United States Senate. She will fight tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Advance American Energy DOMINANCE, Champion our Amazing Farmers and Ranchers, Keep our Border SECURE, Stop Migrant Crime, Support our Incredible Military/Veterans, and Defend our always under siege Second Amendment.Harriet Hageman is one of the most respected people in all of Washington, D.C., and has my Complete and Total Endorsement to be your next Senator — SHE WILL NEVER LET YOU DOWN!",
-        "url": "https://www.trumpstruth.org/statuses/40542",
-        "published_at": "2026-08-04T18:08:35"
+        "title": "[No Title] - Post from August 5, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40583",
+        "published_at": "2026-08-05T04:05:18"
       },
       {
-        "title": "“MAGA” Megan Degenfelder is running to be the next Governor of the Great State of Wyoming, a place I love and WON BIG in 2016, 2020, and 2024. Megan is fantastic, and strongly supported by many of our Greatest Warriors, including future Senator Harriet Hageman! A Sixth Generation Wyomingite, and Wyoming’s very popular Superintendent of Public Instruction, Megan has dedicated her life to serving her Community. As your next Governor, Megan will work tirelessly to Champion Wyoming Values, Promote our Amazing Farmers and Ranchers, Grow our Economy, Cut Taxes and Regulations, Advance MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Support our Brave Military, Veterans, and Law Enforcement, Safeguard our Elections, and Protect our always under siege Second Amendment. Megan Degenfelder has my Complete and Total Endorsement — She is a fantastic person, and will never let you down!",
-        "url": "https://www.trumpstruth.org/statuses/40541",
-        "published_at": "2026-08-04T18:05:16"
+        "title": "[No Title] - Post from August 5, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40572",
+        "published_at": "2026-08-05T02:13:56"
       },
       {
-        "title": "It was my Great Honor to welcome Highly Respected and very popular Pennsylvania State Treasurer, Stacy Garrity, into the Oval Office. Stacy is running to be the next Governor of the GREAT Commonwealth of Pennsylvania. She has my Complete and Total Endorsement. She will do a fantastic job!",
-        "url": "https://www.trumpstruth.org/statuses/40540",
-        "published_at": "2026-08-04T17:30:23"
+        "title": "[No Title] - Post from August 5, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40573",
+        "published_at": "2026-08-05T02:13:42"
       },
       {
-        "title": "It was my Honor to welcome now Senator Darline Graham Nordone (The sister of the Late, Great Lindsey Graham!), from the Wonderful State of South Carolina, into the Oval Office. We have known each other for a long time — She is a spectacular person, and a true American Patriot. Lindsey was one of the greatest people and Senators I have ever known, and his sister shares his deep love of our Country, and the State of South Carolina. During her visit, I asked Darline, for the Good of our Nation, to run for the U.S. Senate in the Special Republican Primary on Tuesday, August 11, 2026. She accepted, as there is nobody better to honor the legacy of her beloved brother, Lindsey. Darline, who comes from an absolutely incredible family, has been a WINNER all of her life, and has my Complete and Total Endorsement in the Special Election for U.S. Senate in South Carolina — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
-        "url": "https://www.trumpstruth.org/statuses/40539",
-        "published_at": "2026-08-04T14:45:06"
+        "title": "[No Title] - Post from August 5, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40574",
+        "published_at": "2026-08-05T02:13:32"
       },
       {
-        "title": "[No Title] - Post from August 4, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40536",
-        "published_at": "2026-08-04T14:44:27"
+        "title": "[No Title] - Post from August 5, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40575",
+        "published_at": "2026-08-05T02:13:22"
       },
       {
-        "title": "Campus free speech hits 20-year high under Trump administration:",
-        "url": "https://www.trumpstruth.org/statuses/40537",
-        "published_at": "2026-08-04T14:43:33"
+        "title": "[No Title] - Post from August 5, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40576",
+        "published_at": "2026-08-05T02:13:14"
       },
       {
-        "title": "McMahon Asks US Colleges to Pledge Campus Reforms by End of 2026:",
-        "url": "https://www.trumpstruth.org/statuses/40538",
-        "published_at": "2026-08-04T14:41:50"
+        "title": "[No Title] - Post from August 5, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40577",
+        "published_at": "2026-08-05T02:13:06"
       }
     ]
   }
