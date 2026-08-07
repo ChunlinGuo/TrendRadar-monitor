@@ -1,7 +1,139 @@
 {
-  "push_time": "2026-08-07T21:50:28.179423+08:00",
+  "push_time": "2026-08-08T07:07:08.860603+08:00",
   "feeds": {
+    "Elon Musk (X/Twitter)": [
+      {
+        "title": "Same thing seems to be happening with TV shows and video games",
+        "url": "https://nitter.net/elonmusk/status/2085802906674930019#m",
+        "published_at": "2026-08-07T18:58:59"
+      },
+      {
+        "title": "More trans violence",
+        "url": "https://nitter.net/elonmusk/status/2085802506211197098#m",
+        "published_at": "2026-08-07T18:57:24"
+      },
+      {
+        "title": "True",
+        "url": "https://nitter.net/elonmusk/status/2085800273004335278#m",
+        "published_at": "2026-08-07T18:48:32"
+      },
+      {
+        "title": "We’re working on making Grok Build super easy to use for non-technical people",
+        "url": "https://nitter.net/elonmusk/status/2085799495808204931#m",
+        "published_at": "2026-08-07T18:45:26"
+      },
+      {
+        "title": "Just like Starbase and Tesla factories, Terafab will be incredibly inspiring to come to work!",
+        "url": "https://nitter.net/elonmusk/status/2085797287343587511#m",
+        "published_at": "2026-08-07T18:36:40"
+      },
+      {
+        "title": "RT by @elonmusk: 👀",
+        "url": "https://nitter.net/jgebbia/status/2085792011278262467#m",
+        "published_at": "2026-08-07T18:15:42"
+      },
+      {
+        "title": "Inevitable",
+        "url": "https://nitter.net/elonmusk/status/2085789334288908746#m",
+        "published_at": "2026-08-07T18:05:04"
+      },
+      {
+        "title": "RT by @elonmusk: Oh my goodness.",
+        "url": "https://nitter.net/GadSaad/status/2085754530864439636#m",
+        "published_at": "2026-08-07T15:46:46"
+      },
+      {
+        "title": "It really is this amazing",
+        "url": "https://nitter.net/elonmusk/status/2085737443228045492#m",
+        "published_at": "2026-08-07T14:38:52"
+      },
+      {
+        "title": "Video",
+        "url": "https://nitter.net/elonmusk/status/2085735374651871702#m",
+        "published_at": "2026-08-07T14:30:39"
+      },
+      {
+        "title": "Try Grok Build http://X.ai/build",
+        "url": "https://nitter.net/elonmusk/status/2085735269525766343#m",
+        "published_at": "2026-08-07T14:30:13"
+      },
+      {
+        "title": "Grok Build V1.0 is now released. Try it out! http://X.ai/build",
+        "url": "https://nitter.net/elonmusk/status/2085594813840216212#m",
+        "published_at": "2026-08-07T05:12:06"
+      },
+      {
+        "title": "Terafab will be 50 times the size of the Pentagon when complete",
+        "url": "https://nitter.net/elonmusk/status/2085530890759749760#m",
+        "published_at": "2026-08-07T00:58:06"
+      },
+      {
+        "title": "RT by @elonmusk: Dear Europe: It's Not Racist to Have A Rational Immigration Policy",
+        "url": "https://nitter.net/thatsKAIZEN/status/2085528989829923275#m",
+        "published_at": "2026-08-07T00:50:33"
+      },
+      {
+        "title": "RT by @elonmusk: Banana for scale. Relative to the Terafab the banana is basically a quantum fluctuation.",
+        "url": "https://nitter.net/grok/status/2085528948612497735#m",
+        "published_at": "2026-08-07T00:50:23"
+      },
+      {
+        "title": "RT by @elonmusk: CHARLOTTE RESIDENTS, BEWARE Diquan Shafar Hunt (14 prior arrests) is on the loose, filming himself attacking white women Please spread this info",
+        "url": "https://nitter.net/EndWokeness/status/2085524315001212936#m",
+        "published_at": "2026-08-07T00:31:58"
+      },
+      {
+        "title": "It will be awesome 😎",
+        "url": "https://nitter.net/elonmusk/status/2085510570753556940#m",
+        "published_at": "2026-08-06T23:37:21"
+      },
+      {
+        "title": "Easy to tell who the bad guys are by looking at who has to build a wall to keep people from escaping!",
+        "url": "https://nitter.net/elonmusk/status/2085510467544314111#m",
+        "published_at": "2026-08-06T23:36:57"
+      },
+      {
+        "title": "RT by @elonmusk: In case you need a reminder of the INSANE scale and AMBITION of the Terafab project: I've put together a supecut of Elon Musk's Terafab announcement back in March 2026. Worth watching again following today's EPIC update. 💪 p.s. MASS DRIVER ON THE MOON!",
+        "url": "https://nitter.net/stevenmarkryan/status/2085496023707951392#m",
+        "published_at": "2026-08-06T22:39:33"
+      },
+      {
+        "title": "RT by @elonmusk: STARLINK: SpaceX plans to build its terrestrial cellular network by placing small cellular radios, femtocells, inside or next to existing Starlink dishes on a limited number of rooftops, Gateways, and Tesla Superchargers. Basically turning a subset of its existing Starlink installations into a distributed small-cell network that phones can use directly. Here is how it works: - Hardware: SpaceX will add a small cellular radio unit to some existing dishes. The unit uses the terrestrial spectrum SpaceX is acquiring from EchoStar (about 65 MHz). - Coverage: These units act as low-power cell sites. A regular phone in the area connects over the air to the nearest rooftop radio the same way it connects to a normal cell tower today. No special hardware on the phone is needed. - Density: SpaceX only needs enough host sites to create usable coverage in a given area. It eliminates the need to lease traditional macro towers. - Backhaul: The same Starlink satellite link that already serves the dish can carry the cellular traffic back to the core network, or local fiber can be used where available. - Cost: The approach avoids the high cost and slow permitting of conventional cell towers. SpaceX says this keeps upfront capital spending far lower than a traditional carrier buildout. Commercial service is targeted for the end of 2027. More Starlink news in today's EC below!",
+        "url": "https://nitter.net/SERobinsonJr/status/2085492284284355059#m",
+        "published_at": "2026-08-06T22:24:41"
+      }
+    ],
     "Trump (Truth Social)": [
+      {
+        "title": "Two Judges, one appointed by Barack Hussein Obama, the other by Sleepy Joe Biden, said in a ruling on the desperately needed SECURE Ballroom/Military Complex, including a major DronePort on the roof, that “Each President is a temporary tenant…of the White House.” We are not tenants, who pay rent and do all other things that a tenant must do, we are PRESIDENTS, elected by the people of the United States States of America, and have many rights, including the right to fix, renovate, secure, protect, and beautify the White House grounds, which has been built and rebuilt, renovated and rerenovated, repaired and, simply, MADE BETTER, many times since 1792, and never needing the permission of Congress, or anyone else, to do so. This decision, made after much of the work has been done and paid for, is a National Security Threat at the highest level. It is also a National Disgrace. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP",
+        "url": "https://www.trumpstruth.org/statuses/40639",
+        "published_at": "2026-08-07T22:55:21"
+      },
+      {
+        "title": "THE PROTECT COLLEGE SPORTS ACT is a great Bill, and the Senate will hopefully stay in D.C. until it passes. Without this Bill, millions of young Athletes will be hurt, programs will be canceled, Women's and Olympic Sports will go away, the fans will be robbed, and Universities will go broke. Nobody has done more to protect Women Athletes than me — and this Bill CLEARLY protects the Laws in 27 States protecting Women's Sports, and banning Men from Women's Sports. Anyone who tells you differently is LYING! Stop grandstanding, and try getting this done. Thank you for your attention to this matter! President DONALD J. TRUMP",
+        "url": "https://www.trumpstruth.org/statuses/40638",
+        "published_at": "2026-08-07T20:52:50"
+      },
+      {
+        "title": "Now that people are able to see it up close, they are reporting pure VANDALISM at The Reflecting Pool. Thank you Andrew Leyden for your observation! The material was cut right where the video tape showed, for 300 feet or more. People were on their knees with their hands in the water at the exact location of the “slashes.” Additionally, there were witnesses to the VANDALISM, and the flexible areas of the material were cut with a knife. U.S. Attorney Jeanine Pirro should re-visit her hastily made decision, especially since it turned out that the “gentleman” involved is a big player in ActBlue, a disgraceful fundraising SCAM, and is represented by a TRUMP DERANGED SLEAZEBAG, Political Hack Lawyer, Norm Eisen, and CREW, a group that uses “charity” for political purposes which is, to the best of my knowledge, ILLEGAL! I have been beating Eisen, a complete LUNATIC, in Court for 10 years, or more. He just keeps coming, but I always WIN! President DONALD J. TRUMP",
+        "url": "https://www.trumpstruth.org/statuses/40637",
+        "published_at": "2026-08-07T20:48:13"
+      },
+      {
+        "title": "Two Obama and Biden Appellate Court Judges just voted against the desperately needed Military Center, required for the National Security of Washington, D.C., and our Country, itself. Highly Respected Judge, Neomi Rao, stated the following key points, among others, in a strongly worded dissent: “This was a blatant abuse of discretion…To begin with, the district court had no jurisdiction because the Trust has no standing to stop construction at the White House…[T]he balance of equities overwhelmingly favors the government. The district court elevated the aesthetic displeasure of a single passerby over the government’s security interests in the ballroom and the security risks of leaving an open construction site at the President’s home and office…These errors in equitable judgment require vacating the injunction…The district court seized supervision of construction at the White House, and my colleagues affirm this judicial overreach…Because the injunction is beyond the proper province of the federal courts, construction should be allowed to continue.” The decision has been stayed, and does not take effect for a period of time. We will be immediately appealing to the United States Supreme Court. The Military and Secret Service are viewing this horrendous, politically motivated, and unlawful ruling as a National Security threat to our Nation in that the entire Complex is being built for the protection of our Country and, additionally, all future Presidents. The single, integrated project includes Bomb Shelters, State of the Art Hospital and Medical Facilities, Protective Partitioning, Top Secret Military Facilities, Structures and Equipment, Protective Missile Resistant Steel, Columns, Roofs, and Beams, Drone Proof Ceilings and Roofs, Military Grade Venting, and Bullet, Ballistic, and Blast Proof Glass. It is all tied together as one big, expensive, and very complex unit, which is vital for National Security and Military Operations of the United States of America! The Circuit Court’s decision, which is totally wrong on the vital subject of STANDING, of which the plaintiff has none, severely jeopardizes the lives and welfare of the people who work, and will be working, at the White House — including all future Presidents of the United States, and their families, as well as the lives of all those visiting, such as Heads of State and other Dignitaries, and all Americans who wish to visit the historic, beautiful Executive Mansion. The Circuit Court also refused to acknowledge that the desperately needed, and totally secure Ballroom, which is being built ahead of schedule and under budget, is a Gift from President Trump and Great Patriots of the United States of America. There will be no expense to the American Taxpayer. This unjust decision must be overturned by the Supreme Court in its entirety. Thank you for your attention to this deeply important National Security matter! President DONALD J. TRUMP",
+        "url": "https://www.trumpstruth.org/statuses/40636",
+        "published_at": "2026-08-07T16:48:48"
+      },
+      {
+        "title": "Last night was another good night for Endorsements, 8-1, and the 1 was a person who I remained loyal to even though he had virtually no chance of winning, and was running against a Great “Trump” Candidate, and former Agricultural Commissioner of Tennessee, named Charlie Hatcher. Good luck Charlie! Run tough and hard. You have my Complete and Total Endorsement! President DONALD J. TRUMP",
+        "url": "https://www.trumpstruth.org/statuses/40635",
+        "published_at": "2026-08-07T15:43:10"
+      },
+      {
+        "title": "Congratulations to our Great Senator from Tennessee, Marsha Blackburn, who had a tremendous WIN for Governor last night, against a very strong and talented opponent, John Rose. Marsha now must go on to the next step, where she is running against a Radical Left Dumocrat who does not represent the Values of Tennessee, a State which I won all three times, in Historic Numbers. Marsha will decisively win, and Tennessee, under her leadership, will go on to set Records in every category. I know Marsha well, and she has my Complete and Total Endorsement to be the next Governor of the Great State of Tennessee. Congratulations Marsha! President DONALD J. TRUMP",
+        "url": "https://www.trumpstruth.org/statuses/40634",
+        "published_at": "2026-08-07T15:21:21"
+      },
       {
         "title": "A must read! Thank you to James Jay Carafano!Donald Trump Won The Iran War:",
         "url": "https://www.trumpstruth.org/statuses/40633",
@@ -71,36 +203,6 @@
         "title": "[No Title] - Post from August 7, 2026",
         "url": "https://www.trumpstruth.org/statuses/40619",
         "published_at": "2026-08-07T00:33:03"
-      },
-      {
-        "title": "RT @realDonaldTrump",
-        "url": "https://www.trumpstruth.org/statuses/40620",
-        "published_at": "2026-08-07T00:30:01"
-      },
-      {
-        "title": "[No Title] - Post from August 7, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40613",
-        "published_at": "2026-08-07T00:29:19"
-      },
-      {
-        "title": "[No Title] - Post from August 7, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40614",
-        "published_at": "2026-08-07T00:29:14"
-      },
-      {
-        "title": "[No Title] - Post from August 7, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40615",
-        "published_at": "2026-08-07T00:29:05"
-      },
-      {
-        "title": "[No Title] - Post from August 7, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40616",
-        "published_at": "2026-08-07T00:28:23"
-      },
-      {
-        "title": "[No Title] - Post from August 7, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40617",
-        "published_at": "2026-08-07T00:28:12"
       }
     ]
   }
