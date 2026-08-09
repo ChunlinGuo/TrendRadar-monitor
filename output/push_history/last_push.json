@@ -1,208 +1,106 @@
 {
-  "push_time": "2026-08-08T21:27:31.470477+08:00",
+  "push_time": "2026-08-09T21:32:10.255417+08:00",
   "feeds": {
-    "Elon Musk (X/Twitter)": [
-      {
-        "title": "Video",
-        "url": "https://nitter.net/elonmusk/status/2085940169245356114#m",
-        "published_at": "2026-08-08T04:04:25"
-      },
-      {
-        "title": "Video",
-        "url": "https://nitter.net/elonmusk/status/2085937755062685951#m",
-        "published_at": "2026-08-08T03:54:50"
-      },
-      {
-        "title": "Video",
-        "url": "https://nitter.net/elonmusk/status/2085926590962164126#m",
-        "published_at": "2026-08-08T03:10:28"
-      },
-      {
-        "title": "RT @libsoftiktok: This guy went around Charlotte filming himself attacking white women for fun You probably won’t see this story in the le…",
-        "url": "https://nitter.net/elonmusk/status/2085926313118794087#m",
-        "published_at": "2026-08-08T03:09:22"
-      },
-      {
-        "title": "RT by @elonmusk: Texas continues to lead the way in chip innovation & advanced manufacturing. @SpaceX & @Tesla’s new semiconductor fabrication facility in Grimes County has the potential to create thousands of jobs for Texans, strengthen America’s semiconductor and AI industry supply chains, & help bring critical chip manufacturing back home. @SpaceX & @Tesla have also committed to invest millions of dollars in the local community and schools, and I look forward to seeing the benefits to Grimes County grow in the future.",
-        "url": "https://nitter.net/JohnCornyn/status/2085890347301843344#m",
-        "published_at": "2026-08-08T00:46:27"
-      },
-      {
-        "title": "RT by @elonmusk: did you know Grok is the only AI you can also use as a verb",
-        "url": "https://nitter.net/KettlebellDan/status/2085878569033715983#m",
-        "published_at": "2026-08-07T23:59:39"
-      },
-      {
-        "title": "RT by @elonmusk: Today, we’re launching Original Content Rewards. The reality is that Revenue Sharing had reached a point where its incentives were misaligned. Creators should be focused on bringing net new content to the platform instead of maximizing payouts. We could have kept adding more rules and exceptions, but ultimately the better decision was to start fresh and build a program designed from day one to reward originality. Original Content Rewards is the result. This program is built around a simple idea: reward the creators who bring original ideas, expertise, creativity, and unique perspectives to 𝕏 -- not those who have become best at gaming the system. This is just the beginning. We’ll continue refining the program, improving our models, and raising the bar over time. But we’re so excited to keep investing in the creators who inform us, entertain us, make us laugh, teach us something new, and drive meaningful conversations on 𝕏 every day. To everyone who creates original content on 𝕏 and makes this a better platform every day: thank you. We’re excited to keep building for you.",
-        "url": "https://nitter.net/allegrajacchia/status/2085835677917221171#m",
-        "published_at": "2026-08-07T21:09:13"
-      },
-      {
-        "title": "RT by @elonmusk: Use /connect-grok to use an X Premium or SuperGrok subscription with Warp",
-        "url": "https://nitter.net/SpaceXAI/status/2085814657223209290#m",
-        "published_at": "2026-08-07T19:45:41"
-      },
-      {
-        "title": "Same thing seems to be happening with TV shows and video games",
-        "url": "https://nitter.net/elonmusk/status/2085802906674930019#m",
-        "published_at": "2026-08-07T18:58:59"
-      },
-      {
-        "title": "More trans violence",
-        "url": "https://nitter.net/elonmusk/status/2085802506211197098#m",
-        "published_at": "2026-08-07T18:57:24"
-      },
-      {
-        "title": "True",
-        "url": "https://nitter.net/elonmusk/status/2085800273004335278#m",
-        "published_at": "2026-08-07T18:48:32"
-      },
-      {
-        "title": "We’re working on making Grok Build super easy to use for non-technical people",
-        "url": "https://nitter.net/elonmusk/status/2085799495808204931#m",
-        "published_at": "2026-08-07T18:45:26"
-      },
-      {
-        "title": "Just like Starbase and Tesla factories, Terafab will be incredibly inspiring to come to work!",
-        "url": "https://nitter.net/elonmusk/status/2085797287343587511#m",
-        "published_at": "2026-08-07T18:36:40"
-      },
-      {
-        "title": "RT by @elonmusk: 👀",
-        "url": "https://nitter.net/jgebbia/status/2085792011278262467#m",
-        "published_at": "2026-08-07T18:15:42"
-      },
-      {
-        "title": "Inevitable",
-        "url": "https://nitter.net/elonmusk/status/2085789334288908746#m",
-        "published_at": "2026-08-07T18:05:04"
-      },
-      {
-        "title": "RT by @elonmusk: Oh my goodness.",
-        "url": "https://nitter.net/GadSaad/status/2085754530864439636#m",
-        "published_at": "2026-08-07T15:46:46"
-      },
-      {
-        "title": "It really is this amazing",
-        "url": "https://nitter.net/elonmusk/status/2085737443228045492#m",
-        "published_at": "2026-08-07T14:38:52"
-      },
-      {
-        "title": "Video",
-        "url": "https://nitter.net/elonmusk/status/2085735374651871702#m",
-        "published_at": "2026-08-07T14:30:39"
-      },
-      {
-        "title": "RT by @elonmusk: I am unsure how much longer I can keep posting these stories. It is soul-crushing.",
-        "url": "https://nitter.net/GadSaad/status/2085713988583592009#m",
-        "published_at": "2026-08-07T13:05:40"
-      },
-      {
-        "title": "RT by @elonmusk: CHARLOTTE RESIDENTS, BEWARE Diquan Shafar Hunt (14 prior arrests) is on the loose, filming himself attacking white women Please spread this info",
-        "url": "https://nitter.net/EndWokeness/status/2085524315001212936#m",
-        "published_at": "2026-08-07T00:31:58"
-      }
-    ],
     "Trump (Truth Social)": [
       {
-        "title": "[No Title] - Post from August 8, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40658",
-        "published_at": "2026-08-08T11:10:14"
+        "title": "[No Title] - Post from August 9, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40674",
+        "published_at": "2026-08-09T02:22:33"
       },
       {
-        "title": "[No Title] - Post from August 8, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40659",
-        "published_at": "2026-08-08T11:10:05"
+        "title": "[No Title] - Post from August 9, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40675",
+        "published_at": "2026-08-09T02:22:26"
       },
       {
-        "title": "RT @realDonaldTrump",
-        "url": "https://www.trumpstruth.org/statuses/40660",
-        "published_at": "2026-08-08T11:09:54"
+        "title": "[No Title] - Post from August 9, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40676",
+        "published_at": "2026-08-09T02:22:18"
       },
       {
-        "title": "[No Title] - Post from August 8, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40654",
-        "published_at": "2026-08-08T11:09:47"
+        "title": "[No Title] - Post from August 9, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40677",
+        "published_at": "2026-08-09T02:22:06"
       },
       {
-        "title": "[No Title] - Post from August 8, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40655",
-        "published_at": "2026-08-08T11:09:39"
+        "title": "[No Title] - Post from August 9, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40678",
+        "published_at": "2026-08-09T02:22:00"
       },
       {
-        "title": "[No Title] - Post from August 8, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40656",
-        "published_at": "2026-08-08T11:09:08"
+        "title": "[No Title] - Post from August 9, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40679",
+        "published_at": "2026-08-09T02:21:50"
       },
       {
-        "title": "Eric Schmitt is a STAR!!! President DJT",
-        "url": "https://www.trumpstruth.org/statuses/40657",
-        "published_at": "2026-08-08T11:07:57"
+        "title": "[No Title] - Post from August 9, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40680",
+        "published_at": "2026-08-09T02:21:40"
       },
       {
-        "title": "[No Title] - Post from August 8, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40652",
-        "published_at": "2026-08-08T02:53:58"
+        "title": "[No Title] - Post from August 9, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40681",
+        "published_at": "2026-08-09T02:21:32"
       },
       {
-        "title": "[No Title] - Post from August 8, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40653",
-        "published_at": "2026-08-08T02:53:46"
+        "title": "[No Title] - Post from August 9, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40682",
+        "published_at": "2026-08-09T02:21:31"
       },
       {
-        "title": "[No Title] - Post from August 8, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40651",
-        "published_at": "2026-08-08T02:24:07"
+        "title": "Trump's Vegas Visit Hammers Tax Wins:",
+        "url": "https://www.trumpstruth.org/statuses/40683",
+        "published_at": "2026-08-09T02:20:58"
       },
       {
-        "title": "[No Title] - Post from August 8, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40647",
-        "published_at": "2026-08-08T02:16:26"
+        "title": "Jobless Claims Remain Below 200,000 For Third Straight Week—First Time in 57 Years:",
+        "url": "https://www.trumpstruth.org/statuses/40684",
+        "published_at": "2026-08-09T02:20:41"
       },
       {
-        "title": "[No Title] - Post from August 8, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40648",
-        "published_at": "2026-08-08T02:15:49"
+        "title": "Trump: US Has 'Massive' Amounts of Munitions:",
+        "url": "https://www.trumpstruth.org/statuses/40670",
+        "published_at": "2026-08-09T02:20:22"
       },
       {
-        "title": "[No Title] - Post from August 8, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40649",
-        "published_at": "2026-08-08T02:15:36"
+        "title": "Trump to host more than 120 Team USA Winter Olympians and Paralympians:",
+        "url": "https://www.trumpstruth.org/statuses/40671",
+        "published_at": "2026-08-09T02:20:09"
       },
       {
-        "title": "[No Title] - Post from August 8, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40650",
-        "published_at": "2026-08-08T02:15:25"
+        "title": "Trump gets immigration victory as federal judge clears path to end Haiti TPS following Supreme Court ruling:",
+        "url": "https://www.trumpstruth.org/statuses/40672",
+        "published_at": "2026-08-09T02:19:52"
       },
       {
-        "title": "This great and very important military asset sits atop the heavily protected Ballroom at the White House. It provides National Security for Washington, D.C., and will protect future Presidents!!! President DJT",
-        "url": "https://www.trumpstruth.org/statuses/40646",
-        "published_at": "2026-08-08T02:04:28"
+        "title": "EXCLUSIVE: White House Launches Fraud Website To Highlight Successes Of Task Force:",
+        "url": "https://www.trumpstruth.org/statuses/40673",
+        "published_at": "2026-08-09T02:19:36"
       },
       {
-        "title": "Donald Trump Won The Iran War:",
-        "url": "https://www.trumpstruth.org/statuses/40642",
-        "published_at": "2026-08-08T01:41:41"
+        "title": "[No Title] - Post from August 9, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40669",
+        "published_at": "2026-08-09T00:49:57"
       },
       {
-        "title": "Just kidding!",
-        "url": "https://www.trumpstruth.org/statuses/40643",
-        "published_at": "2026-08-08T01:41:04"
+        "title": "Trump Aberdeen!",
+        "url": "https://www.trumpstruth.org/statuses/40668",
+        "published_at": "2026-08-09T00:31:13"
       },
       {
-        "title": "[No Title] - Post from August 8, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40644",
-        "published_at": "2026-08-08T01:40:27"
+        "title": "Very true! President DJT",
+        "url": "https://www.trumpstruth.org/statuses/40666",
+        "published_at": "2026-08-08T19:58:34"
       },
       {
-        "title": "[No Title] - Post from August 8, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40645",
-        "published_at": "2026-08-08T01:40:16"
+        "title": "Great Poll Numbers. Thank You!!! President DJT",
+        "url": "https://www.trumpstruth.org/statuses/40662",
+        "published_at": "2026-08-08T19:52:51"
       },
       {
-        "title": "[No Title] - Post from August 8, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40640",
-        "published_at": "2026-08-08T01:40:04"
+        "title": "Cash is king: Washington Republicans bankroll midterms as National Democrat coffers are in the red:",
+        "url": "https://www.trumpstruth.org/statuses/40663",
+        "published_at": "2026-08-08T19:51:34"
       }
     ]
   }
