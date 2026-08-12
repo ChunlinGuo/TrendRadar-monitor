@@ -1,208 +1,203 @@
 {
-  "push_time": "2026-08-12T21:57:47.186874+08:00",
+  "push_time": "2026-08-13T07:12:00.258410+08:00",
   "feeds": {
     "Elon Musk (X/Twitter)": [
       {
-        "title": "Grok Build is extremely powerful",
-        "url": "https://nitter.net/elonmusk/status/2087433701764497852#m",
-        "published_at": "2026-08-12T06:59:11"
+        "title": "Grok 4.6 reaches #1 on @databricks",
+        "url": "https://nitter.net/elonmusk/status/2087668743929487420#m",
+        "published_at": "2026-08-12T22:33:10"
       },
       {
-        "title": "How to use Grok Build",
-        "url": "https://nitter.net/elonmusk/status/2087433011478634944#m",
-        "published_at": "2026-08-12T06:56:27"
+        "title": "Try out Grok @Bot",
+        "url": "https://nitter.net/elonmusk/status/2087602469778166195#m",
+        "published_at": "2026-08-12T18:09:49"
       },
       {
-        "title": "RT by @elonmusk: Everyone else is talking about building ASI to like monopolize b2b saas and Elon is talking about building a kardashev II sentient sun",
-        "url": "https://nitter.net/ArthurMacwaters/status/2087411297411625227#m",
-        "published_at": "2026-08-12T05:30:10"
+        "title": "Try out Grok 4.6! Double your tokens for next 7 days.",
+        "url": "https://nitter.net/elonmusk/status/2087601785833951705#m",
+        "published_at": "2026-08-12T18:07:06"
       },
       {
-        "title": "Video",
-        "url": "https://nitter.net/elonmusk/status/2087410119256764540#m",
-        "published_at": "2026-08-12T05:25:29"
+        "title": "RT by @elonmusk: SPACEXAI: Grok 4.6 leads on the two strongest knowledge-work / real-world productivity benchmarks (GDPVal-AA and AA-Briefcase) and on the legal benchmark, while remaining highly competitive on coding-agent and general intelligence metrics.",
+        "url": "https://nitter.net/SERobinsonJr/status/2087597115354849679#m",
+        "published_at": "2026-08-12T17:48:32"
       },
       {
-        "title": "Grok Bot",
-        "url": "https://nitter.net/elonmusk/status/2087409427888603229#m",
-        "published_at": "2026-08-12T05:22:44"
+        "title": "Try Grok 4.6 on tough real-world tasks!",
+        "url": "https://nitter.net/elonmusk/status/2087594669459001801#m",
+        "published_at": "2026-08-12T17:38:49"
       },
       {
-        "title": "SpaceX company update",
-        "url": "https://nitter.net/elonmusk/status/2087409075009274035#m",
-        "published_at": "2026-08-12T05:21:20"
+        "title": "RT by @elonmusk: one step closer to moon cannon and party.",
+        "url": "https://nitter.net/billlee/status/2087592670893847008#m",
+        "published_at": "2026-08-12T17:30:52"
       },
       {
-        "title": "RT by @elonmusk: ELON MUSK ON BUILDING A “STAR MIND” POWERED BY THE SUN “We’ve already built the most powerful AI training clusters in the world. And then what we expect to do by the end of next year is about 10 times more than what we’ve done thus far. This will be very important practice for space AI. And I do think that AI training will continue to be on the ground, but AI inference, the day-to-day use of AI, will be in space. So we’re aiming to get to 10 gigawatts by the end of next year. This is depending on what the value per watt is. If the value per watt is probably going to be $30 to $50, which means if we bring 10 gigawatts of AI online by the end of next year, it will be $300 to $500 billion a year in revenue. Big numbers. And sometimes I wonder, what is our purpose? And it could be that the purpose of humanity is to give birth to a star mind, a sentient sun. I don’t know what the AI is going to think about, honestly. It’s a lot of compute. But I guess this is the next step in the evolution of a civilization, is to harness the power of the sun. There was a physicist called Kardashev who argued that you could consider any given civilization on the basis of whether it has been able to harness most of the power of its planet, or most of the power of its sun, or most of the power of its galaxy, and beyond. So that’s what’s going to happen. And we’re going to do it. The factory for star mind will be located nearby, adjacent to us, basically. They just come from space.”",
-        "url": "https://nitter.net/cb_doge/status/2087314260770930780#m",
-        "published_at": "2026-08-11T23:04:34"
+        "title": "RT by @elonmusk: In case you missed it yesterday, here is the full video of Elon Musk giving a company update on the future of SpaceX:",
+        "url": "https://nitter.net/paranoidream/status/2087588192019161253#m",
+        "published_at": "2026-08-12T17:13:05"
       },
       {
-        "title": "Moonbase Alpha will be so cool. And we want to make it so that anyone can go to the Moon if they want.",
-        "url": "https://nitter.net/elonmusk/status/2087260966660759954#m",
-        "published_at": "2026-08-11T19:32:48"
+        "title": "Pareto gold for Grok 4.6",
+        "url": "https://nitter.net/elonmusk/status/2087588014767976890#m",
+        "published_at": "2026-08-12T17:12:22"
       },
       {
-        "title": "RT @Jason: I’m picking commercial flights based on starlink, not total time, route or price This new low cost Japan carrier @ZIPAIRTokyo…",
-        "url": "https://nitter.net/elonmusk/status/2087260449964429796#m",
-        "published_at": "2026-08-11T19:30:45"
+        "title": "Tesla FSD FTW",
+        "url": "https://nitter.net/elonmusk/status/2087587240277049622#m",
+        "published_at": "2026-08-12T17:09:18"
       },
       {
-        "title": "You can make your own steampunk movies with Grok Imagine",
-        "url": "https://nitter.net/elonmusk/status/2087260262525223221#m",
-        "published_at": "2026-08-11T19:30:00"
+        "title": "Grok is the most efficient high intelligence AI",
+        "url": "https://nitter.net/elonmusk/status/2087586860868755703#m",
+        "published_at": "2026-08-12T17:07:47"
       },
       {
-        "title": "RT by @elonmusk: Grok Bot is a workhorse All the repetitive tasks I found myself wasting my time doing I just have Grok Bot do for me now",
-        "url": "https://nitter.net/KettlebellDan/status/2087255832677253435#m",
-        "published_at": "2026-08-11T19:12:24"
+        "title": "Grok 4.6 is objectively #1 when considering intelligence, speed & cost",
+        "url": "https://nitter.net/elonmusk/status/2087586063682596905#m",
+        "published_at": "2026-08-12T17:04:37"
       },
       {
-        "title": "RT by @elonmusk: meeting more and more people who are daily driving grok",
-        "url": "https://nitter.net/jeffreyhuber/status/2087246938530062794#m",
-        "published_at": "2026-08-11T18:37:03"
+        "title": "Yes",
+        "url": "https://nitter.net/elonmusk/status/2087585217842487424#m",
+        "published_at": "2026-08-12T17:01:16"
       },
       {
-        "title": "They can’t handle the truth is the real issue here",
-        "url": "https://nitter.net/elonmusk/status/2087235939055591862#m",
-        "published_at": "2026-08-11T17:53:21"
+        "title": "RT by @elonmusk: Grok 4.6 is now one of the top models in the world for agentic workflows It ranks #1 on the Artificial Analysis Agentic Index, tied with Claude Opus 5 Max Agentic AI is about more than answering questions It measures: • Tool use • Planning • Autonomy • Complex problem solving Grok 4.6 tops the chart",
+        "url": "https://nitter.net/XFreeze/status/2087581722116505959#m",
+        "published_at": "2026-08-12T16:47:22"
       },
       {
-        "title": "We will widen the Grok Bot beta after we fix basic issues with the early beta and release Grok 4.6 later this week",
-        "url": "https://nitter.net/elonmusk/status/2087233507370147920#m",
-        "published_at": "2026-08-11T17:43:41"
+        "title": "RT by @elonmusk: Congrats to the @SpaceXAI team on the release of Grok 4.6. Grok 4.6 brings frontier intelligence, running and trained on NVIDIA GB300 NVL72 with NVLink to deliver exceptional performance, reliability and lowest token cost.",
+        "url": "https://nitter.net/nvidia/status/2087576824159297605#m",
+        "published_at": "2026-08-12T16:27:54"
       },
       {
-        "title": "What would you most like us to add to or fix about Grok Build?",
-        "url": "https://nitter.net/elonmusk/status/2087232895798616122#m",
-        "published_at": "2026-08-11T17:41:15"
+        "title": "RT by @elonmusk: Grok 4.6 is an excellent model. I’ve been using it heavily for the past couple of weeks and it handles everything from simple coding & code review all the way to designing and debugging complex systems with ease. What stands out even more is how strong it is outside of coding - deep research, long-form reasoning, planning, writing, and agentic workflows all feel noticeably sharper.",
+        "url": "https://nitter.net/theskory/status/2087569089027817485#m",
+        "published_at": "2026-08-12T15:57:10"
       },
       {
-        "title": "lmao",
-        "url": "https://nitter.net/elonmusk/status/2087228471667781885#m",
-        "published_at": "2026-08-11T17:23:41"
+        "title": "RT by @elonmusk: give 4.6 a try and let us know how it goes. your feedback is a big part of why the model gets better with each iteration.",
+        "url": "https://nitter.net/JasonBud/status/2087567786302374322#m",
+        "published_at": "2026-08-12T15:52:00"
       },
       {
-        "title": "RT by @elonmusk: Lightning strikes for continuous and long-run agents! Nemotron 3.5 Lightning is smart, fast, efficient and open.",
-        "url": "https://nitter.net/JensenHuang/status/2087184542050496763#m",
-        "published_at": "2026-08-11T14:29:07"
+        "title": "Grok 4.6 is a banger",
+        "url": "https://nitter.net/elonmusk/status/2087566406921617534#m",
+        "published_at": "2026-08-12T15:46:31"
       },
       {
-        "title": "RT by @elonmusk: Grok can now turn your daily news research into a voice memo you can just listen to Ask it to research everything important from the last 24 hours, summarize the major events, and package it into an audio briefing So instead of reading through dozens of stories, you can just press play and catch up on everything in a few minutes With different voices available, it basically becomes your own personalized daily news show",
-        "url": "https://nitter.net/XFreeze/status/2087151014587826414#m",
-        "published_at": "2026-08-11T12:15:53"
+        "title": "RT by @elonmusk: Excited to release Grok 4.6. With each release, Grok is becoming a more capable digital colleague. 4.6 is significantly better at difficult tasks and knowledge work. It combines Opus-class intelligence and polish with very low cost and high speed.",
+        "url": "https://nitter.net/mntruell/status/2087565040677454327#m",
+        "published_at": "2026-08-12T15:41:05"
       },
       {
-        "title": "RT by @elonmusk: Around 43% of the German population aged under 5 now has a foreign background.",
-        "url": "https://nitter.net/PeterSweden7/status/2087148115304272168#m",
-        "published_at": "2026-08-11T12:04:22"
-      },
-      {
-        "title": "RT by @elonmusk: More texts reveal that Biden era US Surgeon General Vivek Murthy responded to Fauci’s concern about the COVID vaccine in pregnant women by adding “I’ve been hearing concern about the mRNA causing mutations in the developing fetus as well.” None of these concerns were ever made public.",
-        "url": "https://nitter.net/BillMelugin_/status/2086901619346792543#m",
-        "published_at": "2026-08-10T19:44:53"
+        "title": "RT by @elonmusk: Grok 4.6 is a leap in intelligence and persistence. From completing debugging tasks to building apps from scratch, Grok 4.6 is a fast, dependable, and smart companion. Try it now in Grok Build, Cursor, Grok Bot, and the SpaceXAI API!",
+        "url": "https://nitter.net/milichab/status/2087563876749775002#m",
+        "published_at": "2026-08-12T15:36:27"
       }
     ],
     "Trump (Truth Social)": [
       {
-        "title": "[No Title] - Post from August 12, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40754",
-        "published_at": "2026-08-12T12:16:07"
+        "title": "I am pleased to announce the nomination of Lee Rudofsky to the United States Court of Appeals for the Eighth Circuit! Lee is currently a distinguished Federal District Court Judge in Arkansas. He previously was Solicitor General of Arkansas, and Assistant General Counsel of Walmart. He is a Graduate of Harvard Law School and Cornell University. Lee will be a rock solid defender of the Constitution on the Eighth Circuit. Congratulations Lee! President DONALD J. TRUMP",
+        "url": "https://www.trumpstruth.org/statuses/40784",
+        "published_at": "2026-08-12T22:58:45"
       },
       {
-        "title": "[No Title] - Post from August 12, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40755",
-        "published_at": "2026-08-12T12:16:01"
+        "title": "For many years, the vast Majority of Americans have asked to make Daylight Saving Time permanent, but no Administration has been able to get it properly done, until now. I am proud to announce that the House of Representatives has passed the Bill, and it has now gone to the Senate for final approval. People are sick and tired of having to change their clocks twice a year. It is foolish, inconvenient and, in some cases, very costly. For Cities and States with Watchtowers, and hard to reach places, it costs Millions of Dollars. A recent case was made that it is also bad for your health in the anxiety it creates. Leading Medical, Crime, and Economic Studies have shown that ceasing the biannual time change, giving us one extra hour of natural sunlight in the evenings, will help Decrease Robbery and Murder Rates, Reduce Car Accidents (especially those involving Pedestrians!), Lower Risk for Cardiac Issues, Stroke, and Seasonal Depression, Make It Safer for Children to Walk Home from School, Increase Time with your Family, Strongly Support Extracurricular Activities, Be a Big Boost to Sports, Fitness, Tourism, Retail, and the Restaurant Industries (and more!), and Save Money on Energy Bills, because everyone will be enjoying an EXTRA HOUR OF DAYLIGHT. In other words, leave it as it is now, and never change again. This is an issue that Republicans, Dumocrats, and Independents can unite behind. I am asking Republican Senators to PASS THE SUNSHINE PROTECTION ACT, ASAP. Thank you for your attention to this matter! President DONALD J. TRUMP",
+        "url": "https://www.trumpstruth.org/statuses/40783",
+        "published_at": "2026-08-12T22:45:40"
       },
       {
-        "title": "Obama’s Trump-Russia collusion report was corrupt from start: CIA review:",
-        "url": "https://www.trumpstruth.org/statuses/40756",
-        "published_at": "2026-08-12T12:15:53"
+        "title": "MAGA Warrior Mike Mazzei is running for Governor in Oklahoma, where I was the ONLY President to win ALL 77 Counties in three straight Elections (Ronald Reagan was second!). Additionally, I won more votes than any Candidate in the State’s History! I LOVE Oklahoma, and Mike Mazzei has my COMPLETE and TOTAL Endorsement for Governor!Meanwhile, his Runoff Election Opponent, Gentner Drummond, is a FAKE Republican, who donated to SLEEPY Joe Biden, and the totally corrupt and anti-American “Lincoln Project,” which is now in shambles because of their views on Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. In fact, the Lincoln Project’s top man and founder, John Weaver, sent unsolicited sexually provocative messages to 21 young men, and supposedly, a 14-year-old boy. Another one of their people, Steve Schmidt, a total loser who has gone down in flames, for lots of bad reasons, was one of the biggest proponents of the failed and highly disgraced Lincoln Project. This is what Drummond, and his equally Liberal wife, Wendy, supported at levels that are shameful and, frankly, that makes them both Radical Left Dumocrats. Additionally, he wants to dethrone a magnificent, Job producing, desperately needed, and brand new, Aluminum Plant that will be one of the best projects ever conceived or built, not only in the Great State of Oklahoma, but in the United States, itself. It will be one of the most successful Job creating Plants ever built in our Country. The group that’s doing it is extraordinarily wealthy and, if they don’t do it in Oklahoma, they have 20 other sites that would love to have them. Our Country needs Aluminum, and the beautiful Town of Inola, Oklahoma (which was very nice to me in all three Elections!), will be the primary beneficiary in terms of Jobs, Lower Taxes, and the funding of Schools. In addition, it helps our Country with regards to National Security — You can’t get Aluminum in the United States, and this Plant will go elsewhere if it’s not approved. Oklahoma can lead the way! Very simply, Mike Mazzei is for this desperately needed Job Producing Aluminum Plant. Drummond, for his own reasons, is not — He even SUED, unsuccessfully, to block it. It’s going to be the Biggest Aluminum Plant in the Country, and it’s all financed and done! It is a financial windfall for the State of Oklahoma, including what will be a major reduction in your Taxes!Gentner Drummond has also stated publicly he had \"no opinion\" on the BOGUS IMPEACHMENT of a young and very handsome gentleman, named, President Donald J. Trump (ME!). All Republicans feel the opposite on the Dumocrat inspired Impeachment Hoax. Drummond even SUED to BLOCK a religious based charter school strongly supported by my Administration — Very troubling for Educational Freedom, and an outright attack on Christianity!Drummond is not the right guy. He’s got a bad attitude, and he doesn’t stand for the Values of Oklahoma, which must VOTE FOR “MIKE MAZZEI FOR GOVERNOR,” on Tuesday, August 25th — MIKE WILL NEVER LET YOU DOWN! Thank you for your attention to this matter. President DONALD J. TRUMP",
+        "url": "https://www.trumpstruth.org/statuses/40782",
+        "published_at": "2026-08-12T22:42:21"
       },
       {
-        "title": "RT @realDonaldTrump",
-        "url": "https://www.trumpstruth.org/statuses/40752",
-        "published_at": "2026-08-12T02:30:32"
+        "title": "RT @realDonaldTrumpOur wonderful White House Press Secretary, and one of my most trusted aides, Karoline Leavitt, will be departing her role at the end of the month so she can spend more time with her beautiful young children and family, a decision I totally understand and respect! Karoline will now be one of my top outside advisors, and an influential voice within the Republican Party, as we work to defy History, and conclusively win the Midterm Elections. Karoline has been a real leader in the White House, and has done a phenomenal job fighting for Justice, Liberty, and Freedom, since 2018, including our Historic Re-Election Campaign of 2024. Karoline has been one of the best White House Press Secretaries in the History of the Office. Thank you, Karoline, for a job well done! President DONALD J. TRUMP",
+        "url": "https://www.trumpstruth.org/statuses/40768",
+        "published_at": "2026-08-12T22:08:48"
       },
       {
-        "title": "[No Title] - Post from August 12, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40753",
-        "published_at": "2026-08-12T02:30:25"
+        "title": "Senator Ashley Moody is doing a tremendous job representing the incredible people of Florida, a State I love, and WON BIG, in 2016, 2020, and 2024! A fifth generation Floridian, Ashley served as State Attorney General for six years prior to becoming a very distinguished and well respected U.S. Senator. Ashley is working tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Murderers, and other Criminals from illegally entering our Country, Strengthen our Great Military/Veterans, and Defend our always under siege Second Amendment. Ashley Moody has my Complete and Total Endorsement! Early Voting is underway NOW, and Election Day is August 18th. GET OUT AND VOTE FOR ASHLEY — SHE WILL NEVER LET YOU DOWN! Find your Voting Location here:",
+        "url": "https://www.trumpstruth.org/statuses/40769",
+        "published_at": "2026-08-12T22:08:33"
       },
       {
-        "title": "RT @realDonaldTrump",
-        "url": "https://www.trumpstruth.org/statuses/40751",
-        "published_at": "2026-08-12T01:58:24"
+        "title": "Highly Respected Congressman Byron Donalds is running for Governor of Florida, a State that I love, and WON BIG, in 2016, 2020, and 2024. I know Byron well, have seen him tested at the highest and most difficult levels, and he is a TOTAL WINNER! Byron has a great wife, Erika, and three beautiful sons. They are very proud of him! As Governor, Byron will have a BIG Voice, and work closely with me to advance our America First Agenda. He will fight tirelessly to help Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military, Protect our Veterans, Advance American Energy DOMINANCE, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., and Defend our always under siege Second Amendment. Byron Donalds will be a truly Great and Powerful Governor for Florida, and has my Complete and Total Endorsement! Early Voting is underway NOW, and Election Day is August 18th. GET OUT AND VOTE FOR BYRON — HE WILL NEVER LET YOU DOWN! Find your Voting Location here:",
+        "url": "https://www.trumpstruth.org/statuses/40770",
+        "published_at": "2026-08-12T22:08:17"
       },
       {
-        "title": "[No Title] - Post from August 12, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40748",
-        "published_at": "2026-08-12T01:49:19"
+        "title": "Florida Attorney General James Uthmeier is doing a GREAT job for the Sunshine State, which I won BIG in 2016, 2020, and 2024. James is an America First Warrior, who is a true champion for “MAGA.” He is THE MAN behind ALLIGATOR ALCATRAZ, and argued strongly at the United States Supreme Court in defense of my Executive Power to fire Deep State bureaucrats. Under James’ fearless leadership, over 1,000 CRIMINAL PEDOPHILES have been arrested, missing children have been SAVED, and our Great Members of Law Enforcement have been empowered to do their jobs and, KEEP FLORIDA SAFE. In his next term, James will continue to work tirelessly to Ensure Law and Order, Uphold our Constitutional Rights, and Protect our always under siege Second Amendment. James Uthmeier is a Strong Conservative Fighter and Prosecutor, and has my Complete and Total Endorsement! Early Voting is underway NOW, and Election Day is August 18th. GET OUT AND VOTE FOR JAMES — HE WILL NEVER LET YOU DOWN! Find your Voting Location here:",
+        "url": "https://www.trumpstruth.org/statuses/40771",
+        "published_at": "2026-08-12T22:08:01"
       },
       {
-        "title": "[No Title] - Post from August 12, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40749",
-        "published_at": "2026-08-12T01:49:11"
+        "title": "Wilton Simpson is the strong and highly popular Agriculture Commissioner for Florida, my “Home” State, which I love and won SIX times, including with 6.1 Million Votes in 2024, the most in History (BY FAR)! Wilton is a Fifth Generation Floridian, lifelong Egg Farmer, successful Businessman, former President of the State Senate, and now, as Agriculture Commissioner, has served the Sunshine State during a career “loaded up” with accolades and wins. A true America First Patriot, who has been with us from the very beginning, Wilton is an incredibly effective Voice for Florida Agriculture, and our amazing Farmers and Ranchers. He is fighting tirelessly to Grow our Economy, Cut Taxes and Regulations, Champion American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Murderers, and other Criminals from illegally entering our Country, and Protect our always under siege Second Amendment. Wilton Simpson has my Complete and Total Endorsement for Re-Election! Early Voting is underway NOW, and Election Day is August 18th. GET OUT AND VOTE FOR WILTON — HE WILL NEVER LET YOU DOWN! Find your Voting Location here:",
+        "url": "https://www.trumpstruth.org/statuses/40772",
+        "published_at": "2026-08-12T22:07:47"
       },
       {
-        "title": "[No Title] - Post from August 12, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40750",
-        "published_at": "2026-08-12T01:49:04"
+        "title": "Congressman Jimmy Patronis is a MAGA Warrior who is doing a fantastic job representing Florida’s 1st Congressional District! A Fourth Generation Floridian from the beautiful Panhandle, and owner of an iconic seafood restaurant, Jimmy served as the Chief Financial Officer for the Great State of Florida for seven years, prior to becoming a very distinguished Congressman. In the U.S. House of Representatives, Jimmy is fighting tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Strengthen our Incredible Military/Veterans, and Defend our always under siege Second Amendment. Jimmy Patronis has my Complete and Total Endorsement for Re-Election! Early Voting is underway NOW, and Election Day is August 18th. GET OUT AND VOTE FOR JIMMY — HE WILL NEVER LET YOU DOWN! Find your Voting Location here:",
+        "url": "https://www.trumpstruth.org/statuses/40773",
+        "published_at": "2026-08-12T22:07:26"
       },
       {
-        "title": "RT @realDonaldTrump",
-        "url": "https://www.trumpstruth.org/statuses/40747",
-        "published_at": "2026-08-12T01:40:46"
+        "title": "Congresswoman Kat Cammack is doing a fantastic job representing the wonderful people of Florida’s 3rd Congressional District! In Congress, Kat is working tirelessly to Grow our Economy, Cut Taxes, Promote MADE IN THE U.S.A., Support our Amazing Farmers and Ranchers, Unleash American Energy DOMINANCE, Keep our Border SECURE, Champion our Military/Veterans, and Protect our always under siege Second Amendment. Kat Cammack has my Complete and Total Endorsement for Re-Election! Early Voting is underway NOW, and Election Day is August 18th. GET OUT AND VOTE FOR KAT — SHE WILL NEVER LET YOU DOWN! Find your Voting Location here:",
+        "url": "https://www.trumpstruth.org/statuses/40774",
+        "published_at": "2026-08-12T22:07:10"
       },
       {
-        "title": "[No Title] - Post from August 12, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40740",
-        "published_at": "2026-08-12T01:39:47"
+        "title": "Congressman Aaron Bean is a Tremendous Champion for Florida’s 4th Congressional District! As a Member of the POWERFUL Ways & Means Committee, Aaron knows the America First Policies required to Create GREAT Jobs, Cut Taxes and Regulations, Advance MADE IN THE U.S.A., Unleash American Energy DOMINANCE, and Champion our Nation’s Golden Age. He is also fighting tirelessly to Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Strengthen our Brave Military/Veterans, and Defend our always under siege Second Amendment. Aaron Bean has my Complete and Total Endorsement for Re-Election! Early Voting is underway NOW, and Election Day is August 18th. GET OUT AND VOTE FOR AARON — HE WILL NEVER LET YOU DOWN! Find your Voting Location here:",
+        "url": "https://www.trumpstruth.org/statuses/40775",
+        "published_at": "2026-08-12T22:06:57"
       },
       {
-        "title": "[No Title] - Post from August 12, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40741",
-        "published_at": "2026-08-12T01:39:22"
+        "title": "Congressman John Rutherford is an incredible Representative for the wonderful People of Florida’s 5th Congressional District! As the former Sheriff of Duval County, and now, as a Highly Respected U.S. Congressman, John strongly supports our incredible Law Enforcement, Military, and Veterans, and knows the Wisdom and Courage it takes to Ensure LAW AND ORDER. In Congress, he is fighting tirelessly to Keep our Border SECURE, Stop Migrant Crime, Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Safeguard our Elections, and Protect our always under siege Second Amendment. John Rutherford has my Complete and Total Endorsement for Re-Election! Early Voting is underway NOW, and Election Day is August 18th. GET OUT AND VOTE FOR JOHN — HE WILL NEVER LET YOU DOWN! Find your Voting Location here:",
+        "url": "https://www.trumpstruth.org/statuses/40776",
+        "published_at": "2026-08-12T22:06:39"
       },
       {
-        "title": "[No Title] - Post from August 12, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40742",
-        "published_at": "2026-08-12T01:39:13"
+        "title": "Congressman Randy Fine is a MAGA Warrior who is doing a fantastic job representing Florida’s 6th Congressional District! A Harvard Educated and Successful Businessman, Randy was a Highly Respected State Legislator, prior to becoming a distinguished U.S. Congressman. He loves the Great People of the Sunshine State, which I won THREE TIMES in 2016, 2020, and 2024! In Congress, Randy is fighting tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Champion our Military/Veterans, Defend our always under siege Second Amendment, and, very importantly, Pass THE SAVE AMERICA ACT. Randy Fine has my Complete and Total Endorsement for Re-Election! Early Voting is underway NOW, and Election Day is August 18th. GET OUT AND VOTE FOR RANDY — HE WILL NEVER LET YOU DOWN! Find your Voting Location here:",
+        "url": "https://www.trumpstruth.org/statuses/40777",
+        "published_at": "2026-08-12T22:06:21"
       },
       {
-        "title": "[No Title] - Post from August 12, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40743",
-        "published_at": "2026-08-12T01:39:05"
+        "title": "Congressman Mike Haridopolos is an America First Patriot who is doing a fantastic job representing Florida’s 8th Congressional District! A former Teacher, successful Businessman, and now, as U.S. Congressman, Mike has strongly served his Community with a career “loaded up” with accolades and wins. In Congress, he is fighting tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our now Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, and Defend our always under siege Second Amendment. Mike Haridopolos has my Complete and Total Endorsement for Re-Election! Early Voting is underway NOW, and Election Day is August 18th. GET OUT AND VOTE FOR MIKE — HE WILL NEVER LET YOU DOWN! Find your Voting Location here:",
+        "url": "https://www.trumpstruth.org/statuses/40778",
+        "published_at": "2026-08-12T22:06:05"
       },
       {
-        "title": "[No Title] - Post from August 12, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40744",
-        "published_at": "2026-08-12T01:38:54"
+        "title": "Congressman Gus Bilirakis is a Tremendous Champion for Florida’s 12th Congressional District! As a Senior Member of the POWERFUL House Energy and Commerce Committee, Gus is working tirelessly to Unleash American Energy DOMINANCE, Create GREAT Jobs, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., and Champion our Nation’s Golden Age. In Congress, Gus is also fighting tirelessly to Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Support our Brave Military/Veterans, and Protect our always under siege Second Amendment. Gus Bilirakis has my Complete and Total Endorsement for Re-Election! Early Voting is underway NOW, and Election Day is August 18th. GET OUT AND VOTE FOR GUS — HE WILL NEVER LET YOU DOWN! Find your Voting Location here:",
+        "url": "https://www.trumpstruth.org/statuses/40779",
+        "published_at": "2026-08-12T22:05:49"
       },
       {
-        "title": "[No Title] - Post from August 12, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40745",
-        "published_at": "2026-08-12T01:38:44"
+        "title": "Congresswoman Anna Paulina Luna is an America First Patriot and Tremendous Champion for the wonderful people of Florida's 13th Congressional District! A true MAGA Warrior, Anna is working tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Support our incredible Military/Veterans, Defend our always under siege Second Amendment, and Ensure PEACE THROUGH STRENGTH. Anna Paulina Luna is a very good friend, fighter, and WINNER, and has my Complete and Total Endorsement for Re-Election! Early Voting is underway NOW, and Election Day is August 18th. GET OUT AND VOTE FOR ANNA PAULINA LUNA — SHE WILL NEVER LET YOU DOWN! Find your Voting Location here:",
+        "url": "https://www.trumpstruth.org/statuses/40780",
+        "published_at": "2026-08-12T22:05:21"
       },
       {
-        "title": "[No Title] - Post from August 12, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40746",
-        "published_at": "2026-08-12T01:38:36"
+        "title": "Congresswoman Laurel Lee is an incredible Representative of Florida’s 15th Congressional District! Laurel served as Florida’s Secretary of State for three years, and delivered strong results for families, and businesses. In Congress, Laurel is fighting tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Champion Innovation, Strengthen our Great Military/Veterans, and Protect our always under siege Second Amendment. Laurel Lee has my Complete and Total Endorsement for Re-Election! Early Voting is underway NOW, and Election Day is August 18th. GET OUT AND VOTE FOR LAUREL — SHE WILL NEVER LET YOU DOWN! Find your Voting Location here:",
+        "url": "https://www.trumpstruth.org/statuses/40781",
+        "published_at": "2026-08-12T22:05:03"
       },
       {
-        "title": "[No Title] - Post from August 12, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40739",
-        "published_at": "2026-08-12T01:25:21"
+        "title": "It is my Great Honor to endorse America First Patriot, Sydney Gruters, the wife of our GREAT Chairman of the Republican National Committee, Joe Gruters, who is running to represent the Wonderful People of Florida's 16th Congressional District! A Highly Successful Civic Leader and Public Servant, Sydney has dedicated her life to serving her Community, and she and her family are fierce advocates for our Movement to, MAKE AMERICA GREAT AGAIN! As your next Congresswoman, Sydney will fight tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Support our Military/Veterans, Safeguard our Elections, Champion School Choice, and Defend our always under siege Second Amendment. Sydney Gruters has my Complete and Total Endorsement to be the next Representative from Florida’s 16th Congressional District! Early Voting is underway NOW, and Election Day is August 18th. GET OUT AND VOTE FOR SYDNEY — SHE WILL NEVER LET YOU DOWN! Find your Voting Location here:",
+        "url": "https://www.trumpstruth.org/statuses/40766",
+        "published_at": "2026-08-12T22:04:48"
       },
       {
-        "title": "[No Title] - Post from August 12, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40737",
-        "published_at": "2026-08-12T01:16:36"
+        "title": "Greg Steube is a tremendous Representative for the Great People of Florida’s 17th Congressional District! A Former Captain of the U.S. Army JAG Corps, Greg knows the Wisdom and Courage that is required to Defend our Country, Support our Incredible Military/Veterans, and Champion PEACE THROUGH STRENGTH. In Congress, Greg is working hard to Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion Small Business, Unleash American Energy DOMINANCE, and Defend our always under siege Second Amendment. Greg Steube has my Complete and Total Endorsement for Re-Election! Early Voting is underway NOW, and Election Day is August 18th. GET OUT AND VOTE FOR GREG — HE WILL NEVER LET YOU DOWN! Find your Voting Location here:",
+        "url": "https://www.trumpstruth.org/statuses/40767",
+        "published_at": "2026-08-12T22:04:32"
       },
       {
-        "title": "[No Title] - Post from August 12, 2026",
-        "url": "https://www.trumpstruth.org/statuses/40738",
-        "published_at": "2026-08-12T01:16:36"
+        "title": "Scott Franklin is a fantastic Representative for the Great People of Florida’s 18th Congressional District! A U.S. Naval Academy Graduate and retired Navy Commander, Scott knows the Wisdom and Courage that is required to Defend our Country, Support our incredible Military/Veterans, and Ensure PEACE THROUGH STRENGTH. In Congress, Scott is working hard to Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, and Protect our always under siege Second Amendment. Scott Franklin has my Complete and Total Endorsement for Re-Election! Early Voting is underway NOW, and Election Day is August 18th. GET OUT AND VOTE FOR SCOTT — HE WILL NEVER LET YOU DOWN! Find your Voting Location here:",
+        "url": "https://www.trumpstruth.org/statuses/40760",
+        "published_at": "2026-08-12T22:04:09"
       }
     ]
   }
