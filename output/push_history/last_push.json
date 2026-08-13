@@ -1,7 +1,37 @@
 {
-  "push_time": "2026-08-13T07:12:00.258410+08:00",
+  "push_time": "2026-08-13T21:59:02.250050+08:00",
   "feeds": {
     "Elon Musk (X/Twitter)": [
+      {
+        "title": "Video",
+        "url": "https://nitter.net/elonmusk/status/2087822520128823438#m",
+        "published_at": "2026-08-13T08:44:13"
+      },
+      {
+        "title": "RT by @elonmusk: one best thing about Grok 4.6 is that you don't have to set a goal or loop It now works for a long time autonomously as long as it can finish the job and it really really tries to finish the job",
+        "url": "https://nitter.net/XFreeze/status/2087769103821918619#m",
+        "published_at": "2026-08-13T05:11:57"
+      },
+      {
+        "title": "Video",
+        "url": "https://nitter.net/elonmusk/status/2087760446212522196#m",
+        "published_at": "2026-08-13T04:37:33"
+      },
+      {
+        "title": "Grok 4.6 has a great sense of humor 😂",
+        "url": "https://nitter.net/elonmusk/status/2087760069693997530#m",
+        "published_at": "2026-08-13T04:36:03"
+      },
+      {
+        "title": "RT by @elonmusk: I’m not sure who made this. But it rocks.",
+        "url": "https://nitter.net/BasedMikeLee/status/2087723917112721847#m",
+        "published_at": "2026-08-13T02:12:24"
+      },
+      {
+        "title": "RT by @elonmusk: Maybe it's just because it's new and shiny but I'm obsessed with with Grok Bot. The form factor is so fun, especially when combined with text to speech. You can FLY. Automations just work, cross-bot messaging works perfectly (I do most everything through my \"chief of staff\").",
+        "url": "https://nitter.net/Austen/status/2087685264617406963#m",
+        "published_at": "2026-08-12T23:38:49"
+      },
       {
         "title": "Grok 4.6 reaches #1 on @databricks",
         "url": "https://nitter.net/elonmusk/status/2087668743929487420#m",
@@ -48,26 +78,6 @@
         "published_at": "2026-08-12T17:09:18"
       },
       {
-        "title": "Grok is the most efficient high intelligence AI",
-        "url": "https://nitter.net/elonmusk/status/2087586860868755703#m",
-        "published_at": "2026-08-12T17:07:47"
-      },
-      {
-        "title": "Grok 4.6 is objectively #1 when considering intelligence, speed & cost",
-        "url": "https://nitter.net/elonmusk/status/2087586063682596905#m",
-        "published_at": "2026-08-12T17:04:37"
-      },
-      {
-        "title": "Yes",
-        "url": "https://nitter.net/elonmusk/status/2087585217842487424#m",
-        "published_at": "2026-08-12T17:01:16"
-      },
-      {
-        "title": "RT by @elonmusk: Grok 4.6 is now one of the top models in the world for agentic workflows It ranks #1 on the Artificial Analysis Agentic Index, tied with Claude Opus 5 Max Agentic AI is about more than answering questions It measures: • Tool use • Planning • Autonomy • Complex problem solving Grok 4.6 tops the chart",
-        "url": "https://nitter.net/XFreeze/status/2087581722116505959#m",
-        "published_at": "2026-08-12T16:47:22"
-      },
-      {
         "title": "RT by @elonmusk: Congrats to the @SpaceXAI team on the release of Grok 4.6. Grok 4.6 brings frontier intelligence, running and trained on NVIDIA GB300 NVL72 with NVLink to deliver exceptional performance, reliability and lowest token cost.",
         "url": "https://nitter.net/nvidia/status/2087576824159297605#m",
         "published_at": "2026-08-12T16:27:54"
@@ -83,11 +93,6 @@
         "published_at": "2026-08-12T15:52:00"
       },
       {
-        "title": "Grok 4.6 is a banger",
-        "url": "https://nitter.net/elonmusk/status/2087566406921617534#m",
-        "published_at": "2026-08-12T15:46:31"
-      },
-      {
         "title": "RT by @elonmusk: Excited to release Grok 4.6. With each release, Grok is becoming a more capable digital colleague. 4.6 is significantly better at difficult tasks and knowledge work. It combines Opus-class intelligence and polish with very low cost and high speed.",
         "url": "https://nitter.net/mntruell/status/2087565040677454327#m",
         "published_at": "2026-08-12T15:41:05"
@@ -99,6 +104,21 @@
       }
     ],
     "Trump (Truth Social)": [
+      {
+        "title": "[No Title] - Post from August 13, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40787",
+        "published_at": "2026-08-13T12:38:16"
+      },
+      {
+        "title": "[No Title] - Post from August 13, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40786",
+        "published_at": "2026-08-13T00:02:57"
+      },
+      {
+        "title": "[No Title] - Post from August 12, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40785",
+        "published_at": "2026-08-12T23:51:52"
+      },
       {
         "title": "I am pleased to announce the nomination of Lee Rudofsky to the United States Court of Appeals for the Eighth Circuit! Lee is currently a distinguished Federal District Court Judge in Arkansas. He previously was Solicitor General of Arkansas, and Assistant General Counsel of Walmart. He is a Graduate of Harvard Law School and Cornell University. Lee will be a rock solid defender of the Constitution on the Eighth Circuit. Congratulations Lee! President DONALD J. TRUMP",
         "url": "https://www.trumpstruth.org/statuses/40784",
@@ -183,21 +203,6 @@
         "title": "Congresswoman Laurel Lee is an incredible Representative of Florida’s 15th Congressional District! Laurel served as Florida’s Secretary of State for three years, and delivered strong results for families, and businesses. In Congress, Laurel is fighting tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Champion Innovation, Strengthen our Great Military/Veterans, and Protect our always under siege Second Amendment. Laurel Lee has my Complete and Total Endorsement for Re-Election! Early Voting is underway NOW, and Election Day is August 18th. GET OUT AND VOTE FOR LAUREL — SHE WILL NEVER LET YOU DOWN! Find your Voting Location here:",
         "url": "https://www.trumpstruth.org/statuses/40781",
         "published_at": "2026-08-12T22:05:03"
-      },
-      {
-        "title": "It is my Great Honor to endorse America First Patriot, Sydney Gruters, the wife of our GREAT Chairman of the Republican National Committee, Joe Gruters, who is running to represent the Wonderful People of Florida's 16th Congressional District! A Highly Successful Civic Leader and Public Servant, Sydney has dedicated her life to serving her Community, and she and her family are fierce advocates for our Movement to, MAKE AMERICA GREAT AGAIN! As your next Congresswoman, Sydney will fight tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Support our Military/Veterans, Safeguard our Elections, Champion School Choice, and Defend our always under siege Second Amendment. Sydney Gruters has my Complete and Total Endorsement to be the next Representative from Florida’s 16th Congressional District! Early Voting is underway NOW, and Election Day is August 18th. GET OUT AND VOTE FOR SYDNEY — SHE WILL NEVER LET YOU DOWN! Find your Voting Location here:",
-        "url": "https://www.trumpstruth.org/statuses/40766",
-        "published_at": "2026-08-12T22:04:48"
-      },
-      {
-        "title": "Greg Steube is a tremendous Representative for the Great People of Florida’s 17th Congressional District! A Former Captain of the U.S. Army JAG Corps, Greg knows the Wisdom and Courage that is required to Defend our Country, Support our Incredible Military/Veterans, and Champion PEACE THROUGH STRENGTH. In Congress, Greg is working hard to Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion Small Business, Unleash American Energy DOMINANCE, and Defend our always under siege Second Amendment. Greg Steube has my Complete and Total Endorsement for Re-Election! Early Voting is underway NOW, and Election Day is August 18th. GET OUT AND VOTE FOR GREG — HE WILL NEVER LET YOU DOWN! Find your Voting Location here:",
-        "url": "https://www.trumpstruth.org/statuses/40767",
-        "published_at": "2026-08-12T22:04:32"
-      },
-      {
-        "title": "Scott Franklin is a fantastic Representative for the Great People of Florida’s 18th Congressional District! A U.S. Naval Academy Graduate and retired Navy Commander, Scott knows the Wisdom and Courage that is required to Defend our Country, Support our incredible Military/Veterans, and Ensure PEACE THROUGH STRENGTH. In Congress, Scott is working hard to Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, and Protect our always under siege Second Amendment. Scott Franklin has my Complete and Total Endorsement for Re-Election! Early Voting is underway NOW, and Election Day is August 18th. GET OUT AND VOTE FOR SCOTT — HE WILL NEVER LET YOU DOWN! Find your Voting Location here:",
-        "url": "https://www.trumpstruth.org/statuses/40760",
-        "published_at": "2026-08-12T22:04:09"
       }
     ]
   }
