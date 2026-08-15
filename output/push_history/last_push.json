@@ -1,7 +1,67 @@
 {
-  "push_time": "2026-08-14T21:54:19.686059+08:00",
+  "push_time": "2026-08-15T21:09:17.998789+08:00",
   "feeds": {
     "Elon Musk (X/Twitter)": [
+      {
+        "title": "RT by @elonmusk: If you want to learn how to run one: https://somethingbig.ai/gauntlet-loop Grok Build harness is likely best but you can also run this in Grok Bot!",
+        "url": "https://nitter.net/mattshumer_/status/2088487331372089560#m",
+        "published_at": "2026-08-15T04:45:56"
+      },
+      {
+        "title": "Grok 4.6 runs The Gauntlet",
+        "url": "https://nitter.net/elonmusk/status/2088484972965298489#m",
+        "published_at": "2026-08-15T04:36:34"
+      },
+      {
+        "title": "😂",
+        "url": "https://nitter.net/elonmusk/status/2088463985938944130#m",
+        "published_at": "2026-08-15T03:13:10"
+      },
+      {
+        "title": "Any censorship required by governments is now clearly visible",
+        "url": "https://nitter.net/elonmusk/status/2088445767673369044#m",
+        "published_at": "2026-08-15T02:00:47"
+      },
+      {
+        "title": "Grok 4.6 now in Copilot",
+        "url": "https://nitter.net/elonmusk/status/2088443051890917436#m",
+        "published_at": "2026-08-15T01:49:59"
+      },
+      {
+        "title": "RT by @elonmusk: Government-owned airports cannot favor one religion over all others. DFW plans to install Islamic wudu washing facilities are illegal. I've directed a review of all state grants to both airports for possible revocation, and referred DFW & IAH to USDOT for investigation. Texas will not allow illegal religious discrimination at taxpayer-funded facilities.",
+        "url": "https://nitter.net/GregAbbott_TX/status/2088411718628049370#m",
+        "published_at": "2026-08-14T23:45:29"
+      },
+      {
+        "title": "RT by @elonmusk: \"I used to always wonder about my reach and visibility and was convinced something was wrong with my account. But it turns out my assumptions were wrong.\" Now you can check & verify.",
+        "url": "https://nitter.net/kcoleman/status/2088374532935414218#m",
+        "published_at": "2026-08-14T21:17:43"
+      },
+      {
+        "title": "Orbital compute will be the only way to scale AI probably sometime in 2029 due to power availability& permitting problems on land",
+        "url": "https://nitter.net/elonmusk/status/2088306926442430578#m",
+        "published_at": "2026-08-14T16:49:04"
+      },
+      {
+        "title": "Yes",
+        "url": "https://nitter.net/elonmusk/status/2088286607077990820#m",
+        "published_at": "2026-08-14T15:28:20"
+      },
+      {
+        "title": "RT by @elonmusk: Cursor has officially joined SpaceX. We’re grateful to become part of such a special company, and it has been a privilege working with the SpaceXAI team. Lots ahead.",
+        "url": "https://nitter.net/mntruell/status/2088277505933488137#m",
+        "published_at": "2026-08-14T14:52:10"
+      },
+      {
+        "title": "RT by @elonmusk: \"Cursor and SpaceXAI are a deep cultural fit with one another. They both work with a pace and intensity that borders on the absurd. And they’re both defined by iteration.\" \"It doesn’t matter if you get it wrong the first time, or the second, or the third—even the tenth or the twentieth. Just keep on going. If you’re moving in the right direction faster than anyone else, you’ll probably win.\" \"Cursor reinvented itself as a company not once but twice: first, from email client to tab-complete IDE and token reseller; and again, from tab-complete IDE and token reseller to AI lab and token creator.\" \"And it did all of that in less than four years.\" \"They really, really want to win.\" Full piece from @sarahdingwang, @BornsteinMatt, and @martin_casado on Cursor + SpaceXAI: https://www.a16z.news/p/cursor-spacexai-fastest-iterating-team",
+        "url": "https://nitter.net/a16z/status/2088274689303224817#m",
+        "published_at": "2026-08-14T14:40:58"
+      },
+      {
+        "title": "It is an honor to have such a great team join @SpaceX",
+        "url": "https://nitter.net/elonmusk/status/2088273489820061920#m",
+        "published_at": "2026-08-14T14:36:12"
+      },
       {
         "title": "How to use @bot",
         "url": "https://nitter.net/elonmusk/status/2088149393731981516#m",
@@ -23,26 +83,6 @@
         "published_at": "2026-08-14T05:09:48"
       },
       {
-        "title": "Try Grok 4.6 image & video understanding, it’s a major upgrade!",
-        "url": "https://nitter.net/elonmusk/status/2088127459971522726#m",
-        "published_at": "2026-08-14T04:55:56"
-      },
-      {
-        "title": "Kekius Maximus",
-        "url": "https://nitter.net/elonmusk/status/2088124576685281766#m",
-        "published_at": "2026-08-14T04:44:29"
-      },
-      {
-        "title": "Pinned: Grok 4.6 will work best with the Grok Build harness. The experience will be significantly worse without it, so best to evaluate using Build. https://Grok.com/build",
-        "url": "https://nitter.net/elonmusk/status/2088100521261359218#m",
-        "published_at": "2026-08-14T03:08:53"
-      },
-      {
-        "title": "RT by @elonmusk: He built the computer vision system in my oven. (True story). So when he praises something I listen a little harder.",
-        "url": "https://nitter.net/Scobleizer/status/2088085637803175991#m",
-        "published_at": "2026-08-14T02:09:45"
-      },
-      {
         "title": "RT by @elonmusk: Grok 4.6 from @SpaceXAI on ARC-AGI (Verified): - ARC-AGI-1: 87.5%, $0.30/task - ARC-AGI-2: 67.1%, $0.76/task - ARC-AGI-3: 2.11%, $5.6K On ARC-AGI-3, Grok 4.6 with xhigh reasoning scored comparably to GPT-5.6 Sol with high reasoning, but cost $5.6K versus Sol's $15.2K.",
         "url": "https://nitter.net/arcprize/status/2088073208268284352#m",
         "published_at": "2026-08-14T01:20:22"
@@ -53,146 +93,111 @@
         "published_at": "2026-08-14T01:08:35"
       },
       {
-        "title": "Tesla self-driving is amazing",
-        "url": "https://nitter.net/elonmusk/status/2088037519312994480#m",
-        "published_at": "2026-08-13T22:58:33"
-      },
-      {
         "title": "RT by @elonmusk: Use Grok 4.6 for CAD",
         "url": "https://nitter.net/grok/status/2088034663004770667#m",
         "published_at": "2026-08-13T22:47:12"
-      },
-      {
-        "title": "RT by @elonmusk: We don’t just build in Memphis – we live, work, and invest here. We are committed to being good neighbors and responsible partners. Since joining the community in 2024, SpaceXAI has paid $30 million in taxes, supporting essential local services, public education, infrastructure, and more. We’re proud to call Memphis home – the road to understanding the universe starts here.",
-        "url": "https://nitter.net/SpaceXAIMemphis/status/2088019251290341427#m",
-        "published_at": "2026-08-13T21:45:57"
-      },
-      {
-        "title": "RT by @elonmusk: Unlike her bro, she doesn't try to hide it",
-        "url": "https://nitter.net/EndWokeness/status/2088016559755211058#m",
-        "published_at": "2026-08-13T21:35:15"
-      },
-      {
-        "title": "RT by @elonmusk: Just took a Tesla Robotaxi ride in an area of Austin where the normal wait in the past was up to 20 minutes and my wait was only two minutes and this was consistent every time I did this!",
-        "url": "https://nitter.net/gailalfaratx/status/2088012952624418880#m",
-        "published_at": "2026-08-13T21:20:55"
-      },
-      {
-        "title": "RT by @elonmusk: I’ve had my @Tesla for 9 days—and it’s already saved my life. Full Self-Driving with HW4 is mind-blowing. My car drove me ~800 miles from Georgia to Texas without me touching the wheel or pedals, while avoiding multiple collisions. I’ve never felt safer in a vehicle. Here’s one example of a collision avoided, automatically captured on camera. In this instance (though it doesn’t show my actual POV), sparks covered the windshield, lighting up the road like the Fourth of July and obstructing my view. Since I was in FSD, the car reacted immediately without overcorrecting like I likely would have, which could have led to a far worse outcome. Everyone who’s ridden with me and experienced FSD for the first time is blown away and now looking into buying one—including my parents, who like me have never owned an EV. There’s no telling how many lives this technology will save. This is hands-down the most incredible purchase I’ve ever made. God bless @elonmusk & the Tesla team🫡",
-        "url": "https://nitter.net/TexasLindsay_/status/2087948377770119594#m",
-        "published_at": "2026-08-13T17:04:20"
-      },
-      {
-        "title": "RT by @elonmusk: Grok 4.6 is now available in Warp and the Warp Agent CLI. Run /connect-grok in Warp to sign in with your X Premium or SuperGrok subscription to get started right away.",
-        "url": "https://nitter.net/warpdotdev/status/2087935553790410954#m",
-        "published_at": "2026-08-13T16:13:22"
-      },
-      {
-        "title": "RT by @elonmusk: grok 4.6 is live! a write up on my learnings, findings and tips to using the model!",
-        "url": "https://nitter.net/ericzakariasson/status/2087566447178547494#m",
-        "published_at": "2026-08-12T15:46:40"
       }
     ],
     "Trump (Truth Social)": [
       {
-        "title": "Our beautiful World War II Memorial was just hit by Spray Painting Vandals. THERE CAN BE NO GREATER INSULT TO THOSE AMERICAN HEROES WHO DIED IN WORLD WAR II. First the Reflecting Pool, now this. We are on their trail! Where do these animals come from??? President DJT",
-        "url": "https://www.trumpstruth.org/statuses/40818",
-        "published_at": "2026-08-14T12:52:18"
-      },
-      {
-        "title": "Bessent to Newsmax: US to Hit Iran With Unprecedented Economic Isolation:",
-        "url": "https://www.trumpstruth.org/statuses/40817",
-        "published_at": "2026-08-14T12:13:30"
-      },
-      {
         "title": "White House report details ‘Great Transshipment Scam’ costing tens of billions in tariff evasion:",
-        "url": "https://www.trumpstruth.org/statuses/40816",
-        "published_at": "2026-08-14T04:18:52"
+        "url": "https://www.trumpstruth.org/statuses/40869",
+        "published_at": "2026-08-15T12:31:50"
       },
       {
-        "title": "Tonight at 9 PM ET, on ABC News, I will be hosting “The Patriot Games,” an Athletic Competition featuring many great young people from across the Country, all of whom participated in the celebration of our Nation’s 250th Birthday! It is my Great Honor to host the Final Games, and cheer on these very special young American Athletes. TUNE IN! President DONALD J. TRUMP",
-        "url": "https://www.trumpstruth.org/statuses/40815",
-        "published_at": "2026-08-14T00:01:00"
+        "title": "Unmasking the Dual Justice System - Peter Navarro on China's Intrusions and the Weaponization of Government:",
+        "url": "https://www.trumpstruth.org/statuses/40870",
+        "published_at": "2026-08-15T12:31:30"
       },
       {
-        "title": "RT @realDonaldTrumpIt is my Great Honor to endorse America First Patriot, Catalina Lauf, who is running to represent the tremendous people of Florida’s 19th Congressional District! As a former Presidential Appointee at the U.S. Department of Commerce in my First Administration, Catalina has proven she has the Courage and Wisdom to deliver strong results for the incredible people of her State and Nation — She has truly been with us from the beginning! As your next Congresswoman, Catalina will fight tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Support our Military/Veterans, Advance Election Integrity, and Defend our always under siege Second Amendment. Catalina Lauf has my Complete and Total Endorsement to be the next Congresswoman from Florida’s 19th Congressional District — SHE WILL NEVER LET YOU DOWN!",
-        "url": "https://www.trumpstruth.org/statuses/40814",
-        "published_at": "2026-08-13T23:14:40"
+        "title": "Jim Jordan blasts FBI Round River as 'operation to protect Joe Biden', obstruct Congress:",
+        "url": "https://www.trumpstruth.org/statuses/40871",
+        "published_at": "2026-08-15T12:31:11"
       },
       {
-        "title": "RT @realDonaldTrumpState Representative “MAGA” Meg Weinberger is an America First Patriot who is doing an incredible job representing Florida’s 94th State House District!Meg is MAGA all the way, and has been with us from the very beginning, helping advance our AMERICA FIRST Agenda. In the State House, she is working tirelessly to Grow our Economy, Cut Taxes and Regulations, Champion American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, Safeguard our Elections, and Defend our always under siege Second Amendment.“MAGA” Meg Weinberger has my Complete and Total Endorsement for Re-Election — SHE WILL NEVER LET YOU DOWN!",
-        "url": "https://www.trumpstruth.org/statuses/40811",
-        "published_at": "2026-08-13T23:14:37"
+        "title": "President Trump stops New York speech to comfort parents of 12-year-old killed by stray bullet:",
+        "url": "https://www.trumpstruth.org/statuses/40872",
+        "published_at": "2026-08-15T12:30:48"
       },
       {
-        "title": "RT @realDonaldTrumpI am looking forward to being back in the Great State of New York tomorrow, where Highly Respected and very popular Nassau County Executive, Bruce Blakeman, is running to be the next Governor! Bruce is MAGA all the way, and has been with me from the very beginning. As Nassau County Executive, he is working tirelessly with the Brave Heroes of ICE, Border Patrol, and Law Enforcement to Keep Our Border SECURE, Stop Migrant Crime, Safeguard our Community, and Ensure LAW AND ORDER. As your next Governor, Bruce will continue to fight hard to Grow the Economy, Cut Taxes, and Regulations, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Strengthen our Military/Veterans, Advance Election Integrity, and Protect our always under siege Second Amendment! Bruce Blakeman is a FANTASTIC guy, will win the big November Election and, without hesitation, has my Complete and Total Endorsement for Governor of the ONCE GREAT STATE OF NEW YORK. BRUCE WILL MAKE IT GREAT AGAIN, AND WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
-        "url": "https://www.trumpstruth.org/statuses/40812",
-        "published_at": "2026-08-13T23:14:22"
+        "title": "RT @realDonaldTrumpThese are the TREASONISTS that brought the suit against the Military. They revealed Top Military Secrets! “The National Trust for Historic Preservation” is a beautiful name, but even their name is fake because when they add the words “in the United States” to the National Trust for Historic Preservation, it makes it sound like a Governmental Agency, which it is not. In fact, the United States refused to continue funding it in 2005 because they strongly disagreed with their mission and objectives. They are very bad for our Country. They stop many projects that are worthy, and hurt many others. In this case, they are trying to stop one that is vital to our National Security, and the Safety of all Presidents of the United States, both current and future, their families, staff, and Cabinet members. They were asked by the United States Military not to bring this suit because of the Top Secret nature of the important facility being built. They were shown detailed plans and specifications of this knitted, unified, and cohesive structure by Top Officers and Leaders in both the Military and Secret Service. But this did not deter them because they suffer from Trump Derangement Syndrome, commonly referred to as TDS, as noted by Democrat Senator John Fetterman, of Pennsylvania. The lower section does not work without the upper section and, likewise, the upper section does not work without the lower. It is all one highly integrated unit. The then President of the National Trust, who brought the case, Carol Quillen, had no background in Historic Preservation, and has been replaced, unanimously, effective immediately. This is similar to her departure from Davidson College, where she was, likewise, dismissed, but the people of our Country are forced to live on with her bad decision, especially that of revealing to everyone, including our enemies throughout the World, the Top Secret Military features of the Building that are already built, and/or under construction, such as the DronePort, which occupies the entire roof. There is absolutely no argument that a woman walking her dog in the vicinity of the White House has STANDING to stop such a desperately needed National Security structure for the people of the United States of America, as it will provide Presidents, current and future, a secure space to do their jobs, especially when she never saw the Building, because it had not risen, and she had no rendering, or pictures of the Building because they, also, were in the formative stages of production. This woman is not a “walker,” she is an activist, or serial plaintiff, who is involved in much other frivolous litigation throughout the City. In fact, whenever the National Trust files a lawsuit, she seems to be involved. So, she walked at the site of the White House, where there was no Building, and it bothered her, but she also walks in front of all of those other places, where she must also be bothered, and hence, additional court cases? She has no Clearances, or expertise whatsoever, in National Security, Defense, or required protections for the President. She has absolutely no standing to be involved in this case and, in fact, her name is not even mentioned as a plaintiff in the case! It is this kind of gross and flagrant abuse of our Courts that is exactly why Americans are losing faith in our System of Justice. It is so bad for our Country! President DONALD J. TRUMP",
+        "url": "https://www.trumpstruth.org/statuses/40864",
+        "published_at": "2026-08-15T02:17:47"
       },
       {
-        "title": "RT @realDonaldTrumpIt is my Great Honor to endorse America First Patriot, Kailee Buller, who is running to represent the Fantastic People of New York’s 22nd Congressional District! As the former Chief of Staff at the U.S. Department of Agriculture in my Administration, Kailee has proven she has the Courage and Wisdom to deliver strong results for the incredible people of her State, and our Nation. She has truly been with us from the beginning! Her opponent, John Mannion, voted against NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. No more Thanksgiving if John Mannion and the Dumocrats get in! On the other hand, as your next Congresswoman, Kailee will work hard to Grow our Economy, Cut Taxes and Regulations, Support our Amazing Farmers and Ranchers, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Strengthen our Military, Veterans, and Law Enforcement, and Defend our always under siege Second Amendment. Kailee Buller has my Complete and Total Endorsement to be the next Congresswoman from New York’s 22nd Congressional District — SHE WILL NEVER LET YOU DOWN!",
-        "url": "https://www.trumpstruth.org/statuses/40813",
-        "published_at": "2026-08-13T23:14:15"
+        "title": "RT @realDonaldTrumpJay Clayton, Director of National Intelligence: “The Project is critical for ensuring the White House can serve as a secure location for the gathering of the President, gathering of senior government officials, and gatherings that further the interests of the United States. The Project on the Complex also will improve the level of protection and ability to manage and mitigate threats to the President and senior government officials and will enhance the handling, management, and utilization of IC information, including the conduct of IC-directed support to the Complex.”",
+        "url": "https://www.trumpstruth.org/statuses/40865",
+        "published_at": "2026-08-15T02:17:44"
       },
       {
-        "title": "It is my Great Honor to endorse Highly Respected Hempstead Town Receiver, Jeanine Driscoll, who is running to represent the tremendous people of New York’s 4th Congressional District! As the Receiver of Taxes in America’s largest town, Jeanine knows the AMERICA FIRST Policies required to Grow our Economy, Create GREAT Jobs, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., and Unleash American Energy DOMINANCE. Her opponent, Laura Gillen, voted against NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if she and the Dumocrats ever got in, all of these things would be terminated. She wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender for Everybody. On the other hand, Jeanine Driscoll will work tirelessly to Safeguard our Elections, Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Strengthen our Incredible Military/Veterans, and Defend our always under siege Second Amendment. Jeanine Driscoll has my Complete and Total Endorsement to be the next Representative from New York’s 4th Congressional District – SHE WILL NEVER LET YOU DOWN!",
-        "url": "https://www.trumpstruth.org/statuses/40810",
-        "published_at": "2026-08-13T22:26:37"
+        "title": "RT @realDonaldTrumpDan Caine, Chairman of the Joint Chiefs of Staff: “I declare there is a valid military requirement for a secure, state-of-the-art facility that provides for the physical protection of the President and the command, control, and communication capabilities necessary for the President to carry out his Commander-in-Chief responsibilities over the United States Armed Forces anywhere across the globe at any time.”",
+        "url": "https://www.trumpstruth.org/statuses/40866",
+        "published_at": "2026-08-15T02:17:41"
       },
       {
-        "title": "It is my Great Honor to endorse America First Patriot, Catalina Lauf, who is running to represent the tremendous people of Florida’s 19th Congressional District! As a former Presidential Appointee at the U.S. Department of Commerce in my First Administration, Catalina has proven she has the Courage and Wisdom to deliver strong results for the incredible people of her State and Nation — She has truly been with us from the beginning! As your next Congresswoman, Catalina will fight tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Support our Military/Veterans, Advance Election Integrity, and Defend our always under siege Second Amendment. Catalina Lauf has my Complete and Total Endorsement to be the next Congresswoman from Florida’s 19th Congressional District — SHE WILL NEVER LET YOU DOWN!",
-        "url": "https://www.trumpstruth.org/statuses/40809",
-        "published_at": "2026-08-13T22:15:16"
+        "title": "RT @realDonaldTrumpSecretary of State Marco Rubio: “In my work with heads of state and foreign ministers, I am frequently hosted in reception facilities that are visually impressive and reflective of the wealth and beauty of the nations I am visiting. In the United States, by contrast, we currently lack the ability to hold large events of a similar magnitude on White House grounds for those same heads of state and foreign dignitaries. Instead, we must currently host such visits in plastic or canvas tents on the South Lawn with unsafe and unsanitary portable bathrooms and accommodations unbecoming of our national stature…Our foreign counterparts offer premier security arrangements for United States officials. It is imperative that we not only offer the same level of elite security services, but offer the world’s leading capabilities in an efficient manner on grounds over which we exert permanent control…We must obviously seek every reasonable means to mitigate both the more predictable risks, including weather and physical incursions, but also emerging threats…The East Wing Project is essential to that defensive security posture. The Project is absolutely critical not only for the physical safety of guests, but also for advancing our diplomatic relations and the interests and standing of the United States in the world.”",
+        "url": "https://www.trumpstruth.org/statuses/40867",
+        "published_at": "2026-08-15T02:17:39"
       },
       {
-        "title": "State Representative “MAGA” Meg Weinberger is an America First Patriot who is doing an incredible job representing Florida’s 94th State House District!Meg is MAGA all the way, and has been with us from the very beginning, helping advance our AMERICA FIRST Agenda. In the State House, she is working tirelessly to Grow our Economy, Cut Taxes and Regulations, Champion American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, Safeguard our Elections, and Defend our always under siege Second Amendment.“MAGA” Meg Weinberger has my Complete and Total Endorsement for Re-Election — SHE WILL NEVER LET YOU DOWN!",
-        "url": "https://www.trumpstruth.org/statuses/40808",
-        "published_at": "2026-08-13T21:56:14"
+        "title": "DFW Airport scraps controversial Islamic foot-washing station plan as Texas Gov Abbott takes aim:",
+        "url": "https://www.trumpstruth.org/statuses/40868",
+        "published_at": "2026-08-15T02:17:32"
       },
       {
-        "title": "RT @realDonaldTrumpI am looking forward to being back in the Great State of New York tomorrow, where Highly Respected and very popular Nassau County Executive, Bruce Blakeman, is running to be the next Governor! Bruce is MAGA all the way, and has been with me from the very beginning. As Nassau County Executive, he is working tirelessly with the Brave Heroes of ICE, Border Patrol, and Law Enforcement to Keep Our Border SECURE, Stop Migrant Crime, Safeguard our Community, and Ensure LAW AND ORDER. As your next Governor, Bruce will continue to fight hard to Grow the Economy, Cut Taxes, and Regulations, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Strengthen our Military/Veterans, Advance Election Integrity, and Protect our always under siege Second Amendment! Bruce Blakeman is a FANTASTIC guy, will win the big November Election and, without hesitation, has my Complete and Total Endorsement for Governor of the ONCE GREAT STATE OF NEW YORK. BRUCE WILL MAKE IT GREAT AGAIN, AND WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
-        "url": "https://www.trumpstruth.org/statuses/40798",
-        "published_at": "2026-08-13T21:39:33"
+        "title": "These are the TREASONISTS that brought the suit against the Military. They revealed Top Military Secrets! “The National Trust for Historic Preservation” is a beautiful name, but even their name is fake because when they add the words “in the United States” to the National Trust for Historic Preservation, it makes it sound like a Governmental Agency, which it is not. In fact, the United States refused to continue funding it in 2005 because they strongly disagreed with their mission and objectives. They are very bad for our Country. They stop many projects that are worthy, and hurt many others. In this case, they are trying to stop one that is vital to our National Security, and the Safety of all Presidents of the United States, both current and future, their families, staff, and Cabinet members. They were asked by the United States Military not to bring this suit because of the Top Secret nature of the important facility being built. They were shown detailed plans and specifications of this knitted, unified, and cohesive structure by Top Officers and Leaders in both the Military and Secret Service. But this did not deter them because they suffer from Trump Derangement Syndrome, commonly referred to as TDS, as noted by Democrat Senator John Fetterman, of Pennsylvania. The lower section does not work without the upper section and, likewise, the upper section does not work without the lower. It is all one highly integrated unit. The then President of the National Trust, who brought the case, Carol Quillen, had no background in Historic Preservation, and has been replaced, unanimously, effective immediately. This is similar to her departure from Davidson College, where she was, likewise, dismissed, but the people of our Country are forced to live on with her bad decision, especially that of revealing to everyone, including our enemies throughout the World, the Top Secret Military features of the Building that are already built, and/or under construction, such as the DronePort, which occupies the entire roof. There is absolutely no argument that a woman walking her dog in the vicinity of the White House has STANDING to stop such a desperately needed National Security structure for the people of the United States of America, as it will provide Presidents, current and future, a secure space to do their jobs, especially when she never saw the Building, because it had not risen, and she had no rendering, or pictures of the Building because they, also, were in the formative stages of production. This woman is not a “walker,” she is an activist, or serial plaintiff, who is involved in much other frivolous litigation throughout the City. In fact, whenever the National Trust files a lawsuit, she seems to be involved. So, she walked at the site of the White House, where there was no Building, and it bothered her, but she also walks in front of all of those other places, where she must also be bothered, and hence, additional court cases? She has no Clearances, or expertise whatsoever, in National Security, Defense, or required protections for the President. She has absolutely no standing to be involved in this case and, in fact, her name is not even mentioned as a plaintiff in the case! It is this kind of gross and flagrant abuse of our Courts that is exactly why Americans are losing faith in our System of Justice. It is so bad for our Country! President DONALD J. TRUMP",
+        "url": "https://www.trumpstruth.org/statuses/40863",
+        "published_at": "2026-08-15T02:16:07"
       },
       {
-        "title": "RT @realDonaldTrumpIt is my Great Honor to endorse America First Patriot, Kailee Buller, who is running to represent the Fantastic People of New York’s 22nd Congressional District! As the former Chief of Staff at the U.S. Department of Agriculture in my Administration, Kailee has proven she has the Courage and Wisdom to deliver strong results for the incredible people of her State, and our Nation. She has truly been with us from the beginning! Her opponent, John Mannion, voted against NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. No more Thanksgiving if John Mannion and the Dumocrats get in! On the other hand, as your next Congresswoman, Kailee will work hard to Grow our Economy, Cut Taxes and Regulations, Support our Amazing Farmers and Ranchers, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Strengthen our Military, Veterans, and Law Enforcement, and Defend our always under siege Second Amendment. Kailee Buller has my Complete and Total Endorsement to be the next Congresswoman from New York’s 22nd Congressional District — SHE WILL NEVER LET YOU DOWN!",
-        "url": "https://www.trumpstruth.org/statuses/40799",
-        "published_at": "2026-08-13T21:39:30"
+        "title": "Jay Clayton, Director of National Intelligence: “The Project is critical for ensuring the White House can serve as a secure location for the gathering of the President, gathering of senior government officials, and gatherings that further the interests of the United States. The Project on the Complex also will improve the level of protection and ability to manage and mitigate threats to the President and senior government officials and will enhance the handling, management, and utilization of IC information, including the conduct of IC-directed support to the Complex.”",
+        "url": "https://www.trumpstruth.org/statuses/40860",
+        "published_at": "2026-08-15T02:04:02"
       },
       {
-        "title": "Congresswoman Claudia Tenney is a Fantastic Advocate for the Wonderful People of New York’s 24th Congressional District!As the Chairwoman of the House Election Integrity Caucus, Claudia is an America First Fighter for Safeguarding our Cherished Right to Free and Fair Elections. She is working tirelessly to Grow the Economy, Cut Taxes and Regulations, Keep our Border SECURE, Strengthen our Military/Veterans, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, and Protect our always under siege Second Amendment.Claudia Tenney has my Complete and Total Endorsement for Re-Election – SHE WILL NEVER LET YOU DOWN!",
-        "url": "https://www.trumpstruth.org/statuses/40800",
-        "published_at": "2026-08-13T21:38:56"
+        "title": "Dan Caine, Chairman of the Joint Chiefs of Staff: “I declare there is a valid military requirement for a secure, state-of-the-art facility that provides for the physical protection of the President and the command, control, and communication capabilities necessary for the President to carry out his Commander-in-Chief responsibilities over the United States Armed Forces anywhere across the globe at any time.”",
+        "url": "https://www.trumpstruth.org/statuses/40861",
+        "published_at": "2026-08-15T02:03:23"
       },
       {
-        "title": "Congressman Nick Langworthy is an America First Patriot, who is doing a fantastic job representing New York’s 23rd Congressional District! Nick served as the powerful Chairman of the New York Republican State Committee, prior to becoming a very distinguished and respected U.S. Congressman. A MAGA Warrior, who has been with us from the very beginning, Nick is working hard to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Advance American Energy DOMINANCE, Keep our Border SECURE, Support our Brave Military/Veterans, and Defend our always under siege Second Amendment. Nick Langworthy has my Complete and Total Endorsement for Re-Election — HE WILL NEVER LET YOU DOWN!",
-        "url": "https://www.trumpstruth.org/statuses/40801",
-        "published_at": "2026-08-13T21:38:34"
+        "title": "Secretary of State Marco Rubio: “In my work with heads of state and foreign ministers, I am frequently hosted in reception facilities that are visually impressive and reflective of the wealth and beauty of the nations I am visiting. In the United States, by contrast, we currently lack the ability to hold large events of a similar magnitude on White House grounds for those same heads of state and foreign dignitaries. Instead, we must currently host such visits in plastic or canvas tents on the South Lawn with unsafe and unsanitary portable bathrooms and accommodations unbecoming of our national stature…Our foreign counterparts offer premier security arrangements for United States officials. It is imperative that we not only offer the same level of elite security services, but offer the world’s leading capabilities in an efficient manner on grounds over which we exert permanent control…We must obviously seek every reasonable means to mitigate both the more predictable risks, including weather and physical incursions, but also emerging threats…The East Wing Project is essential to that defensive security posture. The Project is absolutely critical not only for the physical safety of guests, but also for advancing our diplomatic relations and the interests and standing of the United States in the world.”",
+        "url": "https://www.trumpstruth.org/statuses/40862",
+        "published_at": "2026-08-15T02:02:00"
       },
       {
-        "title": "It is my Great Honor to endorse Peter Oberacker, an incredible Candidate who is running to represent the fantastic people of New York’s 19th Congressional District. He is running against Josh Riley, a true Radical Left Extremist who does not represent the Values of Central New York. Josh Riley wants Open Borders, Men playing in Women’s Sports, Transgender for Everyone, Defund the Police, and wants to take away your Second Amendment, meaning, your guns. Sadly, he voted against the Biggest Tax Cut in History, and fought ferociously to knock out Rural Healthcare, a big factor in New York’s District 19. He represented Sleepy Joe Biden as his Counsel, in the White House. How did that work out? He is totally controlled by the Radical Left who have only one goal in mind, DESTROYING OUR COUNTRY! Peter Oberacker, on the other hand, is a very successful “Meat Market” Businessman, Dedicated Public Servant, and now, as State Senator, who has strongly served his Community with a career “loaded up” with accolades and wins. As your next Congressman, he will fight tirelessly to Grow the Economy, Cut Taxes and Regulations, Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Strengthen our Brave Military/Veterans, Advance Election Integrity, and Protect our always under siege Second Amendment. Peter Oberacker has my Complete and Total Endorsement to be the next Representative from New York’s 19th Congressional District — HE WILL NEVER LET YOU DOWN!",
-        "url": "https://www.trumpstruth.org/statuses/40802",
-        "published_at": "2026-08-13T21:38:23"
+        "title": "[No Title] - Post from August 15, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40856",
+        "published_at": "2026-08-15T01:51:47"
       },
       {
-        "title": "Congressman Mike Lawler is a Strong Champion, and Highly Effective Representative, for the Great People of New York’s 17th Congressional District! A true America First Patriot, Mike is fighting hard to Grow our Economy, Create Jobs, Lower Taxes, Promote American Energy DOMINANCE, Keep our Border SECURE, Support our Brave Military/Veterans and Law Enforcement, Defend our always under siege Second Amendment. Additionally, he worked tirelessly to successfully increase the SALT deduction for the Working Men and Women of the Great State of New York! Mike is doing an outstanding job representing the Hudson Valley, and all of New York. Because of the excellent job he is doing, Mike has my Complete and Total Endorsement for Re-Election to New York’s 17th Congressional District – HE WILL NEVER LET YOU DOWN!",
-        "url": "https://www.trumpstruth.org/statuses/40803",
-        "published_at": "2026-08-13T21:38:14"
+        "title": "[No Title] - Post from August 15, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40857",
+        "published_at": "2026-08-15T01:51:37"
       },
       {
-        "title": "Congresswoman Nicole Malliotakis is a Tremendous Champion for New York’s 11th Congressional District! As a Member of the POWERFUL Ways & Means Committee, Nicole knows the America First Policies required to Create GREAT Jobs, Cut Taxes and Regulations, and Champion our Nation’s Golden Age. She is working hard to Advance American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our Border SECURE, Strengthen our Brave Military/Veterans, Champion the Incredible NYPD and NYFD, and Protect our always under siege Second Amendment. Nicole Malliotakis has my Complete and Total Endorsement for Re-Election — SHE WILL NEVER LET YOU DOWN!",
-        "url": "https://www.trumpstruth.org/statuses/40804",
-        "published_at": "2026-08-13T21:38:04"
+        "title": "[No Title] - Post from August 15, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40858",
+        "published_at": "2026-08-15T01:51:31"
       },
       {
-        "title": "It is my Great Honor to endorse MAGA Warrior, Mike LiPetri, who is running to represent the fantastic people of New York’s 3rd Congressional District against a Congressman who has proven to be a Radical Left Lunatic, who wants Open Borders, Men playing in Women’s Sports, Transgender for Everyone, Defund the Police, and your Guns, forget about them, he wants to take them away — He is against the Second Amendment. His name is Tom Suozzi, and he voted against the Biggest Tax Cut in the History of our Country, including SALT! In addition, using Insider Information that only a Congressman would have, he scandalously made a lot of money playing with Stocks. “Long Island Representative Tom Suozzi beats Pelosi’s stock portfolio performance with 35% return” — The New York Post. This is not what New York’s 3rd Congressional District wants. Frankly, he should be banned from Congress, not running for it! Mike LiPetri, on the other hand, is a very successful Attorney and former New York State Assemblyman, who has dedicated his life to serving his Community. As your next Congressman, Mike will fight tirelessly to Grow our Economy, Advance American Energy DOMINANCE, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Support our Military, Veterans, and Police, Defend our always under siege Second Amendment, and Ensure PEACE THROUGH STRENGTH. Mike LiPetri has my Complete and Total Endorsement to be the next Representative from New York’s 3rd Congressional District — HE WILL NEVER LET YOU DOWN!",
-        "url": "https://www.trumpstruth.org/statuses/40805",
-        "published_at": "2026-08-13T21:37:54"
+        "title": "[No Title] - Post from August 15, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40859",
+        "published_at": "2026-08-15T01:51:21"
       },
       {
-        "title": "Congressman Andrew Garbarino is a Fierce Advocate for Long Island, and the Great People of New York’s 2nd Congressional District! Andrew has an incredible Record of Success, and strong support from his Community. In Congress, he is fighting tirelessly to Grow our Economy, Cut Taxes and Regulations, Keep our Border SECURE, Support our Incredible Military/Veterans, Champion American Energy DOMINANCE, and Protect our always under siege Second Amendment. Andrew Garbarino has my Complete and Total Endorsement for Re-Election – HE WILL NEVER LET YOU DOWN!",
-        "url": "https://www.trumpstruth.org/statuses/40806",
-        "published_at": "2026-08-13T21:37:09"
+        "title": "[No Title] - Post from August 15, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40833",
+        "published_at": "2026-08-15T01:49:33"
+      },
+      {
+        "title": "[No Title] - Post from August 15, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40834",
+        "published_at": "2026-08-15T01:49:25"
+      },
+      {
+        "title": "[No Title] - Post from August 15, 2026",
+        "url": "https://www.trumpstruth.org/statuses/40835",
+        "published_at": "2026-08-15T01:49:11"
       }
     ]
   }
